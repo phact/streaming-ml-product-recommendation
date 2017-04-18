@@ -1,0 +1,4 @@
+baseURL = "http://localhost/book/"
+languageCode = "en-us"
+title = "PowerTools ML Streaming Product Recommendations Docs"
+theme = "hugo-theme-learn"
