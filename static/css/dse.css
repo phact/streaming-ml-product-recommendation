@@ -5,6 +5,10 @@
     background: #ca5f14;
 }
 
+#footer{
+    display:none
+}
+
 /* Background color of the menu */
 #sidebar {
   background-color: #007a97;
