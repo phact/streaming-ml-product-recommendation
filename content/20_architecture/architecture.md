@@ -11,10 +11,12 @@ This section details the architecture demonstrated in this reference field asset
 <div title="rendered dynamically" align="middle">
 {{< mermaid >}}
 graph LR
-A["Queue"]-->B["DSE Streaming Analytics"]
+C["Client"]
+A["Queue"]--"Streaming predictors"-->B["DSE Streaming Analytics"]
 B-->C["DSE"]
-C<--"JDBC/SQL"-->D["Client"]
-D<--"JDBC/SQL"-->C["Client"]
+C--"JDBC/SQL"-->D["Client"]
+D--"JDBC/SQL"-->C
+E["DSEFS"]--"Batch training"-->B
 {{< /mermaid >}}
 </div>
 
