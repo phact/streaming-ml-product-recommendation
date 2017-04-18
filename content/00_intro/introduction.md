@@ -1,6 +1,6 @@
 +++
 date = "2017-04-10T14:21:00-05:00"
-title = "Power Tools ML Streaming Product Recommendations"
+title = "PowerTools Streaming ML Product Recommendation Asset"
 weight = 1
 +++
 

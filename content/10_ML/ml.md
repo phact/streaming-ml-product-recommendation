@@ -1,7 +1,7 @@
 +++
 date = "2017-04-10T14:21:00-05:00"
 title = "Machine Learning"
-weight = 1 
+weight = 2 
 +++
 
 DSE Analytics comes equipped with Machine Learning capabilities as part of its distributed compute framework. The algorithms available fall into the following groups:
@@ -25,15 +25,15 @@ Users should carefuly select the algorithms that will be relevant for the partic
 
 In this use case we focus on a class of algorithms known as Collaborative Filtering and more specifically, we leverage Alternating Least Squares (ALS), due to the large data volumes and preformance requirements of of real-time operational recommendation systems.
 
-####Collaborative Filtering 
+#### Collaborative Filtering 
 
 Common ML technique for recommendation engines. Underlying assumption is that similar people have similar tastes so you can predict a user's tastes (and offer him or her a recommendation) based on what similar people like. This is as opposed to a Content based approach in which a profile is built for each user and for each item based on their traits and characteristics, i.e. feature lists in the case of items or preference surveys in the case of users. Collaborative filtering allows us to obtain good recommendation results without the additional data collection required for content based recommendations. It also has the added advantage of being domain free making it applicable and interesting to multiple industries.
 
 
-####Downsides of Collaborative Filtering
+#### Downsides of Collaborative Filtering
 Cold start problem - new items are hard since there's no experience to base them off of. Content based strategies are better in this case.
 
-####Implicit vs. Explicit Data
+#### Implicit vs. Explicit Data
 
 Implicit means we do not have direct information about the user's preferences with regards to an item.
  - we do not have information about the items a user dislikes (Note: this is common when we have a buy dataset like the retail example we leverage today)
@@ -50,7 +50,7 @@ For the purposes of this field asset we focus on implicit datasets for Colaborat
 * adjusting for supply is difficult. i.e. if there are not many purchases of a certain item it may a result of limited supply rather than lack of popularity or prefference.
 * because the data we use for training is implicit, it is difficult to measure or quantify the success of the model (be careful of overfitting)
 
-###Alternating Least Squares (ALS) and Some Math
+### Alternating Least Squares (ALS) and Some Math
 
 The simplest methods for Collaborative Filtering are neighborhood models which find related products by identifying similar users and recommending each other's items or look at related items and recommend them to users that have purchased them. On the other end of the spectrum, compute heavy latent factor models can produce good results, though they tend to be too expensive to compute at scale in near real time.
 
@@ -86,16 +86,12 @@ You can derive that preference p is equal to the sum product of the similarities
 
 In the end this looks a lot like item-oriented neighborhood models, which are easier to reason around and explain. We can also see alternating least squares as a powerful preprocessor for a neighborhood based method, where item similarities are learned through a principled optimization process.
 
-###Related Links / Bibliography
+### Related Links / Bibliography
 
-Comcast talk (slides):
-https://spark-summit.org/2015-east/wp-content/uploads/2015/03/SSE15-18-Neumann-Alla.pdf
+[Comcast talk (slides)](https://spark-summit.org/2015-east/wp-content/uploads/2015/03/SSE15-18-Neumann-Alla.pdf)
 
-Comcast talk (video):
-https://www.youtube.com/watch?v=cg8lm7ANxkA&index=4&list=PL-x35fyliRwiiYSXHyI61RXdHlYR3QjZ1
+[Comcast talk (video)](https://www.youtube.com/watch?v=cg8lm7ANxkA&index=4&list=PL-x35fyliRwiiYSXHyI61RXdHlYR3QjZ1)
 
-Alternatig Least Squares (original paper)
-http://yifanhu.net/PUB/cf.pdf 
+[Alternatig Least Squares (original paper)](http://yifanhu.net/PUB/cf.pdf)
 
-Streaming ALS:
-https://github.com/brkyvz/streaming-matrix-factorization
+[Streaming ALS](https://github.com/brkyvz/streaming-matrix-factorization)
