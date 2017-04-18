@@ -12,8 +12,8 @@ This section details the architecture demonstrated in this reference field asset
 {{< mermaid >}}
 graph LR
 C["Client"]
-A["Queue"]--"Streaming predictors"-->B["DSE Streaming Analytics"]
-B-->C["DSE"]
+A["Queue"]--"Streaming predictors"-->B["DSE Streaming Analytics <br/>ML Pipeline"]
+B--"microbatches"-->C["DSE Cassandra"]
 C--"JDBC/SQL"-->D["Client"]
 D--"JDBC/SQL"-->C
 E["DSEFS"]--"Batch training"-->B
