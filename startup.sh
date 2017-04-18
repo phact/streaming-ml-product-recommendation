@@ -1,4 +1,14 @@
 #!/bin/bash
+
+echo 'Installing Maven'
+if [ -f /etc/redhat-release ]; then
+  yum install maven -y
+fi
+
+if [ -f /etc/lsb-release ]; then
+  apt-get install maven -y
+fi
+
 #check for dsefs
 PORT_CHECK=$(lsof -i:5598|grep LISTEN|wc -l)
 if [ "$PORT_CHECK" -eq 0 ]; then
