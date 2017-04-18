@@ -22,3 +22,8 @@ do
     while read -r line; sleep 1; do echo $line | awk -F'\t' -v OFS='\t' '{print $0 $1 $2+$i}'; done < ./sales_observations | nc -lk 9999
     i=$((i+1));
 done
+
+#standup the docs
+git submodule update --init
+git submodule sync
+hugo server ./content&

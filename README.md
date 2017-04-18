@@ -63,3 +63,14 @@ Into the `nc` prompt paste a few records and see the change in beeline:
 10277   221     1
 ```
 
+###Docs
+
+pull in your submodules
+
+    git submodule update --init
+    git submodule sync
+
+then run the server
+
+    hugo server ./content
+
