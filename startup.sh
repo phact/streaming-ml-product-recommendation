@@ -34,6 +34,12 @@ do
 done
 
 #standup the docs
+#install hugo
+mkdir /opt
+mkdir /opt/hugo
+wget https://github.com/spf13/hugo/releases/download/v0.20.2/hugo_0.20.2_Linux-64bit.tar.gz
+tar -xvf hugo_0.20.2_Linux-64bit.tar.gz -C /opt/hugo
+
 git submodule update --init
 git submodule sync
-hugo server ./content&
+/opt/hugo/hugo_0.20.2_linux_amd64/hugo_0.20.2_linux_amd64 server ./content&
