@@ -1,6 +1,7 @@
 package com.datastax.powertools.analytics
 
 import com.brkyvz.spark.recommendation.{LatentMatrixFactorization, StreamingLatentMatrixFactorization}
+import com.datastax.powertools.analytics.SparkMLProductRecommendationBatchJob.setupSchema
 import com.datastax.powertools.analytics.ddl.DSECapable
 import com.datastax.spark.connector._
 import com.datastax.spark.connector.SomeColumns
@@ -32,6 +33,10 @@ object SparkMLProductRecommendationServeJDBC extends DSECapable {
 
     // Create the context with a 1 second batch size
     val sc = connectToDSE("SparkMLServeRecommendationJDBC")
+
+    // Set up schema
+    setupSchema("recommendations", "predictions", "(user int, item int, preference float, prediction float, PRIMARY KEY((user), item))")
+
     val sqlContext = new SQLContext(sc)
     val ssc = new StreamingContext(sc, Seconds(5))
 
