@@ -1,0 +1,133 @@
+#!/bin/bash
+
+# functions
+containsElement () {
+  local e
+  for e in "${@:2}"; do [[ "$e" == "$1" ]] && return 0; done
+  return 1
+}
+
+# locate non-relative script dir
+MAIN_SCRIPT_BASEDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+# normalize path to script
+MAIN_SCRIPT="${MAIN_SCRIPT_BASEDIR}/"$( basename $0 )
+EXECUTION_DIR=$(dirname ${MAIN_SCRIPT})
+
+# locate .startup directory
+SUB_COMPONENTS_DIRNAME=$( dirname $MAIN_SCRIPT_BASEDIR )"/.startup"
+SELF_COMPONENTS_DIRNAME=$( dirname $MAIN_SCRIPT)"/.startup"
+
+MAIN_SCRIPT_DIRNAME=$(dirname $MAIN_SCRIPT)
+
+if [ "${MAIN_SCRIPT_DIRNAME}" = ".startup" ]
+then export COMPONENTS_DIRNAME="${MAIN_SCRIPT_DIRNAME}"
+else export COMPONENTS_DIRNAME="${MAIN_SCRIPT_DIRNAME}/.startup"
+fi
+
+if [ ! -d "${COMPONENTS_DIRNAME}" ]
+then
+ printf "component scripts directory '${COMPONENTS_DIRNAME}' does not exist.\n"
+ exit 2
+fi
+
+# get list of components
+
+COMPONENT_NAMES=$(cd $COMPONENTS_DIRNAME; /usr/bin/ls | grep -v 'startup.order' | grep -v '^startup$')
+component_scriptnames_ary=()
+while read -r line; do component_scriptnames_ary+=("$line"); done <<< "${COMPONENT_NAMES}"
+
+# if startup.order is used, cross-check contents
+# not including 'startup' and 'startup.order' files
+
+ORDER_FILE="${COMPONENTS_DIRNAME}/startup.order"
+if [ -f "${ORDER_FILE}" ]
+then
+ export COMPONENT_ORDER=$(cat ${ORDER_FILE})
+
+ # verify every file listed in components exists in
+ # executable script form in the .startup directory
+
+ for component_name in $COMPONENT_ORDER
+ do
+  COMPONENT_SCRIPT="${COMPONENTS_DIRNAME}/${component_name}"
+  if [ ! -f "${COMPONENT_SCRIPT}" ]
+  then
+   printf "component startup script '${COMPONENT_SCRIPT}' is missing, but it was listed in startup.order.\n";
+   exit 2
+  fi
+  if [ ! -x "${COMPONENT_SCRIPT}" ]
+  then
+   printf "component startup script '${COMPONENT_SCRIPT}' is not executable.\n";
+   exit 2
+  fi
+ done
+
+ # verify that all named components found in script form
+ # exist in the startup.order file
+
+ component_order_ary=()
+ while read -r line
+ do
+  if [ "$line" = "startup.order" ] ; then continue ; fi
+  if [ "$line" = "startup" ] ; then continue ; fi
+  component_order_ary+=("$line")
+ done <<< "${COMPONENT_ORDER}"
+
+ for component_scriptname in "${component_scriptnames_ary[@]}"
+ do
+#  printf "checking %s for ordering membership.\n" "$component_scriptname" 1>&2
+  if ! containsElement "${component_scriptname}" "${component_order_ary[@]}"
+  then
+   printf "There is a startup.order file, but script '${component_scriptname}' is not listed in it.\n"
+   exit 2
+  fi
+ done
+else
+ export COMPONENT_ORDER="$COMPONENT_NAMES"
+fi
+
+if [ -z "${COMPONENT_ORDER}" ]
+then
+ printf "There are no component scripts in ${COMPONENTS_DIRNAME}\n";
+ exit 2
+fi
+
+if [ ! -f "${ORDER_FILE}" ]
+then
+ printf "# Component order is based on filenames.\n# Consider adding a startup.order file to control order of startup.\n" 1>&2
+fi
+
+# if no components selected, show options and help
+if [ -z "$*" ]
+then
+ printf "You must select from the following available components:\n%s\n" "${COMPONENT_ORDER}"
+ exit 0
+fi
+
+# if all is selected, change arguments to match as if they were listed out individually
+if [ "$1" = "all" ]
+then TO_RUN="${COMPONENT_ORDER}"
+else TO_RUN="$*"
+fi
+
+to_run_ary=()
+while read -r line; do to_run_ary+=("$line"); done <<< "${TO_RUN}"
+order_ary=()
+while read -r line; do order_ary+=("$line"); done <<< "${COMPONENT_ORDER}"
+
+# execute components in order
+for selected in "${to_run_ary[@]}"
+do
+ if containsElement "${selected}" "${order_ary[@]}"
+ then
+  FULL_SCRIPT_PATH="${COMPONENTS_DIRNAME}/${selected}"
+  printf "executing: %s\n" "${FULL_SCRIPT_PATH}" 1>&2
+  ( cd ${EXECUTIOND_DIR} && bash ${FULL_SCRIPT_PATH})
+  last_status=$?
+  if [[ last_status -ne 0 ]]
+  then
+   printf "script %s failed with status: %s\n" "${FULL_SCRIPT_PATH}" "${last_status}"
+  fi
+ fi
+done
