@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "generating stream"
-../socketstream&
+./socketstream&

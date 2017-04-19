@@ -33,7 +33,7 @@ fi
 
 # get list of components
 
-COMPONENT_NAMES=$(cd $COMPONENTS_DIRNAME; /usr/bin/ls | grep -v 'startup.order' | grep -v '^startup$')
+COMPONENT_NAMES=$(cd $COMPONENTS_DIRNAME; /bin/ls | grep -v 'startup.order' | grep -v '^startup$')
 component_scriptnames_ary=()
 while read -r line; do component_scriptnames_ary+=("$line"); done <<< "${COMPONENT_NAMES}"
 
@@ -123,7 +123,7 @@ do
  then
   FULL_SCRIPT_PATH="${COMPONENTS_DIRNAME}/${selected}"
   printf "executing: %s\n" "${FULL_SCRIPT_PATH}" 1>&2
-  ( cd ${EXECUTIOND_DIR} && bash ${FULL_SCRIPT_PATH})
+  ( cd ${EXECUTION_DIR} && bash ${FULL_SCRIPT_PATH})
   last_status=$?
   if [[ last_status -ne 0 ]]
   then
