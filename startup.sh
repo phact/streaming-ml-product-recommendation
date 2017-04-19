@@ -31,7 +31,7 @@ tar -xvf hugo_0.20.2_Linux-64bit.tar.gz -C /opt/hugo
 
 git submodule update --init
 git submodule sync
-/opt/hugo/hugo_0.20.2_linux_amd64/hugo_0.20.2_linux_amd64 server ./content --bind=0.0.0.0 --port=80 --disableLiveReload=true&
+/opt/hugo/hugo_0.20.2_linux_amd64/hugo_0.20.2_linux_amd64 server ./content --bind=0.0.0.0 --port=80&
 
 echo "running streaming job"
 #build and run spark job
