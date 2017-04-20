@@ -92,12 +92,13 @@ ML algorithms have tuning levers (also known as hyperparameters) which help tune
 
 In the case of ALS the hyperparameters are:
 
-    .setMaxIter(5)
-    .setRegParam(0.01)
-
-`MaxIter` controls the number of iterations of the optimization that will be run, more iterations will yield better accuracy but there is a time and resource penalty to running too many iterations.
-
-`RegParam` is the `alpha` mentioned in the previous section.
+`numBlocks` is the number of blocks the users and items will be partitioned into in order to parallelize computation (defaults to 10).
+`rank` is the number of latent factors in the model (defaults to 10).
+`maxIter` is the maximum number of iterations to run (defaults to 10).
+`regParam` specifies the regularization parameter in ALS (defaults to 1.0).
+`implicitPrefs` specifies whether to use the explicit feedback ALS variant or one adapted for implicit feedback data (defaults to false which means using explicit feedback).
+`alpha` is a parameter applicable to the implicit feedback variant of ALS that governs the baseline confidence in preference observations (defaults to 1.0).
+`nonnegative` specifies whether or not to use nonnegative constraints for least squares (defaults to false).
 
 ### Related Links / Bibliography
 
