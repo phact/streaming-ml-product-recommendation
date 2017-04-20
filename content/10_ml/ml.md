@@ -86,6 +86,19 @@ You can derive that preference p is equal to the sum product of the similarities
 
 In the end this looks a lot like item-oriented neighborhood models, which are easier to reason around and explain. We can also see alternating least squares as a powerful preprocessor for a neighborhood based method, where item similarities are learned through a principled optimization process.
 
+### Tuning ML
+
+ML algorithms have tuning levers (also known as hyperparameters) which help tune the algoritm to improve the accuracy of the results. Data Scientists / Analysts will often train a model using multiple values for these hyperparameters and compare the results against the testing dataset. This will help determine what values to use for the hyperparameters once the ML pipeline is operationalized
+
+In the case of ALS the hyperparameters are:
+
+    .setMaxIter(5)
+    .setRegParam(0.01)
+
+`MaxIter` controls the number of iterations of the optimization that will be run, more iterations will yield better accuracy but there is a time and resource penalty to running too many iterations.
+
+`RegParam` is the `alpha` mentioned in the previous section.
+
 ### Related Links / Bibliography
 
 [Comcast talk (slides)](https://spark-summit.org/2015-east/wp-content/uploads/2015/03/SSE15-18-Neumann-Alla.pdf)
