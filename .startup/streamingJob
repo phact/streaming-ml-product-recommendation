@@ -3,4 +3,4 @@
 pwd
 echo "running streaming job"
 #build and run spark job
-mvn package; mvn package && nohup dse spark-submit --deploy-mode cluster --supervise  --class com.datastax.powertools.analytics.SparkMLProductRecommendationServeJDBC target/StreamingMLProductRecommendations-0.1.jar localhost 9999&
+mvn package; mvn package && nohup dse spark-submit --class com.datastax.powertools.analytics.SparkMLProductRecommendationServeJDBC target/StreamingMLProductRecommendations-0.1.jar localhost 9999&
