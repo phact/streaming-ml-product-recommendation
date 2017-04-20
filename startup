@@ -49,6 +49,7 @@ while read -r line
 do
  if [ "$line" = "startup.order" ] ; then continue ; fi
  if [ "$line" = "startup" ] ; then continue ; fi
+ if [ ! -x "${COMPONENTS_DIRNAME}/$line" ] ; then continue ; fi
  if [ -z "$line" ] ; then continue; fi
  component_scriptnames_ary+=("$line")
 done <<< "$SCRIPT_DATA"
@@ -118,15 +119,24 @@ then
  selected_components_ary=("${component_order_ary[@]}")
 elif [ ! -z "$1" ]
 then
- printf "# INFO: selecting specific components: 1=[$1] $*\n"; 1>&2
+ printf "# INFO: selecting specific components: $*\n"; 1>&2
  selected_components_ary=( "$@" )
  #do selected_components_ary+=("$line")
 else
- printf "INFO: You must select from the following available components:\n" 1>&2
+ printf "INFO: You must select from the following available components, or specify 'all':\n" 1>&2
  printf "%s\n" "${component_order_ary[@]}"
  exit 0
 fi
 # printf "DEBUG: selected_component: %s\n" "${selected_components_ary[@]}" 1>&2
+
+for selected in "${selected_components_ary[@]}"
+do
+ if ! containsElement "${selected}" "${component_order_ary[@]}"
+ then
+  printf "%s was specified, but no such component could be found.\n" "${selected}"
+  exit 2
+ fi
+done
 
 ordered_components_ary=()
 for component in "${component_order_ary[@]}"
@@ -145,8 +155,13 @@ do
  if containsElement "${selected}" "${component_order_ary[@]}"
  then
   FULL_SCRIPT_PATH="${COMPONENTS_DIRNAME}/${selected}"
-  printf "INFO: executing: %s\n" "${selected}"
-  ( cd ${EXECUTIOND_DIR} && bash ${FULL_SCRIPT_PATH})
+  printf "# INFO: executing: %s\n" "${selected}"
+  export PROJECT_DIRECTORY=$(dirname ${COMPONENTS_DIRNAME})
+  export SELECTED_COMPONENTS="${ordered_components_ary[@]}"
+  export CURRENT_COMPONENT="${selected}"
+  export COMPONENT_SCRIPT="${FULL_SCRIPT_PATH}"
+
+  ( cd ${EXECUTION_DIR} && bash ${FULL_SCRIPT_PATH})
   last_status=$?
   if [[ last_status -ne 0 ]]
   then
