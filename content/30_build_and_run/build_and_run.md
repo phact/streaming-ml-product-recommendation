@@ -6,7 +6,13 @@ weight =  4
 
 Example for using DSE Streaming analytics for product recommendations
 
-### Usage:
+##Startup Script
+
+This Asset leverages
+[simple-startup](https://github.com/jshook/simple-startup). To start the entire
+asset run `./startup all` for other options run `./startup`
+
+## Manual Usage:
 
 #### Prep the files:
 
