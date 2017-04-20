@@ -2,3 +2,5 @@ SimpleSparkStreaming.iml
 dependency-reduced-pom.xml
 target/
 nohup.out
+public/
+startup.out
