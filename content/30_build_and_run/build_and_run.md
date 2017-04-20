@@ -67,6 +67,8 @@ Into the `nc` prompt paste a few records and see the change in beeline:
 10277   221     1
 ```
 
+Alternatively, you can run `./socketstream` to write a record per second to the stream from bash
+
 #### Docs
 
 Dependencies: hugo

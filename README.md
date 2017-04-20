@@ -1,10 +1,10 @@
-#StreamingMLProductRecommendation
+# StreamingMLProductRecommendation
 
 Example for using DSE Streaming analytics for product recommendations
 
-##Usage:
+## Usage:
 
-###Prep the files:
+### Prep the files:
 
 Make sure dsefs is turned on `dse.yaml` 
 
@@ -19,7 +19,7 @@ dsefs / > ls sales_observations
 sales_observations
 ```
 
-###Streaming Job:
+### Streaming Job:
 To run this on your local machine, you need to first run a Netcat server
 
     $ nc -lk 9999
@@ -63,7 +63,10 @@ Into the `nc` prompt paste a few records and see the change in beeline:
 10277   221     1
 ```
 
-###Docs
+Alternatively, you can run `./socketstream` to write a record per second to the stream from bash
+
+
+### Docs
 
 pull in your submodules
 
