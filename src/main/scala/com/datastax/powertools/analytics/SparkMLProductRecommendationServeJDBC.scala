@@ -85,7 +85,9 @@ object SparkMLProductRecommendationServeJDBC extends DSECapable {
     //would like to be able to re-train the model periodically but for whatever reason, this doesn't work
     //algorithm.trainOn(trainStream)
 
-    val testStream= observation.map(_.split("\t")).filter(x => (x.size >2 && x(0).forall(_.isDigit))).map(x =>
+    val testStream= observation.map(_.split("::")).filter(x => {
+      (x.size >2 && x(0).forall(_.isDigit))
+    }).map(x =>
         (x(0).toLong, x(1).toLong)
     )
 
@@ -96,6 +98,7 @@ object SparkMLProductRecommendationServeJDBC extends DSECapable {
       Predictions(row.user.toInt, row.item.toInt, row.rating.toFloat)
     }
     ).foreachRDD(rdd => {
+      print("COUNT: " + rdd.count())
       if (rdd.count() > 0) {
         rdd.toString()
         print("going to save to cassandra")
