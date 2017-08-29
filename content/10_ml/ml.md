@@ -114,4 +114,8 @@ In the case of ALS the hyperparameters are:
 
 [Alternatig Least Squares (original paper)](http://yifanhu.net/PUB/cf.pdf)
 
+[Spark ML Pipelines](https://spark.apache.org/docs/latest/ml-pipeline.html)
+ 
+[Spark ML Collaborative Filtering](https://spark.apache.org/docs/latest/ml-collaborative-filtering.html)
+ 
 [Streaming ALS](https://github.com/brkyvz/streaming-matrix-factorization)

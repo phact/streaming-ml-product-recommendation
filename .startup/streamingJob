@@ -2,5 +2,8 @@
 
 pwd
 echo "running streaming job"
+rm -rf ./target/*
+rm ./nohup.out
 #build and run spark job
 mvn package; mvn package && nohup dse spark-submit --class com.datastax.powertools.analytics.SparkMLProductRecommendationServeJDBC target/StreamingMLProductRecommendations-0.1.jar localhost 9999&
+tail -f nohup.out

@@ -9,11 +9,11 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <dse.version>5.0.1</dse.version>
-    <scala.version>2.10.5</scala.version>
-    <scala.main.version>2.10</scala.main.version>
+    <dse.version>5.1.2</dse.version>
+    <scala.version>2.11.8</scala.version>
+    <scala.main.version>2.11</scala.main.version>
     <scalatest.version>3.0.0</scalatest.version>
-    <connector.version>1.6.0</connector.version>
+    <connector.version>2.0.0</connector.version>
     <junit.version>4.12</junit.version>
   </properties>
 
@@ -70,11 +70,6 @@
       <artifactId>spark-csv_2.10</artifactId>
       <version>1.5.0</version>
     </dependency>
-    <dependency>
-      <groupId>brkyvz</groupId>
-      <artifactId>streaming-matrix-factorization</artifactId>
-      <version>0.1.0</version>
-    </dependency>
 
   </dependencies>
 
@@ -103,7 +98,6 @@
               <goal>testCompile</goal>
             </goals>
             <configuration>
-              <mainSourceDir>${project.build.sourceDirectory}/../scala</mainSourceDir>
             </configuration>
           </execution>
         </executions>

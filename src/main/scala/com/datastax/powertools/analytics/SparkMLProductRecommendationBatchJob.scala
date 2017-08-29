@@ -24,12 +24,15 @@ object SparkMLProductRecommendationBatchJob extends DSECapable{
 
     // Create the context
     val sc = connectToDSE("SimpleSparkML")
+
+    //setup schema
     setupSchema("recommendations", "predictions", "(user int, item int, preference float, prediction float, PRIMARY KEY((user), item))")
+
     val sqlContext = new SQLContext(sc)
     val observations = sqlContext.read.format("com.databricks.spark.csv")
       .option("header", "true")
       .option("inferSchema", "true")
-      .option("delimiter", "\t")
+      .option("delimiter", ":")
       .load("dsefs:///sales_observations")
 
     //get training set
@@ -44,8 +47,15 @@ object SparkMLProductRecommendationBatchJob extends DSECapable{
       .setItemCol("item")
       .setRatingCol("preference")
 
+    //in Spark ML Pipelines, als is an Estimator which needs to be .fit() against a traning DataFrame/DataSet and produces a Transformer
+    //in this case the transformer is an ALSModel.
     val model = als.fit(training)
 
+    // Uncomment starting with Spark 2.2 https://issues.apache.org/jira/browse/SPARK-14489
+    // Note we set cold start strategy to 'drop' to ensure we don't get NaN evaluation metrics
+    //model.setColdStartStrategy("drop")
+
+    // model is the Transformer which can transform an incoming test DataFrame/DataSet to generate predictions
     // Evaluate the model by computing the RMSE on the test data
     val predictions = model.transform(test)
 

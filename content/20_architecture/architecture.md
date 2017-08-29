@@ -17,6 +17,7 @@ B--"microbatches"-->C["DSE Cassandra"]
 B--"JDBC/SQL"-->D["Client"]
 D--"JDBC/SQL"-->B
 E["DSEFS"]--"Batch training"-->B
+C--"Batch training"-->B
 {{< /mermaid >}}
 </div>
 

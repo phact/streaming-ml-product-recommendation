@@ -1,9 +1,6 @@
 package com.datastax.powertools.analytics
 
 import com.datastax.powertools.analytics.ddl.DSECapable
-import com.datastax.spark.connector._
-import com.datastax.spark.connector.cql.CassandraConnector
-import org.apache.spark.sql.hive.HiveContext
 import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.storage.StorageLevel
 import org.apache.spark.streaming.{Seconds, StreamingContext}
