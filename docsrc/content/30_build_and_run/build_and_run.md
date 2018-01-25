@@ -1,8 +1,13 @@
-+++
-date = "2017-04-10T14:21:00-05:00"
-title = "Build and Run"
-weight =  4
-+++
+---
+date: 2017-04-28T10:43:02
+title: Build and Run
+weight: 444401
+menu:
+  main:
+    parent: Build and Run
+    identifier: buildandrun
+    weight: 22
+---
 
 Example for using DSE Streaming analytics for product recommendations
 

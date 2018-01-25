@@ -1,8 +1,13 @@
-+++
-date = "2017-04-10T14:21:00-05:00"
-title = "Machine Learning"
-weight = 2 
-+++
+---
+date: 2017-04-28T10:43:02
+title: Machine Learning
+weight: 201
+menu:
+  main:
+    parent: Machine Learning
+    identifier: ml
+    weight: 22
+---
 
 DSE Analytics comes equipped with Machine Learning capabilities as part of its distributed compute framework. The algorithms available fall into the following groups:
 

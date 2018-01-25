@@ -1,0 +1,30 @@
+languageCode = "en-us"
+title = "Colaboartive Filtering"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+
+[params]
+    description = "Colaborative Filtering"
+
+    logo = "images/asset-hub.svg"
+    favicon = "/images/asset-hub.png"
+
+[params.palette]
+    primary = "grey"
+    accent  = "teal"
+
+[params.font]
+    text = "Roboto"
+    code = "Roboto Mono"
+
+[social]
+    github  = "phact/streaming-ml-product-recomendation"
+
+[blackfriday]
+    smartypants    = true
+    fractions = true
+    smartDashes = true
+    plainIDAnchors = true
+
+

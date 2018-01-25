@@ -1,8 +1,13 @@
-+++
-date = "2017-04-10T14:21:00-05:00"
-title = "Architecture"
-weight = 3
-+++
+---
+date: 2017-04-28T10:43:02
+title: Architecture
+weight: 301
+menu:
+  main:
+    parent: Architecture
+    identifier: architecture
+    weight: 22
+---
 
 This section details the architecture demonstrated in this reference field asset.
 

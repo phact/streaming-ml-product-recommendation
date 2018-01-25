@@ -4,3 +4,5 @@ target/
 nohup.out
 public/
 startup.out
+.idea
+*.iml

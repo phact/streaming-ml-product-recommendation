@@ -1,8 +1,9 @@
-+++
-date = "2017-04-10T14:21:00-05:00"
-title = "Introduction"
-weight = 1
-+++
+---
+date: "2017-04-10T14:21:00-05:00"
+title: "Collaborative Filtering"
+weight: 100
+type: index
+---
 
 This is a guide for how to use the power tools machine learning streaming product recommendation asset brought to you by the Vanguard team.
 
