@@ -18,7 +18,6 @@ import org.apache.spark.sql.cassandra._
 // automatically)
 
 /**
- * https://github.com/brkyvz/streaming-matrix-factorization
  * https://issues.apache.org/jira/browse/SPARK-6407
  */
 object SparkMLProductRecommendationServeJDBC extends DSECapable {
@@ -100,7 +99,7 @@ object SparkMLProductRecommendationServeJDBC extends DSECapable {
 
     //start the JDBC server to host predictions
     val hiveContext = new HiveContext(sc)
-    HiveThriftServer2.startWithContext(hiveContext)
+//    HiveThriftServer2.startWithContext(hiveContext)
 
     //CACHE TABLE table recommendations.predictions once per window (which is once per RDD)
     observation.foreachRDD(row => {
