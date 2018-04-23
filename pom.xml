@@ -9,11 +9,12 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <dse.version>5.1.2</dse.version>
+    <dse.version>6.0.0</dse.version>
     <scala.version>2.11.8</scala.version>
     <scala.main.version>2.11</scala.main.version>
     <scalatest.version>3.0.0</scalatest.version>
-    <connector.version>2.0.0</connector.version>
+    <connector.version>2.0.7</connector.version>
+    <cassandra.version>3.2</cassandra.version>
     <junit.version>4.12</junit.version>
   </properties>
 
@@ -25,11 +26,7 @@
       <scope>provided</scope>
       <exclusions>
         <exclusion>
-          <groupId>org.mortbay.jetty</groupId>
-          <artifactId>*</artifactId>
-        </exclusion>
-        <exclusion>
-          <groupId>javax.servlet</groupId>
+          <groupId>org.apache.directory.api</groupId>
           <artifactId>*</artifactId>
         </exclusion>
       </exclusions>
@@ -66,21 +63,17 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>com.databricks</groupId>
-      <artifactId>spark-csv_2.10</artifactId>
-      <version>1.5.0</version>
+      <groupId>org.apache.cassandra</groupId>
+      <artifactId>cassandra-all</artifactId>
+      <version>${cassandra.version}</version>
+      <scope>test</scope>
     </dependency>
-
   </dependencies>
 
   <repositories>
     <repository>
       <id>DataStax-Repo</id>
-      <url>https://datastax.artifactoryonline.com/datastax/public-repos/</url>
-    </repository>
-    <repository>
-      <id>SparkPackagesRepo</id>
-      <url>http://dl.bintray.com/spark-packages/maven</url>
+      <url>https://repo.datastax.com/public-repos/</url>
     </repository>
   </repositories>
 
@@ -98,6 +91,7 @@
               <goal>testCompile</goal>
             </goals>
             <configuration>
+              <mainSourceDir>${project.build.sourceDirectory}/../scala</mainSourceDir>
             </configuration>
           </execution>
         </executions>
