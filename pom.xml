@@ -14,7 +14,6 @@
     <scala.main.version>2.11</scala.main.version>
     <scalatest.version>3.0.0</scalatest.version>
     <connector.version>2.0.7</connector.version>
-    <cassandra.version>3.2</cassandra.version>
     <junit.version>4.12</junit.version>
   </properties>
 
@@ -27,6 +26,10 @@
       <exclusions>
         <exclusion>
           <groupId>org.apache.directory.api</groupId>
+          <artifactId>*</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>org.mortbay.jetty</groupId>
           <artifactId>*</artifactId>
         </exclusion>
       </exclusions>
@@ -63,10 +66,9 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>org.apache.cassandra</groupId>
-      <artifactId>cassandra-all</artifactId>
-      <version>${cassandra.version}</version>
-      <scope>test</scope>
+      <groupId>com.databricks</groupId>
+      <artifactId>spark-csv_2.11</artifactId>
+      <version>1.5.0</version>
     </dependency>
   </dependencies>
 
