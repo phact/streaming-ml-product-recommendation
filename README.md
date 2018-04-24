@@ -2,6 +2,8 @@
 
 This is a guide for how to use the power tools machine learning streaming product recommendation asset brought to you by the Vanguard team.
 
+Upgraded for DSE 6.0
+
 ### Motivation
 
 Machine learning powered recommendation engines have wide applications across multiple industries as companies seeking to provide their end customers with deep insights by leveraging data in the moment. Although there are many tools that allow for historical analysis that yield recommendations, DataStax Enterprise (DSE) is particularly well suited to power real-time recommendation / personalization systems. It is when it comes to operationalizing and productionizing analytical systems that DSE will prove most useful. This is largely due to DSEs design objectives of operating at scale, in a distributed fashion, and while fulfilling performance and availability requirements required for user facing, mission critical applications.
