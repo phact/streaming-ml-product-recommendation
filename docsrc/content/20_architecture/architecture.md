@@ -1,12 +1,11 @@
 ---
-date: 2017-04-28T10:43:02
 title: Architecture
 weight: 301
 menu:
   main:
     parent: Architecture
     identifier: architecture
-    weight: 22
+    weight: 31
 ---
 
 This section details the architecture demonstrated in this reference field asset.

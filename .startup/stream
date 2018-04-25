@@ -1,4 +1,6 @@
 #!/bin/bash
 
+kill $(lsof -i:9999| grep nc| awk '{print $2}')
+
 echo "generating stream"
-./socketstream&
+nohup ./socketstream&

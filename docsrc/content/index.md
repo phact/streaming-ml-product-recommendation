@@ -18,7 +18,7 @@ This field asset includes a working application for real-time recommendations le
 * Machine Learning
 * Streaming analytics
 * Batch analytics
-* Real-time JDBC / SQL (dynamic caching)
+* Real-time JDBC / SQL
 * DSEFS
 
 ### Business Take Aways
@@ -33,4 +33,4 @@ For a technical deep dive, take a look at the following sections:
 
 - Machine learning model
 - Streaming analytics pipeline
-- Real-time JDBC / SQL (dynamic caching)
+- Real-time JDBC / SQL

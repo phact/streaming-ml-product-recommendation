@@ -1,0 +1,1560 @@
+product_id,brand_name,cases_per_pallet,gross_weight,low_fat,net_weight,product_class_id,product_name,recyclable_package,shelf_depth,shelf_height,shelf_width,sku,srp,units_per_case
+1,Washington,14,8.39,0,6.39,30,Washington Berry Juice,0,7.4,12.6,16.9,90748583674,2.8500,30
+2,Washington,8,7.42,1,4.42,52,Washington Mango Drink,0,22.6,3.71,13.4,96516502499,0.7400,18
+3,Washington,13,13.1,1,11.1,52,Washington Strawberry Drink,1,7.77,11,14.4,58427771925,0.8300,17
+4,Washington,10,10.6,0,9.6,19,Washington Cream Soda,1,7.93,18.9,22.9,64412155747,3.6400,26
+5,Washington,10,6.66,0,4.65,19,Washington Diet Soda,1,19.2,21.9,20.7,85561191439,2.1900,7
+6,Washington,10,15.8,0,13.8,19,Washington Cola,0,21.3,18.1,6.42,29804642796,1.1500,14
+7,Washington,7,18,0,17,19,Washington Diet Cola,1,21,16.9,15,20191444754,2.6100,11
+8,Washington,7,8.97,0,6.97,30,Washington Orange Juice,1,8.92,11.8,7.56,89770532250,2.5900,27
+9,Washington,7,7.14,0,5.13,30,Washington Cranberry Juice,0,14.4,16.1,18.5,49395100474,2.4200,34
+10,Washington,14,8.13,0,7.13,30,Washington Apple Juice,1,9.2,7.32,21.6,22114084362,1.4200,28
+11,Washington,10,20,1,19,52,Washington Apple Drink,0,20.4,10.3,19.4,17074288725,3.5100,3
+12,Jeffers,6,8.9,1,6.89,35,Jeffers Oatmeal,1,10.8,15.4,15.9,49031038880,1.5400,14
+13,Jeffers,10,10.4,0,7.39,35,Jeffers Corn Puffs,0,14.6,10.3,18.2,13229009509,2.6500,20
+14,Jeffers,10,21.6,1,20.6,35,Jeffers Wheat Puffs,1,8.01,6.94,7.73,92942813038,1.9300,33
+15,Jeffers,9,21.3,1,20.2,35,Jeffers Grits,0,12.4,18.3,8.96,26378549933,2.2900,14
+16,Blue Label,10,21.2,1,18.2,62,Blue Label Canned Beets,0,9.39,21.9,19,62908702492,3.8300,31
+17,Blue Label,9,6.91,1,3.9,62,Blue Label Creamed Corn,1,8.26,17.8,7.8,79484335780,2.9900,34
+18,Blue Label,10,12.6,0,10.6,62,Blue Label Canned String Beans,1,13.3,5.18,8.87,85252254605,2.6700,26
+19,Blue Label,7,15.2,1,12.1,58,Blue Label Chicken Soup,1,16.9,21.1,22.6,47163524031,3.1900,35
+20,Blue Label,8,21.3,1,19.2,62,Blue Label Canned Yams,0,11.8,5.22,5.95,22169209122,2.7800,22
+21,Blue Label,7,19.7,1,18.7,58,Blue Label Vegetable Soup,0,11.6,18.8,11.7,43318244814,2.3300,18
+22,Blue Label,13,15,0,14,62,Blue Label Canned Tomatos,0,5.02,8.73,19,77561696171,2.2900,31
+23,Blue Label,9,10.6,0,9.6,58,Blue Label Noodle Soup,1,15.7,3.16,19.8,32829326987,1.7500,17
+24,Blue Label,8,12.8,1,10.8,58,Blue Label Regular Ramen Soup,0,6.98,21.3,20.7,12408414483,1.7300,23
+25,Blue Label,10,9.48,1,8.47,58,Blue Label Chicken Noodle Soup,1,22.4,4.71,4.98,62032982707,1.5500,21
+26,Blue Label,11,16.5,1,13.5,58,Blue Label Turkey Noodle Soup,1,12,11,12.8,34751966595,0.8800,21
+27,Blue Label,12,11.2,1,8.19,58,Blue Label Beef Soup,0,3.1,7.62,9.91,29712170958,2.6500,14
+28,Blue Label,9,21.9,0,20.8,62,Blue Label Canned Peas,1,21.5,22,8.1,61668921113,3.9100,33
+29,Blue Label,5,17.1,0,16.1,58,Blue Label Chicken Ramen Soup,0,22.3,19.7,6.61,25866891741,1.7800,34
+30,Blue Label,5,9.71,0,7.71,93,Blue Label Canned Tuna in Water,1,6.61,16.1,19.5,93159278035,1.4100,31
+31,Blue Label,12,17.2,0,15.2,93,Blue Label Canned Tuna in Oil,1,3.63,13.6,19.7,50497145056,1.5500,28
+32,Blue Label,11,8.86,0,6.85,94,Blue Label Large Canned Shrimp,0,13.1,3.34,8.73,87027297616,2.8600,2
+33,Blue Label,5,8.27,1,6.27,95,Blue Label Fancy Canned Anchovies,0,17.7,9.12,5.9,44581629633,1.3600,16
+34,Blue Label,9,16.7,1,14.7,96,Blue Label Fancy Canned Clams,1,11.9,14.4,20.6,50349548459,1.6900,30
+35,Blue Label,5,18.2,1,16.2,97,Blue Label Fancy Canned Oysters,0,6.27,7.87,8.28,36162948012,2.2100,23
+36,Blue Label,5,14,0,11,98,Blue Label Fancy Canned Sardines,1,19.4,16.7,17.4,11168633103,1.8000,26
+37,Blue Label,6,21,1,19,58,Blue Label Rice Soup,1,6.65,17.5,15.4,32317668795,1.5900,9
+38,Green Ribbon,8,14,1,11,3,Green Ribbon Canned Mixed Fruit,1,5.74,17.2,11.1,42658990025,1.3100,32
+39,Green Ribbon,7,17.5,0,15.5,3,Green Ribbon Canned Peaches,1,9.04,17.7,10.8,33045791983,3.1100,5
+40,King,13,11.7,0,10.6,89,King Rosy Sunglasses,1,7.7,12.1,15.7,36527009606,0.9900,25
+41,Queen,12,8.61,0,5.6,103,Queen Eyeglass Screwdriver,1,8.7,6.34,18.3,86151577830,0.8900,29
+42,Queen,10,13.6,0,11.6,102,Queen City Map,1,17.1,5.58,3.46,89849260449,2.8200,6
+43,Club,11,17.7,0,15.7,15,Club Low Fat Cottage Cheese,1,10.7,3.71,15.4,18711594939,1.6700,33
+44,Club,5,10.7,1,9.69,14,Club Low Fat Sour Cream,0,7.32,17.9,21.1,50668345093,2.9300,26
+45,Club,11,13.6,0,11.6,14,Club Sour Cream,0,3.27,7.31,8.57,14866315722,0.5300,9
+46,Club,7,14.4,0,12.3,11,Club Jack Cheese,1,7.42,20.9,12.7,82158702015,3.4400,19
+47,Club,13,17.8,0,15.7,11,Club Muenster Cheese,1,13.2,7.03,22.3,39496569037,2.5700,21
+48,Club,7,6.31,1,3.3,11,Club String Cheese,1,11.2,18.7,5.22,76026721596,1.8800,17
+49,Club,12,17,0,15,11,Club Low Fat String Cheese,0,4.65,6.48,22.8,68700224757,3.3800,30
+50,Club,9,9.95,1,7.94,11,Club Havarti Cheese,0,6.24,22.9,9.91,74468143582,3.9500,36
+51,Club,11,8.41,1,5.4,11,Club Head Cheese,0,18.6,7.54,13.1,24898700118,1.4700,9
+52,Club,13,14.5,1,13.5,11,Club Cheese Spread,1,6.06,10.4,7.4,66002255082,2.1700,27
+53,Club,9,18.8,1,16.7,11,Club Sharp Cheddar Cheese,1,6.58,18.8,21.6,21053420901,3.6100,18
+54,Club,14,9.58,1,7.57,11,Club Mild Cheddar Cheese,0,3.87,11.7,15.9,31394742131,2.9300,15
+55,Club,7,14.3,0,12.3,15,Club Large Curd Cottage Cheese,1,14.2,16.8,12.3,21781544089,3.5000,20
+56,Club,7,20.6,0,18.6,76,Club 2% Milk,1,11.6,15.3,4.1,25262761712,0.7100,21
+57,Club,6,20.1,0,18.1,76,Club Buttermilk,0,16.7,8.69,13.5,74887329936,0.6100,33
+58,Club,12,15.5,0,13.5,76,Club Chocolate Milk,0,13.1,15,10.7,23704183697,2.3100,18
+59,Club,6,18.8,0,15.7,76,Club 1% Milk,0,22.1,16.3,5.57,42566518187,1.4000,1
+60,Club,6,7.03,0,5.03,76,Club Whole Milk,0,20.8,13.3,4.42,50621138215,2.6600,2
+61,Club,12,13.4,1,11.3,6,Club Strawberry Yogurt,0,13.8,11.5,16.3,93602067828,0.7400,22
+62,Club,8,14.1,1,11.1,6,Club Blueberry Yogurt,0,5.51,17.4,11,70894454121,3.8200,32
+63,Red Spade,6,20.3,1,18.2,81,Red Spade Chicken Hot Dogs,1,17.9,15.9,4.41,28232321143,2.9500,21
+64,Red Spade,6,13.2,0,12.1,91,Red Spade Pimento Loaf,1,12.4,17.6,18.1,64762473702,1.6100,33
+65,Red Spade,12,10.3,1,9.3,91,Red Spade Beef Bologna,0,22.7,8.8,4.44,57435976862,3.7600,21
+66,Red Spade,9,11.9,1,8.89,91,Red Spade Low Fat Bologna,1,14.1,19.1,5,63203895688,3.4400,31
+67,Red Spade,12,6.15,1,4.15,81,Red Spade Turkey Hot Dogs,0,10.3,7.96,19.9,25115165114,1.8600,27
+68,Red Spade,13,16,1,14,81,Red Spade Foot-Long Hot Dogs,1,4.12,10,20.2,90120850205,3.5600,2
+69,Red Spade,11,16.7,1,14.7,16,Red Spade Low Fat Cole Slaw,1,3.28,3.69,6.13,21269885897,3.1000,6
+70,Red Spade,13,8.83,0,6.82,16,Red Spade Cole Slaw,0,12.6,12.2,16.9,42828248143,0.9700,6
+71,Red Spade,12,21.8,0,20.7,77,Red Spade Roasted Chicken,0,7.95,5.69,4.55,33215050101,2.7600,7
+72,Red Spade,6,20.2,1,17.2,8,Red Spade Corned Beef,0,15.2,11.4,20.8,36696267724,2.7400,6
+73,Red Spade,11,19.1,0,16.1,8,Red Spade Sliced Turkey,0,4.95,9.46,15.9,86320835947,2.3300,22
+74,Red Spade,7,6.13,1,5.13,8,Red Spade Sliced Ham,0,20.8,18.8,3.38,35137689709,1.5700,5
+75,Red Spade,11,16.9,1,14.8,16,Red Spade Potato Salad,0,11.9,8.74,18.1,54000024199,0.6800,26
+76,Red Spade,7,18.1,1,17.1,8,Red Spade Sliced Chicken,0,3.42,13.5,14.6,62054644227,1.6900,4
+77,Blue Medal,12,14.7,1,12.6,66,Blue Medal Small Brown Eggs,0,8.86,10.2,20,50154744982,2.8000,13
+78,Blue Medal,6,19.5,1,17.5,66,Blue Medal Large Brown Eggs,1,9.13,14.2,8.29,27447131276,2.1900,3
+79,Blue Medal,8,12.4,1,10.3,66,Blue Medal Small Eggs,0,10.7,10.7,15.3,39665827155,1.3200,9
+80,Blue Medal,12,17.1,0,14.1,66,Blue Medal Large Eggs,0,11.1,9.1,12.8,76195979714,3.6300,31
+81,Blue Medal,7,17,0,15,66,Blue Medal Egg Substitute,0,10.5,18.2,12.8,68869482874,2.1300,35
+82,Golden,13,21.3,1,18.2,34,Golden Low Fat Waffles,0,11,6.61,7.06,74637401700,2.7000,25
+83,Golden,10,18,0,17,110,Golden Orange Popsicles,1,21.5,3.3,10.7,36548671126,3.8800,11
+84,Golden,10,14.6,0,11.6,100,Golden Frozen Chicken Breast,0,4.44,3.34,4.7,11554356217,2.8100,3
+85,Golden,11,7.12,1,5.11,29,Golden Frozen Pancakes,0,16.1,3.09,9.53,32703391909,1.3600,29
+86,Golden,8,14.2,1,13.1,63,Golden Low Fat French Fries,0,10.7,21.7,8.7,66946843266,2.9700,3
+87,Golden,6,19,0,17,64,Golden Frozen Sausage Pizza,1,18.6,21.2,15.2,57333645224,1.7800,19
+88,Golden,12,7.86,0,6.86,34,Golden Blueberry Waffles,1,18.9,12.9,10.5,25695691704,0.8600,6
+89,Golden,7,20.5,0,17.5,63,Golden Fajita French Fries,0,14.4,20.7,14,51418129801,1.5900,4
+90,Golden,12,10.2,1,8.19,34,Golden Waffles,0,19.5,8.08,15.1,24137113690,0.7700,2
+91,Golden,12,12.8,1,10.8,64,Golden Frozen Pepperoni Pizza,1,3.08,4.08,8.94,42999448180,2.6800,17
+92,Golden,5,17.1,0,16.1,64,Golden Frozen Cheese Pizza,1,18.6,16.8,4.09,51054068207,0.8300,25
+93,Golden,12,16.4,0,14.3,64,Golden Frozen Mushroom Pizza,1,13.1,11.5,3.11,39154168963,0.9600,21
+94,Golden,9,7.9,0,4.9,34,Golden Apple Cinnamon Waffles,1,8.15,20.9,10.5,16446555256,0.6200,1
+95,Golden,9,8.58,0,5.57,60,Golden Frozen Carrots,1,22.3,3.52,16.6,39882292151,1.4600,29
+96,Golden,8,10.7,1,9.69,10,Golden Turkey TV Dinner,1,13.5,21.7,17.5,10314574837,2.1100,35
+97,Golden,7,18.3,0,16.2,10,Golden Chicken TV Dinner,1,5.55,16.9,16.4,57605234980,0.5900,26
+98,Golden,11,9.43,0,6.43,10,Golden Beef TV Dinner,0,15.2,3.28,4.38,63373153805,1.8300,33
+99,Golden,13,8.83,1,6.82,28,Golden Pancake Mix,1,14.7,17.9,21.7,25284423232,2.3600,29
+100,Golden,7,9.49,1,8.48,110,Golden Grape Popsicles,1,6.34,16.1,9.3,90290108323,1.9500,6
+101,Golden,6,20.6,1,18.6,63,Golden Home Style French Fries,0,7.22,13.8,7.8,21439144015,0.7200,13
+102,Golden,10,18.2,1,17.2,110,Golden Lime Popsicles,0,14.8,18.3,6.01,55682595372,2.4500,16
+103,Golden,8,9.81,0,8.81,9,Golden Ice Cream,1,11.8,15.8,6.22,46069397330,0.9500,13
+104,Golden,8,12.3,1,10.3,9,Golden Ice Cream Sandwich,0,17.9,17.4,9.93,49550614953,3.8900,11
+105,Golden,11,6.16,0,4.15,60,Golden Frozen Cauliflower,1,4.28,9.49,22.7,75273053050,3.7200,21
+106,Golden,6,14.6,1,11.6,60,Golden Frozen Broccoli,1,18.5,14.7,17.4,36774995923,2.9600,36
+107,Golden,11,19.9,0,18.8,60,Golden Frozen Corn,0,11.2,8.76,4.91,55637330412,1.8100,25
+108,Golden,6,11.9,1,9.89,60,Golden Frozen Peas,1,20.5,9.67,8.69,63691950440,2.1900,34
+109,Golden,12,19,0,16,9,Golden Popsicles,0,7.67,10.4,6.69,51792051196,3.9500,11
+110,Golden,13,12,1,10,100,Golden Frozen Chicken Thighs,1,6.75,10.2,22.3,29084437489,2.3500,34
+111,Golden,12,15.4,1,13.3,100,Golden Frozen Chicken Wings,1,10,10.7,22,52520174384,3.4800,17
+112,Golden,5,9.35,1,7.35,110,Golden Lemon Popsicles,0,13.8,15,21.9,89050326943,1.1300,35
+113,Faux Products,12,19.7,0,17.7,78,Faux Products Silky Smooth Hair Conditioner,1,15,8.23,14.5,15625960230,2.2900,8
+114,Faux Products,11,20.6,0,19.6,39,Faux Products Tartar Control Toothpaste,0,9.73,10.5,19.1,21393879055,0.9200,31
+115,Faux Products,13,20.6,0,18.6,39,Faux Products Whitening Toothpast,1,9.62,11.7,10.6,14283847212,0.6500,33
+116,Faux Products,10,8.33,0,5.32,39,Faux Products Toothpaste,1,13.4,20.8,7.45,79289532303,3.9700,8
+117,Faux Products,10,9.24,0,7.23,39,Faux Products Deodorant,0,8.19,3.12,12,10438567996,2.7500,31
+118,Faux Products,13,8.27,0,6.27,79,Faux Products Conditioning Shampoo,1,3.48,14.1,8.55,44682019352,1.4800,20
+119,Faux Products,12,20.1,0,19.1,79,Faux Products Extra Moisture Shampoo,0,14.7,8.33,7.86,35068821310,2.2800,7
+120,Faux Products,13,12.9,0,9.89,88,Faux Products Angled Toothbrush,0,22,5.6,9.99,14647908806,2.2600,23
+121,Faux Products,11,11.6,0,8.6,79,Faux Products Apricot Shampoo,1,22.4,6.61,21.4,64272477030,2.9800,21
+122,Faux Products,10,12.5,0,10.5,70,Faux Products Childrens Aspirin,0,17.1,8.89,6.11,36991460919,1.9900,9
+123,Faux Products,7,12.4,0,9.39,70,Faux Products Buffered Aspirin,0,22.6,17.5,3.1,31951665282,3.8400,21
+124,Faux Products,11,13.3,0,10.3,71,Faux Products 200 MG Ibuprofen,1,17.3,19.7,7.72,52691374421,1.2100,8
+125,Faux Products,11,11.1,0,9.1,72,Faux Products 200 MG Acetominifen,0,8.03,5.18,15.1,16889345049,2.3200,31
+126,Faux Products,6,20.8,0,19.7,73,Faux Products HCL Nasal Spray,1,5.03,18,21.3,18083861470,1.6100,22
+127,Faux Products,14,16.7,0,13.7,73,Faux Products Dishwasher Detergent,1,16.3,12.2,20.6,41519598364,1.7400,10
+128,Faux Products,5,14.5,0,12.5,75,Faux Products Multi-Symptom Cold Remedy,0,7.02,17.6,8.09,78049750924,0.5300,26
+129,Faux Products,13,9.49,0,7.48,75,Faux Products Childrens Cold Remedy,1,3.49,10.6,14.2,94625384211,1.5500,23
+130,Faux Products,12,21.3,0,20.2,74,Faux Products Laundry Detergent,1,14.7,4.82,13.5,10393303036,2.2300,10
+131,Faux Products,13,19.1,0,16.1,74,Faux Products Mint Mouthwash,0,5.48,10.2,20.9,62304572463,2.4000,26
+132,Denny,12,20,0,18,80,Denny 60 Watt Lightbulb,1,20.2,12.5,5.59,37310257554,1.9200,14
+133,Denny,6,14,0,12,56,Denny Plastic Forks,0,12,15.4,16.7,90229007601,0.7000,3
+134,Denny,7,6.83,0,4.82,56,Denny Plastic Spoons,1,19.3,12.6,18.8,34472458958,2.4300,18
+135,Denny,6,7.74,0,4.73,56,Denny Plastic Knives,0,14,14.9,3.51,24859260916,3.8900,6
+136,Denny,10,17.4,0,15.3,101,Denny C-Size Batteries,0,11,7.86,9.7,94438348412,3.8700,33
+137,Denny,11,13.3,0,11.3,80,Denny 100 Watt Lightbulb,1,22.3,22,9.01,54062916636,3.7000,13
+138,Denny,13,12.3,0,10.3,101,Denny AAA-Size Batteries,1,12.5,7.58,16.3,26781900525,2.7000,7
+139,Denny,10,21.1,0,19.1,55,Denny Paper Plates,0,19.7,4.85,18.5,21742104887,1.7900,16
+140,Denny,10,6.03,0,4.03,55,Denny Paper Cups,0,14.5,7.13,3.14,53698855042,1.8200,4
+141,Denny,8,15.7,0,13.6,80,Denny 75 Watt Lightbulb,1,11.5,20,9.33,96679784655,3.9300,2
+142,Denny,5,8.48,0,6.47,22,Denny Toilet Bowl Cleaner,0,18.7,17.2,11.4,97874301075,2.3200,11
+143,Denny,8,9.39,0,7.39,22,Denny Counter Cleaner,0,13.4,19.5,16,31310037970,2.4600,5
+144,Denny,7,20.3,0,18.2,22,Denny Glass Cleaner,1,9.96,12.6,22.2,67840190529,0.5100,2
+145,Denny,6,21.2,0,20.2,80,Denny 25 Watt Lightbulb,0,4.67,14.9,6.82,84415823817,2.2700,25
+146,Denny,12,14,0,12,101,Denny AA-Size Batteries,1,11.9,12.1,8.95,90183742642,3.8300,35
+147,Denny,10,13,0,12,101,Denny D-Size Batteries,1,7.24,3.22,5.44,52095012068,0.6400,29
+148,Denny,9,8.94,0,6.93,18,Denny Paper Towels,1,18.5,17.3,4.75,27100697159,3.9500,17
+149,Denny,6,17.6,0,16.6,18,Denny Soft Napkins,1,5.81,14.6,6.87,48249732851,2.4900,27
+150,Denny,14,18.6,0,16.6,18,Denny Scented Tissue,1,20.5,16.9,11.4,45905964970,3.4500,15
+151,Denny,13,12.3,0,10.3,18,Denny Toilet Paper,1,17.5,9.81,17.6,36292766928,2.9100,12
+152,Denny,13,17.2,0,15.2,18,Denny Tissues,1,6.38,6.55,19.9,15871854424,2.8900,31
+153,Denny,12,18.1,0,17.1,18,Denny Scented Toilet Tissue,0,21,8.83,4.6,96475121378,2.7200,19
+154,Denny,11,16.8,0,13.7,20,Denny Room Freshener,1,21.5,9.84,16.1,69194105267,1.9600,16
+155,Denny,8,20.6,0,18.6,40,Denny Frying Pan,1,5.37,18.9,12.9,64154309630,3.8100,26
+156,Denny,11,21.5,0,19.5,87,Denny Copper Cleaner,0,20,21.2,17.5,96111059784,0.5500,20
+157,Denny,9,20.2,0,18.2,47,Denny Bees Wax Candles,1,20.5,22.2,9.04,60309030413,2.9500,18
+158,Denny,8,21.1,0,18.1,87,Denny Silver Cleaner,0,15.2,4.56,13.6,37601416707,1.5800,5
+159,Denny,5,10.1,0,8.1,86,Denny Copper Pot Scrubber,0,18.5,13.8,10.4,84939283728,1.7100,14
+160,Denny,9,9.18,0,7.18,85,Denny Economy Toilet Brush,0,13.8,4.92,6.91,31469436287,2.1300,3
+161,Denny,11,10,0,8,41,Denny Scissors,1,8.55,7.21,11.5,24142939448,1.5200,32
+162,Denny,8,13.8,0,10.8,42,Denny Large Sponge,1,12.4,16.3,8.34,18693817257,2.8500,6
+163,Denny,7,14.7,0,11.6,41,Denny Screw Driver,0,7.11,18.6,12.9,94507216811,2.3800,4
+164,Ship Shape,6,13.4,1,11.3,65,Ship Shape Extra Lean Hamburger,1,7.53,19.6,4.46,69512901902,2.9700,27
+165,Ship Shape,10,8.26,0,6.26,65,Ship Shape Seasoned Hamburger,0,16,3.99,9.36,90661937594,1.7500,31
+166,Robust,6,11.2,0,10.1,104,Robust Monthly Sports Magazine,1,14.4,18.9,6.67,11003258824,2.4700,31
+167,Robust,11,14.4,0,13.3,108,Robust Monthly Auto Magazine,0,18.3,5.88,13.8,91390060782,0.6000,6
+168,Robust,11,10.4,0,8.39,107,Robust Monthly Computer Magazine,0,9.67,8.92,11.6,94871278405,1.2600,23
+169,Robust,11,19.5,0,17.5,105,Robust Monthly Home Magazine,1,11.8,5.11,17.2,54495846629,1.9800,29
+170,Robust,9,9.56,0,8.56,106,Robust Monthly Fashion Magazine,0,9.95,4.41,5.74,57929857373,3.2000,23
+171,High Top,9,18.7,0,17.7,61,High Top Summer Squash,0,12,20.6,11.3,76792191863,2.9500,30
+172,High Top,8,16.1,1,14.1,61,High Top Corn on the Cob,0,4.75,18.4,12.3,18748942017,3.3200,3
+173,High Top,13,21.9,0,20.8,61,High Top Asparagus,0,7.34,9.15,22,72946912646,1.4300,13
+174,High Top,8,13.4,0,11.3,61,High Top Sweet Peas,1,21.8,21,12.3,50239298939,1.7100,22
+175,High Top,8,6.82,1,4.82,61,High Top New Potatos,1,13.2,15.4,13,97577165961,3.8500,16
+176,High Top,7,12.1,0,10.1,61,High Top Beets,1,8.42,14.9,10.4,44107318520,2.2700,29
+177,High Top,14,10.5,0,8.5,61,High Top Prepared Salad,0,3.3,16.2,5,36780821681,1.6600,19
+178,High Top,7,19.5,1,16.5,61,High Top Onions,1,12.3,18.2,20.3,42548740506,1.3300,25
+179,High Top,6,19.7,1,18.7,61,High Top Green Pepper,0,21.6,15.1,3.93,83242968916,2.7500,2
+180,High Top,9,12.3,0,11.3,61,High Top Shitake Mushrooms,0,10.9,18.2,17.3,34346523880,0.6900,17
+181,High Top,5,16.1,1,14.1,61,High Top Lettuce,0,14.5,15.1,16.1,79397689700,0.9300,23
+182,High Top,12,9.05,1,6.05,61,High Top Elephant Garlic,0,13.5,6.07,13.2,89739010930,1.8400,11
+183,High Top,8,7.06,0,5.05,61,High Top Red Pepper,1,18.6,19.5,4.13,80125812888,2.4100,22
+184,High Top,13,20,1,18,61,High Top Garlic,1,6.41,11.8,22.7,83607030510,3.4000,22
+185,High Top,12,9.3,0,7.3,61,High Top Potatos,1,4.14,8.03,11.4,43231598734,0.5700,24
+186,High Top,7,18.7,0,17.7,61,High Top Cauliflower,0,8.09,13.4,9.53,82048452496,2.2300,20
+187,High Top,6,14.8,1,13.8,61,High Top Tomatos,0,3.67,13.4,12.6,10910786986,1.3200,15
+188,High Top,8,14.7,1,11.6,61,High Top Mushrooms,1,10.6,19.2,22.3,18965407013,2.5800,14
+189,High Top,13,8.51,0,6.51,61,High Top Baby Onion,1,21.8,8.03,5.62,61946336627,3.4500,4
+190,High Top,6,18.7,1,17.7,61,High Top Dried Mushrooms,1,5.47,17.9,9.59,39238722920,3.7400,29
+191,High Top,7,12.6,0,9.6,61,High Top Fresh Lima Beans,1,16.7,14.4,19.9,86576589941,2.8700,22
+192,High Top,7,10.7,1,7.69,61,High Top Squash,0,14.2,15.6,20.3,33106742501,1.5200,4
+193,High Top,13,11.8,0,9.8,99,High Top Limes,1,18.3,14.9,8.64,25780245661,3.6800,11
+194,High Top,11,11.6,1,8.6,67,High Top Firm Tofu,1,10.2,7.38,18.8,31548164486,3.3600,21
+195,High Top,13,8.72,1,6.72,1,High Top Almonds,0,10.4,13,17.6,83459433913,1.7700,24
+196,High Top,10,12.1,1,10.1,99,High Top Macintosh Apples,1,16.2,19.1,7.29,58465119004,2.4700,27
+197,High Top,7,21.5,1,19.5,99,High Top Golden Delcious Apples,0,17.6,18.9,15.4,79614154696,2.9100,29
+198,High Top,13,17.2,1,14.2,99,High Top Red Delcious Apples,1,5.92,7.83,6.26,78738434910,0.9200,27
+199,High Top,10,19.2,0,18.2,99,High Top Lemons,1,4.65,4.92,19.8,69125236868,1.6700,33
+200,High Top,6,6.74,0,4.73,99,High Top Fancy Plums,0,20.4,17.6,8.38,72606454491,2.6500,12
+201,High Top,14,14.7,0,12.6,99,High Top Plums,0,7.33,11.8,10.8,32231022715,2.2500,29
+202,High Top,6,11.8,0,8.8,99,High Top Peaches,0,10.1,10.7,6.61,71047876477,1.4900,24
+203,High Top,5,8.85,0,5.85,61,High Top Broccoli,1,10.3,12,6.17,89910210967,0.6300,27
+204,High Top,7,13.6,0,10.6,99,High Top Mandarin Oranges,0,20.7,17,22.6,97964830994,1.6000,31
+205,High Top,5,13.9,0,11.8,1,High Top Mixed Nuts,1,5,11.8,4.96,86064931750,2.7100,9
+206,High Top,7,10.9,1,7.89,1,High Top Canned Peanuts,0,17.8,19.6,22.6,50672228932,2.1100,15
+207,High Top,14,13.5,1,11.5,61,High Top Sweet Onion,1,11.3,17.8,16,98010095953,1.2400,7
+208,High Top,6,13.4,1,10.3,99,High Top Cantelope,1,8.32,21.4,6.06,44540248513,2.4700,23
+209,High Top,6,17.3,0,15.2,99,High Top Honey Dew,1,21.4,18.6,7.99,37213751673,1.8700,16
+210,High Top,10,17,1,14,99,High Top Fuji Apples,0,13.8,4.23,16.1,42981670498,1.5400,27
+211,High Top,7,14.5,0,12.5,1,High Top Walnuts,1,14,12.1,4.6,94892939925,2.7200,1
+212,High Top,9,9.78,0,7.77,99,High Top Oranges,0,12.3,4.27,13.1,69898625016,1.6600,14
+213,High Top,11,7.22,0,5.21,99,High Top Tangerines,1,7.56,7.71,4.08,91047660708,0.5600,11
+214,High Top,13,21.6,1,19.6,1,High Top Party Nuts,1,4.93,14.5,8.56,35291112065,2.8200,18
+215,Tip Top,13,14.1,0,11.1,24,Tip Top Lox,1,11.6,12,12.1,80295071005,0.7900,10
+216,Tip Top,7,21.3,1,20.2,2,Tip Top Scallops,1,6.31,18.3,18.3,83776288628,3.6000,22
+217,Best Choice,13,16,0,14,45,Best Choice Low Fat Cookies,1,22.3,10.5,14.4,19498726725,0.6800,21
+218,Best Choice,6,16.2,0,14.2,12,Best Choice BBQ Potato Chips,0,4.03,12,19.8,82217710614,3.4400,13
+219,Best Choice,12,20.6,1,18.6,12,Best Choice Corn Chips,1,7.04,14.8,22.4,11080045104,2.5200,15
+220,Best Choice,7,12.2,1,10.1,12,Best Choice Low Fat BBQ Chips,0,6.56,17.8,12.5,19134665131,2.5500,7
+221,Best Choice,14,15.2,0,13.1,45,Best Choice Sugar Cookies,0,20,10.5,8.6,97234765887,3.6600,36
+222,Best Choice,9,15,1,12,45,Best Choice Chocolate Chip Cookies,0,21.9,16.3,19.9,74527152180,3.9500,29
+223,Best Choice,6,20.3,0,19.2,45,Best Choice Fudge Cookies,1,4.67,12.5,7.02,97962889075,3.1900,36
+224,Best Choice,7,8.24,0,6.23,45,Best Choice Fudge Brownies,0,10.2,14.2,10.6,33276000618,1.7300,32
+225,Best Choice,5,19.8,0,16.7,12,Best Choice Potato Chips,0,15.9,17.5,11.5,25949503779,3.8900,7
+226,Best Choice,13,10.4,1,7.39,45,Best Choice Lemon Cookies,1,10.7,11.6,18.1,31717422604,0.7600,22
+227,Best Choice,9,15.7,1,14.6,45,Best Choice Graham Crackers,0,3.49,5.62,5.65,83628692030,1.9800,12
+228,Best Choice,14,8.71,1,6.71,82,Best Choice Cheese Crackers,0,7.58,7.63,22.6,58634377121,0.8200,11
+229,Best Choice,10,13.6,0,10.6,54,Best Choice Buttered Popcorn,0,20.4,7.12,7.48,79783412814,2.2300,33
+230,Best Choice,12,14.7,1,12.6,54,Best Choice No Salt Popcorn,1,6.97,11.9,5.64,24026864171,1.1900,21
+231,Best Choice,11,10,0,8,54,Best Choice Low Fat Popcorn,0,22.8,7.41,22.8,14413666129,2.6500,30
+232,Best Choice,9,16.1,0,15.1,83,Best Choice Salsa Dip,0,22.6,3.75,17.4,17894883751,2.6300,16
+233,Best Choice,9,18.6,0,16.6,83,Best Choice Avocado Dip,1,11.2,21.9,12.4,98498150706,2.4600,1
+234,Best Choice,5,14.4,1,12.3,46,Best Choice Salted Pretzels,0,9.5,17.5,22.1,71217134594,2.7000,17
+235,Best Choice,10,11.5,0,8.5,83,Best Choice Cheese Dip,0,14.7,22,7.91,90079469084,3.5500,35
+236,Best Choice,13,10.8,1,8.8,83,Best Choice Fondue Mix,0,6.88,11.1,17,98134089112,1.8100,7
+237,Best Choice,14,21.6,1,19.6,84,Best Choice Mini Donuts,1,12.8,9.93,12,86234189867,2.6800,23
+238,Best Choice,8,8.17,1,5.17,17,Best Choice Beef Jerky,0,3.98,13.7,17,63526576161,1.9700,32
+239,Best Choice,14,16.5,1,14.5,84,Best Choice Chocolate Donuts,1,10.7,17.9,22.7,86962313055,2.2100,5
+240,Best Choice,12,7.13,1,6.13,12,Best Choice Low Fat Chips,0,10.9,5.04,5.62,33492465615,0.8600,33
+241,Best Choice,9,21.5,0,20.5,82,Best Choice Sesame Crackers,1,5.83,6.32,20.2,50068098902,2.9100,24
+242,Best Choice,8,9.51,1,7.51,45,Best Choice Frosted Cookies,0,11.4,20.1,10.1,20716846585,2.5900,23
+243,Best Choice,11,6.6,1,3.59,109,Best Choice Dried Apples,1,16.7,20.2,16.6,72628116011,2.1100,6
+244,Best Choice,5,7.29,1,4.28,109,Best Choice Apple Fruit Roll,1,13.4,8.36,12.5,47633801102,2.7000,22
+245,Best Choice,6,9.9,0,6.89,109,Best Choice Strawberry Fruit Roll,0,12,17.6,5.81,68782836794,1.4900,19
+246,Best Choice,7,18.8,0,17.7,109,Best Choice Raspberry Fruit Roll,1,11.1,8.59,22.9,13026288151,3.2100,22
+247,Best Choice,9,13,0,10,109,Best Choice Grape Fruit Roll,0,12.1,14.1,8.47,93413090109,1.7800,17
+248,Best Choice,10,14.7,1,12.6,109,Best Choice Dried Dates,1,8.54,4.48,7.37,72992177605,0.8600,26
+249,Best Choice,9,20,0,18,109,Best Choice Raisins,0,6.27,20.6,16.1,32616745829,1.5900,28
+250,Best Choice,9,13.4,0,12.3,109,Best Choice Golden Raisins,0,10.2,6.05,14.2,95335729718,2.5900,18
+251,Best Choice,12,18.6,0,16.6,109,Best Choice Dried Apricots,0,22.9,6.7,3.88,78815221190,2.4400,14
+252,Best Choice,6,20.7,0,17.7,84,Best Choice Frosted Donuts,0,4.18,13.7,6.65,20771971344,2.7100,2
+253,Choice,14,18.2,1,15.2,36,Choice Tasty Candy Bar,0,19.3,10.5,15.3,74969941973,0.8900,34
+254,Choice,7,11.6,1,8.6,36,Choice Mint Chocolate Bar,0,8.18,19.3,6.13,76164458394,0.5600,33
+255,Choice,6,8.65,1,6.64,36,Choice Malted Milk Balls,0,3.48,12.7,13.6,99600195288,0.6400,34
+256,Choice,14,21.7,0,20.7,36,Choice Semi-Sweet Chocolate Bar,1,11.2,18.3,10,46130347847,2.6500,28
+257,Choice,5,6.89,1,5.88,37,Choice Bubble Gum,0,15.3,17.6,18.2,62705981135,0.5300,5
+258,Choice,7,18.6,0,16.6,38,Choice Spicy Mints,1,13.5,17.5,7.26,68473899960,1.7200,27
+259,Choice,14,18.4,0,17.3,38,Choice Mints,1,7.96,15.6,7.38,61363868117,1.9000,20
+260,Choice,7,21.9,0,18.8,36,Choice White Chocolate Bar,0,13.7,21.6,17,36369553208,1.8400,16
+261,Medalist,6,17.5,0,14.5,5,Medalist Ravioli,1,4.39,17.2,9.16,57518588900,3.3800,5
+262,Medalist,9,21,0,20,5,Medalist Manicotti,1,5.19,21.1,17.4,91762040257,1.3400,31
+263,Medalist,7,13.9,0,11.8,5,Medalist Spaghetti,1,6.78,17.5,4.53,82148842215,3.8000,1
+264,Medalist,6,18.7,1,16.7,57,Medalist Thai Rice,1,7.16,15.9,22,61727929711,2.7800,24
+265,Medalist,13,10.7,1,9.69,57,Medalist Rice Medly,1,14,10.1,4.52,21352497935,3.6100,6
+266,Good,12,6.89,0,5.88,43,Good Imported Beer,0,7.12,13.4,16.2,84071481823,1.6200,13
+267,Good,5,6.98,0,4.98,44,Good Light Wine,0,12.1,13.4,14.6,79031686186,0.8300,24
+268,Good,13,9.26,0,7.26,44,Good Chardonnay Wine,0,11.4,14.7,6.06,99771395325,1.7300,20
+269,Good,13,10.5,0,8.5,44,Good Chablis Wine,0,21.4,22.3,9.88,63969365954,2.8400,12
+270,Good,13,9.71,0,6.71,44,Good Merlot Wine,1,16.6,6.7,4.16,65163882374,2.2400,35
+271,Good,12,12,0,9,44,Good Chardonnay,1,15.9,7.97,15.6,88599619269,2.3700,31
+272,Good,10,7.07,0,6.07,44,Good White Zinfandel Wine,1,17.5,19.8,8.64,35129771828,3.9100,2
+273,Good,8,9.35,0,6.35,43,Good Light Beer,0,16.8,21.1,20,51705405116,2.1800,33
+274,Great,9,8.5,1,7.5,27,Great Pumpernickel Bread,0,12.1,5.48,14.3,57473323941,3.7400,21
+275,Great,11,17.4,0,14.3,27,Great White Bread,1,18.5,14.2,12.6,19384593367,3.2700,35
+276,Great,8,6.2,1,5.19,27,Great Rye Bread,1,8.96,19.2,9.13,84390278458,3.8600,11
+277,Great,6,11.5,1,9.5,26,Great English Muffins,0,16.6,22.1,16.7,68952094912,2.4100,24
+278,Great,7,8.55,1,5.55,26,Great Cranberry Muffins,1,9.49,9.99,14.4,13195546269,3.3600,2
+279,Great,5,6.44,1,5.44,26,Great Muffins,0,14.5,10.1,7.53,93582348227,2.8200,18
+280,Great,7,6.29,0,3.28,25,Great Bagels,0,11.4,13.7,17.5,73161435723,1.8100,34
+281,Great,6,10.1,1,8.1,26,Great Blueberry Muffins,1,4.61,10.9,19.4,32786003947,2.6300,28
+282,Great,7,13.6,0,11.6,27,Great Wheat Bread,1,15.4,17,7.43,95504987835,0.9300,30
+283,Super,13,17.5,1,14.5,49,Super Sesame Oil,1,18.4,13.1,21.1,90465192198,2.7300,3
+284,Super,9,7.71,1,5.71,53,Super Chunky Peanut Butter,0,13.4,17.2,4.45,32421942353,0.9900,22
+285,Super,7,9.85,1,7.85,51,Super Hot Chocolate,0,17.1,18.7,15.6,86619912981,1.8600,28
+286,Super,9,8.25,0,7.25,50,Super Brown Sugar,1,14.5,5.57,20.1,63912299275,1.4200,35
+287,Super,5,11.7,1,10.6,50,Super White Sugar,1,17.8,14.9,18.3,10033125281,1.5600,21
+288,Super,8,18.9,0,16.8,90,Super French Roast Coffee,0,12.4,21.2,4.62,46563277840,2.8600,33
+289,Super,10,7.96,0,5.96,90,Super Decaf Coffee,0,20.8,20.5,9.75,39236781001,1.3700,16
+290,Super,5,6.09,0,3.09,90,Super Regular Coffee,1,21.3,14.9,12.3,45004699826,1.7000,14
+291,Super,11,9.24,0,7.23,49,Super Vegetable Oil,0,10.3,22.9,9.32,30818099379,2.2200,32
+292,Super,8,7.64,1,5.63,49,Super Corn Oil,0,5.24,4.2,3.9,95823784470,1.8100,23
+293,Super,9,10.6,0,8.6,48,Super Tomato Sauce,0,21.1,22.4,9.82,26972820162,1.6000,5
+294,Super,10,10.9,1,7.89,49,Super Canola Oil,0,10.4,19.4,13.4,37314141392,1.3200,30
+295,Super,13,9.4,1,8.39,33,Super Grape Preserves,1,12.8,6.24,16.2,27700943350,3.1200,21
+296,Super,7,11,0,8,90,Super Columbian Coffee,1,21.7,19.9,5.45,62951875329,0.5000,36
+297,Super,8,17.4,1,14.3,31,Super Strawberry Jelly,0,14.7,18.1,17.4,22576443552,0.9000,26
+298,Super,11,17.7,1,15.7,4,Super Pepper,0,8.49,9.38,19.3,61393297314,2.8300,34
+299,Super,12,16.6,0,14.6,33,Super Low Fat Apple Butter,0,3.22,14,15,80255631804,1.6800,27
+300,Super,8,16.8,0,14.7,4,Super Salt,1,15,16.5,8.62,22212381958,2.9400,5
+301,Super,13,10.8,1,8.8,33,Super Apple Butter,0,21.3,6.37,18.4,76410352587,0.5300,22
+302,Super,7,13.7,0,11.6,4,Super Oregano,1,17.2,15.7,5.84,53702738881,3.4500,26
+303,Super,8,13.6,1,11.6,31,Super Apple Jelly,1,11.7,13.7,5.96,11040605902,2.5800,32
+304,Super,10,10.1,0,8.1,32,Super Grape Jam,1,14.6,20.4,22.1,47570758461,1.8900,24
+305,Super,10,6.72,1,5.71,32,Super Apple Jam,0,20.1,17.2,7.47,29027220606,3.3900,4
+306,Super,13,16.5,1,14.5,32,Super Strawberry Jam,0,3.8,9.34,21,34795139431,3.9600,29
+307,Super,10,18.2,1,15.2,53,Super Creamy Peanut Butter,0,7.67,16.3,9.67,20608538985,1.4800,9
+308,Super,10,8.82,1,7.81,33,Super Strawberry Preserves,0,7.47,6.02,15.3,61712093949,2.1800,24
+309,Super,13,18.7,1,17.7,53,Super Extra Chunky Peanut Butter,1,13.7,11.4,5.92,16763259768,3.6200,6
+310,Super,11,10.8,1,8.8,33,Super Apple Preserves,1,13.1,22.2,16.4,27104580998,0.7600,29
+311,Super,9,9.67,0,8.67,31,Super Grape Jelly,0,17.8,20.2,13.2,17491382956,2.1500,5
+312,Excellent,12,12.6,0,10.6,30,Excellent Berry Juice,1,3.71,8.55,12.4,20972600579,2.1300,2
+313,Excellent,12,7.12,1,5.11,52,Excellent Mango Drink,0,10.4,3.73,4.89,11575867533,2.8500,16
+314,Excellent,10,9.26,1,7.26,52,Excellent Strawberry Drink,0,14.1,5.25,16,50392721295,1.8500,22
+315,Excellent,12,15.5,0,14.5,19,Excellent Cream Soda,0,4.09,7.06,18,69255055785,0.9600,29
+316,Excellent,9,7.28,0,5.28,19,Excellent Diet Soda,1,21.6,4.27,16.8,77309675812,1.3100,22
+317,Excellent,14,13.1,0,11.1,19,Excellent Cola,1,19.8,10.2,7.56,65409776568,2.1800,22
+318,Excellent,12,17.8,0,16.7,19,Excellent Diet Cola,1,13.3,10.5,9.17,42702162861,2.4700,8
+319,Excellent,12,9.58,0,7.57,30,Excellent Orange Juice,0,10.9,7.76,7.97,90040029883,1.6000,6
+320,Excellent,12,16.4,0,14.3,30,Excellent Cranberry Juice,0,13.7,3.87,13.6,36570182442,3.2600,14
+321,Excellent,13,13.2,0,12.1,30,Excellent Apple Juice,1,14.7,9.2,17.7,29243685603,2.4100,13
+322,Excellent,8,12.8,0,10.8,52,Excellent Apple Drink,0,4.84,21.3,14,35011604428,2.9800,28
+323,Best,6,15.4,1,12.3,35,Best Oatmeal,0,18.4,19.6,7.44,75705832839,3.5000,19
+324,Best,9,7.43,0,5.42,35,Best Corn Puffs,0,22.8,8.22,19.9,50711517930,1.9700,13
+325,Best,7,19.1,0,18.1,35,Best Wheat Puffs,1,8.52,20.4,19.3,71860553622,1.5100,29
+326,Best,11,8.87,0,6.86,35,Best Grits,1,13.6,7.75,20.4,16104004979,2.4700,5
+327,Better,10,8.6,1,7.6,62,Better Canned Beets,0,8.49,18.8,18.5,96490806937,0.6000,26
+328,Better,9,11.6,0,10.6,62,Better Creamed Corn,1,19.4,5.99,4.6,99972024559,1.2600,26
+329,Better,8,10.9,1,8.89,62,Better Canned String Beans,1,14,20.6,3.61,59596592783,1.7400,22
+330,Better,7,7.47,0,5.46,58,Better Chicken Soup,0,11.9,16.2,19.9,98413446545,3.9800,8
+331,Better,14,15.9,0,13.8,62,Better Canned Yams,0,18.7,13.7,3.51,57990807890,2.8300,22
+332,Better,8,9.36,0,7.35,58,Better Vegetable Soup,0,7.64,21.3,22.8,66045427918,2.2100,25
+333,Better,14,17.9,1,16.8,62,Better Canned Tomatos,0,9.37,12.2,5.86,54145528674,1.3200,33
+334,Better,7,9,0,8,58,Better Noodle Soup,1,19,18.5,13.7,31437914967,0.7800,26
+335,Better,13,8.73,0,6.72,58,Better Regular Ramen Soup,1,8.37,17.7,6.99,78775781989,3.7400,17
+336,Better,10,13.1,0,11.1,58,Better Chicken Noodle Soup,1,3.89,3.92,19.9,25305934548,1.1500,2
+337,Better,10,8.34,1,7.34,58,Better Turkey Noodle Soup,1,4.76,21.6,18.4,17979437708,0.7500,9
+338,Better,10,16.9,0,14.8,58,Better Beef Soup,1,8.98,18,11.3,23747356534,0.5700,6
+339,Better,9,21.3,1,19.2,62,Better Canned Peas,1,22,18.6,14.3,75658625960,1.4000,31
+340,Better,12,16,1,13,58,Better Chicken Ramen Soup,1,15.5,5.21,20.5,50664311051,0.6300,6
+341,Better,6,21.7,0,19.7,93,Better Canned Tuna in Water,0,3,19.2,22.9,60596305727,2.7700,19
+342,Better,11,14.2,1,13.1,93,Better Canned Tuna in Oil,1,17.2,4.6,17.7,94839757084,1.5000,26
+343,Better,10,8.55,0,6.55,94,Better Large Canned Shrimp,0,13.3,6.7,10.5,85226559042,2.3000,29
+344,Better,5,10.5,1,7.5,95,Better Fancy Canned Anchovies,1,14.6,9.34,14,88707776665,2.2800,24
+345,Better,12,17.6,1,16.6,96,Better Fancy Canned Clams,1,21.7,10.1,12,24430214762,2.1100,36
+346,Better,8,15.6,0,12.6,97,Better Fancy Canned Oysters,0,4.3,18,12.9,87149198651,2.1200,30
+347,Better,12,11.8,1,8.8,98,Better Fancy Canned Sardines,0,9.88,9.13,14.2,16011533141,1.2000,7
+348,Better,5,7.98,0,5.98,58,Better Rice Soup,1,7.97,14.6,7.29,24066153168,1.2300,25
+349,Swell,7,8.62,1,7.61,3,Swell Canned Mixed Fruit,0,12,16.2,5.14,65579034686,2.3400,3
+350,Swell,8,15.3,0,12.3,3,Swell Canned Peaches,1,6.82,3.6,9.54,42871420979,1.6300,12
+351,ADJ,8,19.6,0,18.6,89,ADJ Rosy Sunglasses,1,9.84,17.5,13.6,66307157874,2.7600,26
+352,Black Tie,7,10.6,0,8.6,103,Black Tie Eyeglass Screwdriver,0,17.6,12.4,6.19,36739440560,0.6700,8
+353,Black Tie,14,8.78,0,7.77,102,Black Tie City Map,1,3.26,16.7,17.1,29412943720,1.5700,1
+354,Carlson,5,9.77,0,8.77,15,Carlson Low Fat Cottage Cheese,0,17.9,7.92,20.2,35180862545,2.2500,8
+355,Carlson,7,12.2,0,11.1,14,Carlson Low Fat Sour Cream,0,14.4,20.3,22.2,87092131972,0.8100,17
+356,Carlson,6,8.79,0,5.78,14,Carlson Sour Cream,1,19.9,17,7.61,62097817063,2.3600,33
+357,Carlson,6,12.2,1,9.19,11,Carlson Jack Cheese,1,20.7,20.8,15.9,83246852755,1.8000,17
+358,Carlson,10,19.3,0,16.2,11,Carlson Muenster Cheese,0,22.9,6.08,14.8,16273263096,3.7500,30
+359,Carlson,6,20.9,0,18.8,11,Carlson String Cheese,1,19.2,7.58,15.2,96660065054,1.3200,16
+360,Carlson,10,9.8,1,6.8,11,Carlson Low Fat String Cheese,1,22.1,4.85,20.4,10141282677,1.3100,20
+361,Carlson,12,14.1,0,12.1,11,Carlson Havarti Cheese,1,22.6,13.2,14.7,35863720774,1.1300,15
+362,Carlson,9,10.8,0,9.8,11,Carlson Head Cheese,0,13.1,9.91,18.3,98582704663,3.9700,26
+363,Carlson,13,8.71,1,6.71,11,Carlson Cheese Spread,1,15.5,10.1,12.2,27445039153,1.8200,22
+364,Carlson,10,17.1,0,15.1,11,Carlson Sharp Cheddar Cheese,0,7.25,9.87,17.1,35499659180,2.2000,7
+365,Carlson,5,11.9,0,9.89,11,Carlson Mild Cheddar Cheese,1,5.76,16.4,21.6,23599759936,3.9600,29
+366,Carlson,11,19.6,0,16.6,15,Carlson Large Curd Cottage Cheese,1,22.7,22.7,20.3,90892146229,2.3600,32
+367,Carlson,5,11.6,0,9.6,76,Carlson 2% Milk,1,7.15,11.4,12.9,55306581854,3.4900,27
+368,Carlson,12,14.4,0,12.3,76,Carlson Buttermilk,0,21.2,9.36,4.92,91836734414,1.1400,13
+369,Carlson,13,19.4,0,17.3,76,Carlson Chocolate Milk,0,9.71,8.6,10,18412367701,2.3000,31
+370,Carlson,13,6.63,0,5.63,76,Carlson 1% Milk,1,13.6,11.1,17.9,24180286526,0.9200,35
+371,Carlson,5,9.78,0,7.77,76,Carlson Whole Milk,1,22.6,19.1,14.9,76091555953,0.6600,13
+372,Carlson,7,14.8,0,12.8,6,Carlson Strawberry Yogurt,0,11,18.3,20,51097241044,3.9800,30
+373,Carlson,13,11.9,1,10.8,6,Carlson Blueberry Yogurt,1,21.3,9.54,6.33,72246276736,2.7600,19
+374,Moms,6,11.3,0,10.3,81,Moms Chicken Hot Dogs,1,18.4,18.6,13.7,16489728093,1.4900,32
+375,Moms,13,18.4,0,17.3,91,Moms Pimento Loaf,1,10.5,10.5,11.5,96876530051,2.2900,27
+376,Moms,5,12.3,1,11.3,91,Moms Beef Bologna,0,4.38,12.6,11.8,64974904656,2.2700,3
+377,Moms,12,18,0,17,91,Moms Low Fat Bologna,0,6.97,14.3,3.03,24599472880,2.1000,7
+378,Moms,14,17.3,1,16.2,81,Moms Turkey Hot Dogs,1,8.95,6.91,3.21,87318456768,1.1100,6
+379,Moms,6,16.2,0,14.2,81,Moms Foot-Long Hot Dogs,1,3.68,11.5,18.9,82278661131,3.8500,34
+380,Moms,7,21.4,1,19.3,16,Moms Low Fat Cole Slaw,1,18.9,22.1,17.7,24235411286,1.2200,6
+381,Moms,12,10.3,1,8.3,16,Moms Cole Slaw,1,21.7,3.9,22.2,78433381915,2.3300,23
+382,Moms,6,10.2,1,8.19,77,Moms Roasted Chicken,1,13.7,16.3,12.4,79627898335,1.6200,27
+383,Moms,7,13.2,1,11.1,8,Moms Corned Beef,1,12.1,11.3,9.78,13063635230,2.7500,33
+384,Moms,9,14.7,1,12.6,8,Moms Sliced Turkey,1,18.5,6.15,11.2,49593787789,0.5400,25
+385,Moms,9,11.3,0,9.3,8,Moms Sliced Ham,0,3.99,22.8,16.6,31050249934,1.5600,5
+386,Moms,10,16.9,1,13.8,16,Moms Potato Salad,1,19.5,9.91,14.4,36818168759,2.2300,15
+387,Moms,8,17.7,0,16.7,8,Moms Sliced Chicken,1,13.6,21.3,19,88729438185,2.4100,14
+388,Urban,12,19.3,1,17.2,66,Urban Small Brown Eggs,1,10,22.8,19.4,63735123276,2.3500,35
+389,Urban,10,14.1,0,12.1,66,Urban Large Brown Eggs,0,6.05,3.86,14,84884158968,1.7900,27
+390,Urban,9,10.3,0,8.3,66,Urban Small Eggs,1,19.1,7.19,5.77,29127610325,3.7400,34
+391,Urban,7,9.21,0,7.21,66,Urban Large Eggs,0,3.87,5.17,22.5,19514412283,1.3100,9
+392,Urban,13,13,1,10,66,Urban Egg Substitute,0,19.4,9.12,5.84,89093499779,1.3000,29
+393,Big Time,9,21.5,0,19.5,34,Big Time Low Fat Waffles,1,11.1,8.88,10.6,48718068003,1.1200,14
+394,Big Time,12,10.4,0,7.39,110,Big Time Orange Popsicles,1,16.5,11.7,5.83,76317880749,3.1300,13
+395,Big Time,6,8.3,0,6.3,100,Big Time Frozen Chicken Breast,1,21.5,11.8,18.9,71278085112,2.2200,30
+396,Big Time,10,16.3,0,14.2,29,Big Time Frozen Pancakes,1,5.92,20.4,11.4,13234835267,3.2400,25
+397,Big Time,7,12,0,9,63,Big Time Low Fat French Fries,0,11.6,12.6,10.8,67432805895,1.3500,5
+398,Big Time,7,15.5,1,12.5,64,Big Time Frozen Sausage Pizza,1,22.4,18.7,18.8,68627322316,0.8000,7
+399,Big Time,7,10.2,0,8.19,34,Big Time Blueberry Waffles,0,13.4,19.7,15.1,92063059210,0.8700,29
+400,Big Time,10,9.57,0,8.56,63,Big Time Fajita French Fries,1,20.4,18.9,15.8,38593211770,1.4300,34
+401,Big Time,8,13.9,0,11.8,34,Big Time Waffles,0,18.4,21.7,20.1,55168845057,0.7000,30
+402,Big Time,5,9.16,1,7.15,64,Big Time Frozen Pepperoni Pizza,1,11.8,11.6,7.49,60936763882,1.1300,8
+403,Big Time,6,13.6,1,11.6,64,Big Time Frozen Cheese Pizza,1,4.85,16.6,9.78,77728862166,1.5500,33
+404,Big Time,9,6.98,0,3.98,64,Big Time Frozen Mushroom Pizza,1,13.8,4.28,9.14,52734547257,1.2500,35
+405,Big Time,12,19.6,0,17.6,34,Big Time Apple Cinnamon Waffles,0,9.24,7.65,13.3,73883582949,3.6900,33
+406,Big Time,8,20.7,0,18.7,60,Big Time Frozen Carrots,0,20.6,4.74,22.8,18127034306,1.6400,1
+407,Big Time,9,6.35,1,5.34,10,Big Time Turkey TV Dinner,0,14.5,20.6,13.2,98513836264,3.2100,34
+408,Big Time,6,15.7,1,14.6,10,Big Time Chicken TV Dinner,1,13.4,14.9,11.5,78092923760,2.2000,19
+409,Big Time,11,10.9,1,8.89,10,Big Time Beef TV Dinner,1,14.3,12.6,10,37717491984,3.9100,15
+410,Big Time,7,19.8,1,18.7,28,Big Time Pancake Mix,0,13.4,19.1,7.9,10436475872,1.2600,8
+411,Big Time,6,8.25,1,7.25,110,Big Time Grape Popsicles,1,6.45,19.7,10.9,95396680235,0.5100,33
+412,Big Time,12,18.9,1,15.8,63,Big Time Home Style French Fries,1,19.9,6.28,17.1,91970587372,1.3800,14
+413,Big Time,6,18.4,0,17.3,110,Big Time Lime Popsicles,1,4.55,12,14.2,56168558001,2.2500,28
+414,Big Time,12,19.9,1,16.8,9,Big Time Ice Cream,1,16.3,19.9,12,33460944294,2.7700,3
+415,Big Time,10,17.4,1,16.3,9,Big Time Ice Cream Sandwich,1,16.5,18.9,21.9,80798811316,2.9100,6
+416,Big Time,8,7.2,0,6.19,60,Big Time Frozen Cauliflower,1,16.6,4.05,21.7,27328963875,3.3200,21
+417,Big Time,9,14.2,0,12.1,60,Big Time Frozen Broccoli,1,3.76,4.82,19.7,20002467036,2.7200,4
+418,Big Time,13,13.2,0,11.1,60,Big Time Frozen Corn,1,15.9,8.34,4.8,25770385861,3.1600,15
+419,Big Time,9,8.5,0,6.5,60,Big Time Frozen Peas,0,11.8,3.84,22,11583785414,3.5700,10
+420,Big Time,12,20.6,1,19.6,9,Big Time Popsicles,1,9.94,9.4,15,41470299363,2.2700,29
+421,Big Time,11,6.19,0,4.19,100,Big Time Frozen Chicken Thighs,1,3.71,6.53,16.9,62619335055,2.9500,23
+422,Big Time,12,7.87,1,5.86,100,Big Time Frozen Chicken Wings,0,15,5.8,16,72960656285,3.6700,33
+423,Big Time,9,17.2,1,15.2,110,Big Time Lemon Popsicles,0,21.5,7.84,5.5,63347458243,1.4700,5
+424,Steady,7,9.65,0,7.64,78,Steady Silky Smooth Hair Conditioner,1,10.7,17.6,21.1,66828675866,1.4500,14
+425,Steady,7,9.18,0,6.18,39,Steady Tartar Control Toothpaste,0,20.9,20.9,18.9,26453244090,1.2800,29
+426,Steady,13,11.5,0,10.5,39,Steady Whitening Toothpast,0,20.1,11,8.92,65270097851,0.6000,30
+427,Steady,7,8.89,0,5.89,39,Steady Toothpaste,0,16,13,13.5,84132432341,2.1400,26
+428,Steady,7,8.43,0,7.43,39,Steady Deodorant,0,6.18,16.3,11.3,26089182496,0.6700,6
+429,Steady,13,12,0,10,79,Steady Conditioning Shampoo,1,4.93,6.71,21.2,67602064013,1.5100,7
+430,Steady,12,11.5,0,8.5,79,Steady Extra Moisture Shampoo,1,15,10,19,44894450306,1.8000,32
+431,Steady,12,19.9,0,18.8,88,Steady Angled Toothbrush,0,7.5,3.9,18.4,92232317328,0.9600,11
+432,Steady,9,11.3,0,9.3,79,Steady Apricot Shampoo,0,10.2,22.1,13.7,38762469887,2.3500,13
+433,Steady,9,10.8,0,8.8,70,Steady Childrens Aspirin,1,20.3,5.49,11.5,31435973048,1.7400,28
+434,Steady,8,19.1,0,18.1,70,Steady Buffered Aspirin,0,12.7,19.3,10.8,37203891873,1.4200,17
+435,Steady,6,11.8,0,9.8,71,Steady 200 MG Ibuprofen,1,14.9,17.8,6.09,23017291426,2.8300,18
+436,Steady,5,6.32,0,4.32,72,Steady 200 MG Acetominifen,0,21.6,13,18.5,64120846390,1.5300,33
+437,Steady,9,19.9,0,17.8,73,Steady HCL Nasal Spray,0,12.3,5.08,8.21,19172012209,1.9700,14
+438,Steady,12,19.5,0,16.5,73,Steady Dishwasher Detergent,1,22.5,8.38,5.99,84394162297,1.9300,35
+439,Steady,10,21.8,0,20.7,75,Steady Multi-Symptom Cold Remedy,1,21.8,18.5,15.9,74780964255,3.5000,1
+440,Steady,9,19.2,0,17.2,75,Steady Childrens Cold Remedy,1,17.6,20.5,20.6,78262181878,0.6700,26
+441,Steady,8,13.7,0,10.6,74,Steady Laundry Detergent,1,4.37,15.7,13.1,37886750102,0.5700,6
+442,Steady,6,21.1,0,20.1,74,Steady Mint Mouthwash,0,7.08,14,8.4,76703603863,2.2400,8
+443,Red Wing,10,20.6,0,18.6,80,Red Wing 60 Watt Lightbulb,1,17.2,17.3,6.18,95565938353,1.3300,29
+444,Red Wing,10,20.1,0,18.1,56,Red Wing Plastic Forks,0,7.8,22.5,20.4,13620558381,2.5900,9
+445,Red Wing,11,16.5,0,15.5,56,Red Wing Plastic Spoons,1,13.9,8.96,21,91720659136,3.4600,17
+446,Red Wing,10,11,0,9,56,Red Wing Plastic Knives,0,20.6,4.14,13.4,69013045430,3.7500,31
+447,Red Wing,6,19.4,0,17.3,101,Red Wing C-Size Batteries,1,13,18,12.8,81231741309,2.8800,15
+448,Red Wing,7,15.8,0,14.8,80,Red Wing 100 Watt Lightbulb,0,19.2,4.44,13.4,27761893868,1.5400,23
+449,Red Wing,10,10.3,0,8.3,101,Red Wing AAA-Size Batteries,1,5.93,19.6,5.9,20435397028,3.6900,9
+450,Red Wing,10,18.9,0,17.8,55,Red Wing Paper Plates,0,13.2,3.56,10.2,26203315854,3.3700,18
+451,Red Wing,11,13.4,0,11.3,55,Red Wing Paper Cups,1,19.9,18.7,22.7,78114585280,1.7800,25
+452,Red Wing,11,11.1,0,8.1,80,Red Wing 75 Watt Lightbulb,0,5.54,5.32,3.26,53120270371,2.4800,5
+453,Red Wing,6,19.4,0,18.3,22,Red Wing Toilet Bowl Cleaner,1,17.9,19.2,22.6,74269306063,2.9200,24
+454,Red Wing,6,14,0,12,22,Red Wing Counter Cleaner,0,4.68,14.3,15,18512757420,0.9300,3
+455,Red Wing,7,10.4,0,7.39,22,Red Wing Glass Cleaner,1,10.8,20.7,15.6,64571403861,1.6800,11
+456,Red Wing,11,13.7,0,12.6,80,Red Wing 25 Watt Lightbulb,1,19.8,6.56,9.73,68052621483,2.6700,30
+457,Red Wing,11,13.2,0,11.1,101,Red Wing AA-Size Batteries,1,9.95,9.86,7.51,27677189707,2.2600,10
+458,Red Wing,9,16.8,0,14.7,101,Red Wing D-Size Batteries,1,8.7,20.1,17.4,66494043469,1.5000,10
+459,Red Wing,12,16.4,0,15.3,18,Red Wing Paper Towels,0,18.8,3.49,15.2,85356377959,0.6400,31
+460,Red Wing,11,13.7,0,11.6,18,Red Wing Soft Napkins,1,14.6,5.52,19.8,93410997986,1.6100,21
+461,Red Wing,8,16.1,0,13.1,18,Red Wing Scented Tissue,0,13.9,15.6,9.86,81511098742,2.7200,23
+462,Red Wing,8,15.6,0,14.6,18,Red Wing Toilet Paper,1,4.12,18.9,7.65,58803485035,2.1200,2
+463,Red Wing,12,8.28,0,5.27,18,Red Wing Tissues,1,11.4,22.9,11.9,16141352057,1.2500,18
+464,Red Wing,9,15.6,0,14.6,18,Red Wing Scented Toilet Tissue,1,14.1,21.1,7.28,41454463601,3.5600,20
+465,Red Wing,9,15.2,0,13.1,20,Red Wing Room Freshener,0,4.26,4.5,5.06,34127966761,2.9500,35
+466,Red Wing,8,8.79,0,5.78,40,Red Wing Frying Pan,0,16.1,18.5,4.36,39895885586,2.6300,23
+467,Red Wing,7,8.33,0,7.32,87,Red Wing Copper Cleaner,1,6.3,21.8,22.1,91807155013,3.8100,3
+468,Red Wing,14,10.6,0,9.6,47,Red Wing Bees Wax Candles,1,5.58,12,12.1,66812840104,1.7400,5
+469,Red Wing,13,8.03,0,5.02,87,Red Wing Silver Cleaner,1,21.4,14,16.7,87961875796,1.2900,30
+470,Red Wing,7,7.57,0,5.57,86,Red Wing Copper Pot Scrubber,1,11.5,17.3,14.5,32205327153,2.9000,15
+471,Red Wing,14,9.93,0,7.93,85,Red Wing Economy Toilet Brush,0,10.8,7.5,4.55,22592129111,0.8300,17
+472,Red Wing,12,9.47,0,8.47,41,Red Wing Scissors,1,20.9,10.8,22.3,57052045464,0.8200,10
+473,Red Wing,12,14,0,12,42,Red Wing Large Sponge,0,15,4.17,21.8,82774483561,0.7300,24
+474,Red Wing,10,21.3,0,19.2,41,Red Wing Screw Driver,1,17.7,22.4,17.1,55493467450,3.5200,26
+475,Quick,9,20.9,0,17.8,65,Quick Extra Lean Hamburger,1,7.85,5.75,14.9,74355801939,2.6100,6
+476,Quick,12,15.6,0,14.6,65,Quick Seasoned Hamburger,1,13.8,11.2,12.1,82410421967,3.6400,22
+477,Dollar,12,19.1,0,18.1,104,Dollar Monthly Sports Magazine,1,14.6,15,20.4,70510522723,0.8600,7
+478,Dollar,13,10.8,0,8.8,108,Dollar Monthly Auto Magazine,0,12.2,12.2,19.2,47802909016,2.9100,6
+479,Dollar,13,16.4,0,14.3,107,Dollar Monthly Computer Magazine,1,15.5,8.2,4.95,71238645911,2.1500,14
+480,Dollar,13,13.2,0,12.1,105,Dollar Monthly Home Magazine,0,16.5,13.5,9.06,41670928597,1.6900,13
+481,Dollar,12,14.1,0,12.1,106,Dollar Monthly Fashion Magazine,1,6.13,5.9,5.31,23127390742,2.8500,33
+482,Tell Tale,14,18.7,1,16.7,61,Tell Tale Summer Squash,0,19.6,6.21,6.92,28895309567,0.7300,25
+483,Tell Tale,10,13,0,10,61,Tell Tale Corn on the Cob,1,5.86,21.6,20.8,80806578993,1.9400,3
+484,Tell Tale,12,8.35,1,6.35,61,Tell Tale Asparagus,0,14.2,4.92,7.56,55812264084,3.6400,4
+485,Tell Tale,11,14.5,1,12.5,61,Tell Tale Sweet Peas,0,21.6,21.1,19.6,76961299777,2.1900,23
+486,Tell Tale,14,14.8,1,12.8,61,Tell Tale New Potatos,1,8.47,12.5,13.3,21204751133,1.1400,18
+487,Tell Tale,7,9.09,1,6.09,61,Tell Tale Beets,0,19.5,20.3,18.5,11591553092,2.6000,5
+488,Tell Tale,10,9.77,1,7.77,61,Tell Tale Prepared Salad,1,16.1,8.41,14.4,15072770714,2.5900,20
+489,Tell Tale,12,16.4,1,13.3,61,Tell Tale Onions,1,8.48,10.2,8.95,40795208811,2.4100,12
+490,Tell Tale,6,13.4,1,11.3,61,Tell Tale Green Pepper,0,21.2,13.6,7.33,44229219555,1.6500,24
+491,Tell Tale,13,19.6,0,18.6,61,Tell Tale Shitake Mushrooms,1,13.7,12.1,20.7,63091554045,3.5100,14
+492,Tell Tale,11,20.3,0,19.2,61,Tell Tale Lettuce,0,20.3,6.91,15.5,71146174073,1.7700,12
+493,Tell Tale,9,7.43,0,5.42,61,Tell Tale Elephant Garlic,1,3.83,21.8,11.1,59246274828,2.6400,23
+494,Tell Tale,12,9.02,0,6.02,61,Tell Tale Red Pepper,1,15.2,12.2,11.7,36538661122,1.9300,27
+495,Tell Tale,8,9.22,0,6.22,61,Tell Tale Garlic,1,19.4,19.2,7.01,59974398016,1.1700,8
+496,Tell Tale,11,11.2,0,10.1,61,Tell Tale Potatos,0,20.6,6.34,9.79,96504550576,0.8400,31
+497,Tell Tale,9,14.7,0,13.6,61,Tell Tale Cauliflower,1,8.93,6.85,7.83,23080183863,1.8700,10
+498,Tell Tale,12,11.9,1,10.8,61,Tell Tale Tomatos,1,21.7,3.58,4,28848102688,2.5500,28
+499,Tell Tale,12,13.9,0,11.8,61,Tell Tale Mushrooms,1,20.4,5.12,16.8,69542331099,2.9600,28
+500,Tell Tale,12,17,1,14,61,Tell Tale Baby Onion,0,21.4,14.4,22.6,44548016190,2.6600,11
+501,Tell Tale,10,17.1,1,15.1,61,Tell Tale Dried Mushrooms,1,16.1,20,3.23,65697051882,1.4500,13
+502,Tell Tale,12,20.1,0,18.1,61,Tell Tale Fresh Lima Beans,1,12,9.42,10.6,99940503239,3.1700,24
+503,Tell Tale,7,21.2,1,20.2,61,Tell Tale Squash,0,11.1,13.1,19.8,90327305197,1.8600,31
+504,Tell Tale,10,13.6,1,11.6,99,Tell Tale Limes,1,20.3,7.32,14.7,69906392693,1.8400,28
+505,Tell Tale,7,18.1,0,16.1,67,Tell Tale Firm Tofu,0,18.3,19,17.5,29530960917,1.6700,30
+506,Tell Tale,8,11.5,0,8.5,1,Tell Tale Almonds,1,12.2,6.59,15.2,92249944806,3.6800,3
+507,Tell Tale,9,20.4,0,18.3,99,Tell Tale Macintosh Apples,1,13.8,3.04,22.3,87210149168,2.5300,14
+508,Tell Tale,11,13.9,1,11.8,99,Tell Tale Golden Delcious Apples,1,22.8,19.5,20.2,82579680085,3.7900,22
+509,Tell Tale,14,20.9,0,18.8,99,Tell Tale Red Delcious Apples,1,14.8,12.5,9.46,46777650713,1.9000,8
+510,Tell Tale,7,9.33,0,7.32,99,Tell Tale Lemons,1,15.4,20.9,3.69,47972167134,0.6100,27
+511,Tell Tale,6,21,1,19,99,Tell Tale Fancy Plums,0,16.1,22,3.31,71407904028,0.6800,31
+512,Tell Tale,7,9.85,0,7.85,99,Tell Tale Plums,0,6.5,7.08,19.7,17938056588,2.7400,10
+513,Tell Tale,13,11,0,10,99,Tell Tale Peaches,1,20.5,17.4,6.16,34513689875,0.5800,31
+514,Tell Tale,11,20.9,1,17.8,61,Tell Tale Broccoli,1,9.31,8.38,6.63,40281608700,1.8100,35
+515,Tell Tale,9,20.7,1,19.7,99,Tell Tale Mandarin Oranges,0,13.7,19.7,7.86,92192878127,1.9100,17
+516,Tell Tale,13,21.8,0,19.7,1,Tell Tale Mixed Nuts,1,15.2,9.01,6.94,67198563218,1.8500,6
+517,Tell Tale,5,7.87,0,6.86,1,Tell Tale Canned Peanuts,0,3.9,9.5,11.6,77130557894,3.4000,26
+518,Tell Tale,7,13.5,1,11.5,61,Tell Tale Sweet Onion,0,8.99,16.8,12.6,21374009251,1.3600,19
+519,Tell Tale,11,17.1,0,15.1,99,Tell Tale Cantelope,1,22.2,8.46,10.5,11760811209,3.8200,10
+520,Tell Tale,8,7.28,0,6.28,99,Tell Tale Honey Dew,1,17.2,12.5,13.8,81339898705,2.8000,21
+521,Tell Tale,7,8.48,0,6.47,99,Tell Tale Fuji Apples,1,11.2,18.4,20.9,40964466929,3.6300,17
+522,Tell Tale,7,15.6,1,13.6,1,Tell Tale Walnuts,1,10.9,15.8,7.04,13683450818,1.6300,6
+523,Tell Tale,12,11.3,1,9.3,99,Tell Tale Oranges,0,21.6,10.2,7.76,98643655180,1.7200,27
+524,Tell Tale,13,13.8,0,11.8,99,Tell Tale Tangerines,0,22.6,13,4.57,40600405335,1.7400,16
+525,Tell Tale,14,11.3,1,9.3,1,Tell Tale Party Nuts,0,7.77,11.9,12.8,94798375964,2.8500,30
+526,Kiwi,5,18.4,1,16.3,24,Kiwi Lox,1,17.4,18.3,20.7,36971591114,2.2500,31
+527,Kiwi,13,11.9,0,8.89,2,Kiwi Scallops,0,3.87,9.24,8.75,60407328009,2.3800,15
+528,Fast,13,6.59,1,4.59,45,Fast Low Fat Cookies,1,7.4,9.16,16,96937480568,0.9600,8
+529,Fast,9,17.7,1,15.7,12,Fast BBQ Potato Chips,0,8.27,6.88,14.5,23513113856,2.1900,9
+530,Fast,11,9.41,0,6.4,12,Fast Corn Chips,1,22.7,7.67,3.38,29281032681,3.7600,24
+531,Fast,8,16.9,1,14.8,12,Fast Low Fat BBQ Chips,0,19.8,5.14,3.6,81192302107,0.6000,21
+532,Fast,14,21.7,0,18.7,45,Fast Sugar Cookies,1,20.6,9.92,16.8,56197987198,3.8700,15
+533,Fast,10,20.1,0,17.1,45,Fast Chocolate Chip Cookies,0,15.4,20,9.95,77347022891,2.4200,12
+534,Fast,5,12.6,1,10.6,45,Fast Fudge Cookies,0,9.71,5.39,4.69,21590474247,3.3800,26
+535,Fast,12,7.92,1,6.92,45,Fast Fudge Brownies,1,15.5,3.1,21.5,90496563315,2.8400,4
+536,Fast,10,21.8,0,20.7,12,Fast Potato Chips,1,3.1,13.2,3.81,70075650811,1.8200,20
+537,Fast,11,20.7,0,18.7,45,Fast Lemon Cookies,1,22.8,8.98,19.3,29700219035,2.6500,3
+538,Fast,6,20.9,1,18.8,45,Fast Graham Crackers,1,14.5,12.6,4.29,92419202923,0.9300,13
+539,Fast,14,8.42,0,6.42,82,Fast Cheese Crackers,1,17.8,13.2,4,87379407286,3.7400,21
+540,Fast,14,12.3,1,11.3,54,Fast Buttered Popcorn,1,8.48,13.7,14.5,29336157441,0.5100,26
+541,Fast,9,13,0,10,54,Fast No Salt Popcorn,1,17.6,20.7,21.4,83534128069,1.8800,13
+542,Fast,12,6.84,1,3.84,54,Fast Low Fat Popcorn,0,16.4,5.03,3.07,60826514363,1.5100,35
+543,Fast,6,8.05,0,6.05,83,Fast Salsa Dip,0,15.4,22,10,18164381384,1.6400,30
+544,Fast,9,16.1,0,14.1,83,Fast Avocado Dip,1,9.83,21.7,20.7,85673232674,2.9500,12
+545,Fast,8,19.1,1,16.1,46,Fast Salted Pretzels,1,3.27,5.58,18.2,78346735835,1.4500,35
+546,Fast,9,14.7,0,12.6,83,Fast Cheese Dip,0,6.4,4.52,20.6,84114654660,2.7800,30
+547,Fast,10,9.02,0,7.02,83,Fast Fondue Mix,1,12.5,19.9,14.5,69928054213,2.3100,15
+548,Fast,13,8.39,1,5.39,84,Fast Mini Donuts,1,14.6,15.7,22.5,44933739304,2.9000,34
+549,Fast,10,10.5,0,9.5,17,Fast Beef Jerky,1,8.37,19.4,13.3,66082774996,1.6800,34
+550,Fast,13,10.7,0,8.69,84,Fast Chocolate Donuts,0,15.1,10.8,7.09,76424096226,2.4000,30
+551,Fast,12,7.87,0,5.86,12,Fast Low Fat Chips,1,20.4,10.9,13.5,66810898184,3.2100,6
+552,Fast,11,18.6,1,16.6,82,Fast Sesame Crackers,1,18.8,9.83,10.9,70292115807,0.5500,25
+553,Fast,11,7.41,0,5.4,45,Fast Frosted Cookies,0,11.7,20.4,17.3,18699643015,1.9100,24
+554,Fast,6,13.1,0,12.1,109,Fast Dried Apples,1,6.85,14.4,17.3,57516496777,3.1400,34
+555,Fast,14,19.3,0,18.2,109,Fast Apple Fruit Roll,1,19.2,12.9,10.6,76378831267,2.8800,18
+556,Fast,10,11.3,0,8.3,109,Fast Strawberry Fruit Roll,1,3.67,17.1,3.95,18335581421,3.2500,24
+557,Fast,10,18.4,0,15.3,109,Fast Raspberry Fruit Roll,0,20.8,4.53,20.8,72533552050,1.3600,18
+558,Fast,13,15,1,13,109,Fast Grape Fruit Roll,0,8.77,6.79,16,49825938344,0.8000,21
+559,Fast,7,19.9,1,17.8,109,Fast Dried Dates,0,6.64,17.3,20.7,97163805365,3.7800,20
+560,Fast,12,15,1,12,109,Fast Raisins,0,5.45,7.06,6.55,43693957924,1.2000,5
+561,Fast,9,15.7,1,13.6,109,Fast Golden Raisins,1,4.61,20.7,12.4,36367461085,0.7700,9
+562,Fast,10,17.8,0,15.7,109,Fast Dried Apricots,0,20.8,5.58,13.8,42135379910,0.5900,21
+563,Fast,9,19.9,1,18.8,84,Fast Frosted Donuts,0,19.5,7.11,6.76,58927478194,1.6800,31
+564,Atomic,13,17.9,1,15.8,36,Atomic Tasty Candy Bar,1,17,8.35,7.18,10031033158,0.6600,9
+565,Atomic,11,10.9,0,9.89,36,Atomic Mint Chocolate Bar,1,13.6,22.5,12.9,55082198977,0.9000,9
+566,Atomic,13,13.9,0,10.8,36,Atomic Malted Milk Balls,0,9.61,11.9,20.3,65423520207,1.7800,20
+567,Atomic,13,15.9,1,13.8,36,Atomic Semi-Sweet Chocolate Bar,1,13.2,5.77,4.46,55810322165,2.3500,35
+568,Atomic,13,11.2,1,8.19,37,Atomic Bubble Gum,0,11.6,6.82,11.5,59291539788,3.3300,18
+569,Atomic,13,7.79,1,5.78,38,Atomic Spicy Mints,1,17,3.52,16.9,18916108012,3.1600,33
+570,Atomic,9,17.5,1,15.5,38,Atomic Mints,0,5.86,21.1,19.6,57732961773,2.1600,32
+571,Atomic,8,10.4,0,8.39,36,Atomic White Chocolate Bar,0,7.45,17.6,6.66,65114583373,1.2500,31
+572,Shady Lake,9,8.94,0,5.93,5,Shady Lake Ravioli,0,19.8,22.2,9.85,73169203400,2.5100,11
+573,Shady Lake,10,19.7,1,18.7,5,Shady Lake Manicotti,1,15.8,3.23,4.48,61269304156,3.3900,9
+574,Shady Lake,11,19,0,17,5,Shady Lake Spaghetti,1,12.9,3.46,13.4,38561690449,2.6700,29
+575,Shady Lake,7,11,1,8,57,Shady Lake Thai Rice,1,9.69,16.5,7.64,85899557471,2.8100,26
+576,Shady Lake,12,18.6,1,16.6,57,Shady Lake Rice Medly,1,9.2,8.5,16.2,32429710030,0.7000,11
+577,Walrus,9,6.11,0,3.11,43,Walrus Imported Beer,1,17.5,20.1,15.8,25103213191,2.6200,31
+578,Walrus,8,9.38,0,8.38,44,Walrus Light Wine,1,6.5,21.4,10.5,30871132016,2.2900,9
+579,Walrus,9,15.7,0,13.6,44,Walrus Chardonnay Wine,0,19.5,19.6,22.5,82782401442,0.8300,35
+580,Walrus,6,19.9,0,17.8,44,Walrus Chablis Wine,0,18.2,16.6,21.4,21200867295,2.4100,29
+581,Walrus,14,19.4,0,17.3,44,Walrus Merlot Wine,1,3.24,9.99,10.8,42349902987,2.8400,6
+582,Walrus,6,9.9,0,6.89,44,Walrus Chardonnay,1,16.2,8.21,22.7,76593354344,3.8000,32
+583,Walrus,7,19.4,0,17.3,44,Walrus White Zinfandel Wine,1,13.2,3.33,11.9,66980156302,1.6100,18
+584,Walrus,6,17.6,0,15.6,43,Walrus Light Beer,0,18.8,16.5,21.3,70461373925,2.5900,31
+585,Colony,7,8.08,1,5.07,27,Colony Pumpernickel Bread,0,11.8,14.7,13.3,30085942149,2.1800,21
+586,Colony,8,18.9,0,16.8,27,Colony White Bread,1,10.3,21.3,17.8,68902795910,1.4200,2
+587,Colony,6,7.71,0,5.71,27,Colony Rye Bread,0,18.2,20.8,4.43,87765130400,3.2700,18
+588,Colony,8,7.55,0,5.55,26,Colony English Muffins,0,15.1,4.41,14.4,95819750428,1.5400,35
+589,Colony,12,16.4,0,15.3,26,Colony Cranberry Muffins,1,12.1,11.7,18.1,72702810168,2.6500,35
+590,Colony,8,6.14,0,3.13,26,Colony Muffins,0,17.2,19,19.2,49995196461,1.9300,33
+591,Colony,8,8.72,1,6.72,25,Colony Bagels,0,20.8,15,12.9,97333063483,1.1700,13
+592,Colony,6,12.7,0,11.6,26,Colony Blueberry Muffins,1,21.4,17.8,3.16,43863216042,2.4800,30
+593,Colony,13,12,0,10,27,Colony Wheat Bread,1,16,12.4,22.1,36536719202,1.8700,26
+594,Landslide,10,7.27,0,4.26,49,Landslide Sesame Oil,1,9.45,22.4,9.48,42304638028,0.5800,4
+595,Landslide,10,7.95,0,4.94,53,Landslide Chunky Peanut Butter,1,3.61,4.96,15.5,94215907454,1.4200,31
+596,Landslide,13,10.4,1,8.39,51,Landslide Hot Chocolate,0,9.7,13.2,21.4,69221592545,0.6400,28
+597,Landslide,12,19.3,1,16.2,50,Landslide Brown Sugar,1,21.1,8.61,20.3,90370628237,2.8000,19
+598,Landslide,8,10.3,0,9.3,50,Landslide White Sugar,1,10.8,14.9,8.2,65592778325,1.5200,25
+599,Landslide,9,9.79,0,7.78,90,Landslide French Roast Coffee,1,10.4,9.6,5.55,55979580283,2.3200,21
+600,Landslide,9,18.9,0,16.8,90,Landslide Decaf Coffee,1,12.5,5.79,11.1,59460797905,2.3100,3
+601,Landslide,9,14.9,0,12.8,90,Landslide Regular Coffee,0,3.85,8.84,9.02,85183236002,2.1300,9
+602,Landslide,7,15.9,0,13.8,49,Landslide Vegetable Oil,1,18.5,20,12.1,57902219891,2.1400,3
+603,Landslide,10,16.5,1,14.5,49,Landslide Corn Oil,1,15.2,8.11,8.1,76764554381,1.2300,19
+604,Landslide,10,9.48,0,6.47,48,Landslide Tomato Sauce,0,16.7,5.74,6.6,84819174408,1.2500,27
+605,Landslide,10,21.2,0,20.2,49,Landslide Canola Oil,1,4.93,3.49,15.9,72919275164,2.3600,31
+606,Landslide,9,11.3,0,9.3,33,Landslide Grape Preserves,0,17.3,21.9,9.31,50211661458,2.6500,20
+607,Landslide,9,13.3,0,10.3,90,Landslide Columbian Coffee,0,8.62,22.4,13.1,62430357336,2.7800,26
+608,Landslide,13,10.2,0,8.19,31,Landslide Strawberry Jelly,1,9.61,16.6,15.8,32862640023,0.6800,25
+609,Landslide,14,11.3,1,9.3,4,Landslide Pepper,0,13.6,15.8,4.08,25536143183,2.5900,2
+610,Landslide,6,7.14,1,5.13,33,Landslide Low Fat Apple Butter,1,11.8,15.8,13,31304062008,2.2700,24
+611,Landslide,6,15.1,0,13.1,4,Landslide Salt,1,13.7,18.8,15.6,83215331435,0.8200,30
+612,Landslide,7,11.6,0,10.6,33,Landslide Apple Butter,1,11.5,20.1,22.7,58221016526,2.3800,12
+613,Landslide,7,21.1,0,20.1,4,Landslide Oregano,1,13,19.9,10.8,79370052218,1.8200,20
+614,Landslide,13,16.7,0,14.7,31,Landslide Apple Jelly,1,21.2,8.79,21.7,23613503575,3.7800,24
+615,Landslide,6,18.4,1,16.3,32,Landslide Grape Jam,0,5.11,15.8,10.3,69672150015,1.3500,34
+616,Landslide,11,21.9,1,19.8,32,Landslide Apple Jam,1,20.9,8.57,18.8,73153367638,1.3300,13
+617,Landslide,9,13.9,1,10.8,32,Landslide Strawberry Jam,1,7.78,22.7,21.2,98875805735,1.1600,30
+618,Landslide,7,7.28,1,6.28,53,Landslide Creamy Peanut Butter,1,12.1,21.1,17.2,71594789624,1.4000,21
+619,Landslide,8,6.14,0,5.13,33,Landslide Strawberry Preserves,0,16.8,19.1,14,90457124114,2.2500,3
+620,Landslide,12,7.8,0,5.8,53,Landslide Extra Chunky Peanut Butter,1,3.26,7.3,13.3,98511744141,0.7300,36
+621,Landslide,13,9.36,0,7.35,33,Landslide Apple Preserves,1,12.1,7.69,4.69,86611844897,1.3900,22
+622,Landslide,5,6.38,1,3.38,31,Landslide Grape Jelly,1,4.95,15.5,22.3,63904231190,0.8100,28
+623,Token,5,8.04,0,7.03,30,Token Berry Juice,1,8.82,18.1,11.7,87339968085,1.8000,2
+624,Token,12,20.4,1,18.3,52,Token Mango Drink,1,14.9,8.99,11.5,33870120644,2.4600,16
+625,Token,6,13.8,0,10.8,52,Token Strawberry Drink,1,3.9,16.5,10.9,15326582789,1.6100,18
+626,Token,14,6.73,0,4.73,19,Token Cream Soda,0,15.3,12,9.79,21094501614,1.2900,9
+627,Token,13,7.64,0,4.63,19,Token Diet Soda,1,10.1,14.2,14.4,73005771040,1.7000,31
+628,Token,13,16.4,0,14.3,19,Token Cola,1,17.3,11.5,16.5,48011456131,1.4000,12
+629,Token,12,10,0,8,19,Token Diet Cola,0,14.3,4.44,22.7,69160491824,0.5500,10
+630,Token,11,11,0,10,30,Token Orange Juice,1,9.09,6.72,7.34,13403943181,2.8000,33
+631,Token,8,19.7,0,17.7,30,Token Cranberry Juice,1,16.3,3.99,9.47,93790745139,0.7800,7
+632,Token,11,20.6,0,18.6,30,Token Apple Juice,0,11,6.27,14,73369832634,0.8300,1
+633,Token,10,15.6,0,13.6,52,Token Apple Drink,1,7.55,19.3,20.2,32994400858,0.7400,33
+634,Radius,9,13.1,1,10.1,35,Radius Oatmeal,1,5.2,21.6,18.8,60594213604,2.5300,12
+635,Radius,8,7.92,1,5.92,35,Radius Corn Puffs,0,16.2,22.6,15,55554417967,1.3800,34
+636,Radius,8,12.2,1,9.19,35,Radius Wheat Puffs,0,11.7,15.4,10.2,87511168122,2.6400,19
+637,Radius,13,8.4,1,7.39,35,Radius Grits,0,22.3,13.2,12,51709138751,0.8600,2
+638,Bravo,9,6.8,0,5.8,62,Bravo Canned Beets,1,19.7,20,16.5,52903655171,3.1500,22
+639,Bravo,14,16.2,0,14.2,62,Bravo Creamed Corn,0,16.1,13.2,4.16,76339392066,3.2800,18
+640,Bravo,8,9.63,1,7.63,62,Bravo Canned String Beans,0,5.09,20.8,3.52,22869544625,2.5900,20
+641,Bravo,7,18.5,1,15.5,58,Bravo Chicken Soup,1,16.5,16.2,22.3,39445177912,3.9800,11
+642,Bravo,7,7.39,1,6.38,62,Bravo Canned Yams,1,11.9,21.2,17.1,45213096737,1.6600,21
+643,Bravo,7,9,0,6,58,Bravo Vegetable Soup,0,5.81,17.2,7.64,62005195021,1.8400,19
+644,Bravo,10,13.4,0,11.3,62,Bravo Canned Tomatos,0,21.3,3.37,20.5,37010880112,0.8700,32
+645,Bravo,5,6.41,0,5.4,58,Bravo Noodle Soup,0,7.91,19.8,5.97,58159915804,3.3200,8
+646,Bravo,10,6.18,0,4.17,58,Bravo Regular Ramen Soup,1,9.86,5.63,17.2,92403367161,1.2800,1
+647,Bravo,14,17.7,0,15.7,58,Bravo Chicken Noodle Soup,1,21,17.5,15.1,82790169119,2.7400,23
+648,Bravo,11,12.5,0,11.5,58,Bravo Turkey Noodle Soup,1,14.5,4.13,21.3,62369256615,2.7200,5
+649,Bravo,14,17.2,1,14.2,58,Bravo Beef Soup,0,17.4,8.08,8.85,21993824839,2.5500,15
+650,Bravo,6,17.5,1,15.5,62,Bravo Canned Peas,1,4.22,8.36,21.1,84712808728,1.5500,17
+651,Bravo,14,15,1,13,58,Bravo Chicken Ramen Soup,0,4.38,7.36,11,66987923979,0.8000,19
+652,Bravo,14,10.7,0,9.69,93,Bravo Canned Tuna in Water,1,17.6,16.2,20.2,98944674134,1.6700,23
+653,Bravo,13,9.71,1,7.71,93,Bravo Canned Tuna in Oil,1,17.3,11.9,15.7,63142644762,2.7800,28
+654,Bravo,7,10.8,0,7.8,94,Bravo Large Canned Shrimp,0,3.85,16.7,13.8,64337161183,2.1700,29
+655,Bravo,11,8.33,1,5.32,95,Bravo Fancy Canned Anchovies,0,8.9,8.05,15,87772898077,2.3100,5
+656,Bravo,6,20.4,0,17.3,96,Bravo Fancy Canned Clams,1,6.99,13.6,8.12,34303050637,3.8500,16
+657,Bravo,6,19.8,1,18.7,97,Bravo Fancy Canned Oysters,0,11.5,14.9,6.03,50878683924,2.1200,2
+658,Bravo,5,6.44,0,5.44,98,Bravo Fancy Canned Sardines,1,12.6,9.84,9.18,56646602749,2.6800,28
+659,Bravo,10,15.8,1,14.8,58,Bravo Rice Soup,1,19.1,11.8,18.6,18557872176,3.2100,1
+660,Applause,7,6.96,1,3.96,3,Applause Canned Mixed Fruit,1,3.76,15.9,5.24,48180714249,2.8000,2
+661,Applause,6,19,0,17,3,Applause Canned Peaches,0,14.3,20.4,9.29,69329749941,2.3400,20
+662,Prelude,9,21.5,0,19.5,89,Prelude Rosy Sunglasses,1,5.44,4.22,14.2,13573201298,2.3000,29
+663,Akron,11,11.4,0,10.3,103,Akron Eyeglass Screwdriver,1,18.4,4.7,15.8,93960003256,1.7600,19
+664,Akron,12,8.24,0,6.23,102,Akron City Map,0,19.4,10,19.9,73539090752,1.7400,18
+665,Gorilla,8,8.79,0,6.78,15,Gorilla Low Fat Cottage Cheese,0,19.3,17.8,20.3,33163658976,1.5700,21
+666,Gorilla,7,14.5,1,12.5,14,Gorilla Low Fat Sour Cream,0,16.9,17.4,10.1,95882642865,0.8900,19
+667,Gorilla,11,21.2,0,20.2,14,Gorilla Sour Cream,1,16.7,7.02,15.8,90842847228,2.6600,5
+668,Gorilla,14,21.9,0,18.8,11,Gorilla Jack Cheese,1,5.87,11.7,19.8,32799597382,3.9300,27
+669,Gorilla,8,19.4,1,18.3,11,Gorilla Muenster Cheese,1,18.4,15.3,11.5,51878396868,1.8000,3
+670,Gorilla,6,18.2,1,15.2,11,Gorilla String Cheese,1,3.16,13.2,8.36,29170783162,1.7900,14
+671,Gorilla,7,20.8,1,19.7,11,Gorilla Low Fat String Cheese,1,19.2,17,11.6,76508650183,2.9300,29
+672,Gorilla,8,13.3,1,10.3,11,Gorilla Havarti Cheese,1,10.9,16.8,16.5,23038802742,3.3400,20
+673,Gorilla,7,18.2,0,17.2,11,Gorilla Head Cheese,0,16.3,19.6,11.6,15712305903,2.7400,13
+674,Gorilla,9,21.1,1,20.1,11,Gorilla Cheese Spread,1,4.79,7.9,10,21480224728,3.1800,30
+675,Gorilla,13,13.1,1,10.1,11,Gorilla Sharp Cheddar Cheese,1,9.17,16.5,22.6,97293624281,3.5900,24
+676,Gorilla,10,8.86,1,6.85,11,Gorilla Mild Cheddar Cheese,1,14.9,8.7,22,72299309372,3.2900,5
+677,Gorilla,5,8.58,0,6.57,15,Gorilla Large Curd Cottage Cheese,1,7.27,14.2,10.1,93448345065,2.9600,16
+678,Gorilla,14,14.3,0,13.3,76,Gorilla 2% Milk,1,14.8,7.13,21.1,68670495152,3.6900,3
+679,Gorilla,12,20.3,0,17.2,76,Gorilla Buttermilk,1,13,6.43,9.6,59057297110,1.4900,31
+680,Gorilla,12,13.4,0,10.3,76,Gorilla Chocolate Milk,1,15.1,22.6,15.2,62538514733,1.4700,3
+681,Gorilla,11,9.43,0,8.43,76,Gorilla 1% Milk,1,6.42,5.66,13,22163082957,2.3000,20
+682,Gorilla,9,10.4,0,7.39,76,Gorilla Whole Milk,1,21.1,16.8,16.2,60979936718,0.6100,14
+683,Gorilla,9,8.58,0,5.57,6,Gorilla Strawberry Yogurt,1,6.7,21.1,7.16,79842271208,2.1600,20
+684,Gorilla,12,9.71,1,7.71,6,Gorilla Blueberry Yogurt,1,13.1,7.13,16.7,21799021363,0.6800,18
+685,Cutting Edge,7,18.2,1,17.2,81,Cutting Edge Chicken Hot Dogs,0,4.84,15.7,20.1,75996991991,1.5300,9
+686,Cutting Edge,10,12.5,0,9.5,91,Cutting Edge Pimento Loaf,1,8.5,5.65,4.1,53289378285,1.8200,34
+687,Cutting Edge,13,7.67,0,4.67,91,Cutting Edge Beef Bologna,0,4.38,7.82,3.52,65508074164,0.9700,35
+688,Cutting Edge,9,12.9,1,11.8,91,Cutting Edge Low Fat Bologna,0,19.6,18.4,22.3,12038226723,2.3700,13
+689,Cutting Edge,12,21.9,0,19.8,81,Cutting Edge Turkey Hot Dogs,1,16.2,12.6,8.13,94711729884,1.7600,7
+690,Cutting Edge,8,6.68,1,5.67,81,Cutting Edge Foot-Long Hot Dogs,0,17.8,20.7,22.4,10479648709,1.4400,34
+691,Cutting Edge,14,9.66,0,6.65,16,Cutting Edge Low Fat Cole Slaw,0,16.3,15.7,19.7,86293048262,2.8500,34
+692,Cutting Edge,9,6.19,1,4.19,16,Cutting Edge Cole Slaw,1,14.1,16.9,6.78,37396603226,1.5500,23
+693,Cutting Edge,6,15.6,1,14.6,77,Cutting Edge Roasted Chicken,0,15.5,16.7,14.9,82447769045,1.9900,25
+694,Cutting Edge,11,11.2,1,9.19,8,Cutting Edge Corned Beef,0,3.81,5.61,5.75,92789090275,2.9500,29
+695,Cutting Edge,13,12.9,1,9.89,8,Cutting Edge Sliced Turkey,1,7.68,12.6,14.3,83175892233,3.5200,3
+696,Cutting Edge,9,19.6,1,17.6,8,Cutting Edge Sliced Ham,1,7.48,22.2,20,75176396965,0.7200,24
+697,Cutting Edge,8,8.47,1,7.47,16,Cutting Edge Potato Salad,1,10.3,19.5,5.31,34800965189,1.3300,35
+698,Cutting Edge,9,6.86,1,4.86,8,Cutting Edge Sliced Chicken,1,12.6,18.6,21,73617818951,2.3300,28
+699,Jumbo,7,21.7,1,19.7,66,Jumbo Small Brown Eggs,0,17.3,16.6,17.8,92480153441,1.4200,4
+700,Jumbo,11,7.38,0,5.38,66,Jumbo Large Brown Eggs,1,3.73,4.83,17.1,10534773468,2.6800,2
+701,Jumbo,11,8.94,0,6.93,66,Jumbo Small Eggs,0,12.6,5.22,8.51,88634874224,0.7500,23
+702,Jumbo,13,21.9,1,18.8,66,Jumbo Large Eggs,0,5.41,13,6.16,65927260518,3.8400,29
+703,Jumbo,13,7.62,0,5.61,66,Jumbo Egg Substitute,1,9.28,15.6,15.5,23265127539,2.9700,3
+704,Imagine,12,8.41,0,7.4,34,Imagine Low Fat Waffles,1,15.9,14.8,9.62,90773978829,1.6300,1
+705,Imagine,12,12.2,0,9.19,110,Imagine Orange Popsicles,0,9.09,12,11.5,83447481989,0.8800,30
+706,Imagine,9,11,1,8,100,Imagine Frozen Chicken Breast,0,11.7,22,15.6,89215400815,3.4600,24
+707,Imagine,8,16.7,1,14.7,29,Imagine Frozen Pancakes,1,19.3,14.9,6.58,51126670241,1.8700,10
+708,Imagine,9,9.79,1,8.78,63,Imagine Low Fat French Fries,1,3.43,5.8,22,26132355332,3.6800,33
+709,Imagine,5,16.9,1,14.8,64,Imagine Frozen Sausage Pizza,1,10.5,15.4,18.5,47281391024,0.5700,16
+710,Imagine,10,15.3,0,13.3,34,Imagine Blueberry Waffles,1,7.96,22.2,3.07,81524842381,1.1900,1
+711,Imagine,9,13.8,0,10.8,63,Imagine Fajita French Fries,1,7.83,3.56,15.9,71911644339,2.8900,3
+712,Imagine,10,7.2,0,4.19,34,Imagine Waffles,1,16.7,11.1,15.3,75392861962,3.8700,27
+713,Imagine,8,11,1,9,64,Imagine Frozen Pepperoni Pizza,0,4.83,18.4,8.89,23800389170,3.4600,25
+714,Imagine,7,16.2,0,15.2,64,Imagine Frozen Cheese Pizza,1,15,13.5,8.67,62617242932,2.7000,33
+715,Imagine,13,6.88,1,4.88,64,Imagine Frozen Mushroom Pizza,1,12.3,17.6,4.45,81479577422,1.5500,24
+716,Imagine,6,6.27,0,5.26,34,Imagine Apple Cinnamon Waffles,0,4.45,15.6,12,89534197449,1.8100,3
+717,Imagine,6,15.2,1,12.1,60,Imagine Frozen Carrots,1,11,12,17.4,77634298205,3.9200,20
+718,Imagine,10,15,1,13,10,Imagine Turkey TV Dinner,1,12.9,17.8,8.79,54926684498,2.3200,13
+719,Imagine,5,14.4,1,13.3,10,Imagine Chicken TV Dinner,1,22.5,10.3,6.51,12264551520,2.4500,32
+720,Imagine,13,9.18,1,7.18,10,Imagine Beef TV Dinner,0,16,16.8,12.7,48794704079,0.8600,10
+721,Imagine,11,14.8,0,11.8,28,Imagine Pancake Mix,1,3.57,10.9,15.1,41468207240,2.2600,20
+722,Imagine,8,20.2,1,18.2,110,Imagine Grape Popsicles,0,13.8,19.3,12.6,10648906826,2.8300,27
+723,Imagine,6,17.6,1,14.6,63,Imagine Home Style French Fries,1,13.9,18.3,22.6,62560176253,0.5100,30
+724,Imagine,6,19.3,0,17.2,110,Imagine Lime Popsicles,0,20.3,10.9,21.1,37565861344,2.9400,34
+725,Imagine,14,7.33,0,5.32,9,Imagine Ice Cream,0,3.48,14.8,21.9,58714897036,1.4900,4
+726,Imagine,9,8.47,1,6.47,9,Imagine Ice Cream Sandwich,0,10,19.6,20.1,92958348393,3.2100,5
+727,Imagine,8,21,1,19,60,Imagine Frozen Cauliflower,1,10.4,20.8,6.41,83345150351,1.9100,8
+728,Imagine,10,17.1,1,15.1,60,Imagine Frozen Broccoli,0,8.54,6.38,19.4,86826367974,1.8900,26
+729,Imagine,12,17.7,1,15.7,60,Imagine Frozen Corn,1,12.5,7.89,17.2,22548806071,1.7200,4
+730,Imagine,11,9.39,1,7.39,60,Imagine Frozen Peas,1,17.1,10.9,5.75,85267789959,1.7200,30
+731,Imagine,11,13.7,0,10.6,9,Imagine Popsicles,0,20.1,4.82,9.89,92913083434,3.8100,9
+732,Imagine,7,9.91,0,7.9,100,Imagine Frozen Chicken Thighs,1,8.21,17,21.8,10967703461,0.9100,9
+733,Imagine,11,16.6,1,13.6,100,Imagine Frozen Chicken Wings,1,20.5,3.33,15.5,89067804217,1.9500,2
+734,Imagine,14,19.1,0,16.1,110,Imagine Lemon Popsicles,0,11.5,7.11,20.5,66360190510,0.6300,10
+735,Consolidated,8,6.51,0,4.51,78,Consolidated Silky Smooth Hair Conditioner,0,15.3,5.13,17.4,89795927405,1.4700,13
+736,Consolidated,10,10.1,0,7.1,39,Consolidated Tartar Control Toothpaste,0,19.1,5.38,15.7,60228210091,2.1300,23
+737,Consolidated,8,11.6,0,9.6,39,Consolidated Whitening Toothpast,1,8.75,4.36,20.9,52901713252,1.2800,2
+738,Consolidated,8,7.12,0,4.11,39,Consolidated Toothpaste,1,5.17,19.5,16.7,58669632077,1.8500,34
+739,Consolidated,6,10.7,0,8.69,39,Consolidated Deodorant,1,9.03,19.8,14.9,51295928359,2.3800,2
+740,Consolidated,12,12.5,0,10.5,79,Consolidated Conditioning Shampoo,0,13.4,8.87,5.15,26301613450,1.9700,13
+741,Consolidated,8,16.2,0,14.2,79,Consolidated Extra Moisture Shampoo,0,17.3,9.12,3.44,47450649142,0.7300,4
+742,Consolidated,10,11.7,0,10.6,88,Consolidated Angled Toothbrush,0,13.7,4.35,19.2,81694100499,2.4700,14
+743,Consolidated,8,9.42,0,7.42,79,Consolidated Apricot Shampoo,1,19.3,15.3,19,72080902457,0.9600,27
+744,Consolidated,9,13,0,11,70,Consolidated Childrens Aspirin,1,3.21,15.6,17.3,75562120079,3.9100,1
+745,Consolidated,5,8.57,0,6.56,70,Consolidated Buffered Aspirin,1,19.6,10.8,13.1,11284558176,0.8500,27
+746,Consolidated,7,10,0,8,71,Consolidated 200 MG Ibuprofen,1,9.2,9.84,18.3,74003542065,3.9800,12
+747,Consolidated,5,13.6,0,11.6,72,Consolidated 200 MG Acetominifen,1,13,10,16.6,92865876555,1.8300,15
+748,Consolidated,10,9.19,0,6.18,73,Consolidated HCL Nasal Spray,1,9.48,5.32,12.4,65801325440,2.2000,6
+749,Consolidated,12,12.8,0,10.8,73,Consolidated Dishwasher Detergent,1,13.3,5.58,10.6,53901426196,2.6700,16
+750,Consolidated,10,15.5,0,12.5,75,Consolidated Multi-Symptom Cold Remedy,0,22.3,4.73,15.8,31193812489,1.9500,29
+751,Consolidated,10,11,0,9,75,Consolidated Childrens Cold Remedy,0,18.7,19.9,11.6,54629549384,2.1900,26
+752,Consolidated,8,14.7,0,12.6,74,Consolidated Laundry Detergent,0,22.6,20.2,9.9,91159701943,0.8500,29
+753,Consolidated,14,16.5,0,13.5,74,Consolidated Mint Mouthwash,1,7.08,9.24,20,17735335230,1.8900,5
+754,Cormorant,10,12,0,9,80,Cormorant 60 Watt Lightbulb,1,3.51,4.47,15.8,23503254055,2.5700,31
+755,Cormorant,12,15.6,0,13.6,56,Cormorant Plastic Forks,1,7.36,4.72,14.1,75414523482,2.9800,6
+756,Cormorant,9,17.1,0,16.1,56,Cormorant Plastic Spoons,1,16.9,3.7,19.3,15301037430,2.6800,19
+757,Cormorant,11,20.7,0,18.7,56,Cormorant Plastic Knives,0,20.7,3.95,17.6,36450073122,1.4700,29
+758,Cormorant,7,17.5,0,14.5,101,Cormorant C-Size Batteries,1,16.6,19.3,13.3,70693524479,3.1900,19
+759,Cormorant,11,18,0,16,80,Cormorant 100 Watt Lightbulb,0,16.5,22.7,14.4,61080326437,1.8900,22
+760,Cormorant,9,21.7,0,18.7,101,Cormorant AAA-Size Batteries,0,20.3,22.9,12.7,40659413933,1.8700,25
+761,Cormorant,7,18.1,0,16.1,55,Cormorant Paper Plates,0,6.53,13.8,12.6,90283982157,1.7000,4
+762,Cormorant,6,21.8,0,18.7,55,Cormorant Paper Cups,0,10.3,14,10.9,63002966046,3.7000,36
+763,Cormorant,14,6.32,0,5.32,80,Cormorant 75 Watt Lightbulb,1,10.2,17.4,12,57963170409,2.5500,5
+764,Cormorant,7,15.9,0,13.8,22,Cormorant Toilet Bowl Cleaner,0,4.2,19,8.31,89919920563,3.8100,32
+765,Cormorant,6,19.6,0,16.6,22,Cormorant Counter Cleaner,0,8.06,19.2,6.6,18998720049,1.9200,36
+766,Cormorant,9,20.1,0,18.1,22,Cormorant Glass Cleaner,1,7.91,22.6,7.71,20193236470,0.6200,3
+767,Cormorant,8,16.9,0,15.8,80,Cormorant 25 Watt Lightbulb,1,8.92,3.52,12.5,43628973364,1.4500,2
+768,Cormorant,9,20.5,0,18.5,101,Cormorant AA-Size Batteries,0,12.7,3.77,10.8,80159125924,2.7600,12
+769,Cormorant,9,21,0,20,101,Cormorant D-Size Batteries,0,12.6,7.13,11.9,96734759211,0.5900,9
+770,Cormorant,11,8.73,0,6.72,18,Cormorant Paper Towels,0,16.4,7.38,10.2,12502678036,1.8300,18
+771,Cormorant,5,21.1,0,20.1,18,Cormorant Soft Napkins,1,22.6,18.2,10.1,64413947463,1.1200,26
+772,Cormorant,9,6.95,0,4.94,18,Cormorant Scented Tissue,1,21.9,21.7,11.1,39419632554,1.9400,28
+773,Cormorant,7,10.6,0,7.6,18,Cormorant Toilet Paper,1,5.8,22,9.45,26240512728,0.7100,32
+774,Cormorant,7,6.11,0,4.11,18,Cormorant Tissues,1,22.2,17.2,5.25,60483964085,2.4500,29
+775,Cormorant,13,20.7,0,19.7,18,Cormorant Scented Toilet Tissue,1,22.6,9.38,18.2,50870766043,0.9500,7
+776,Cormorant,6,6.21,0,4.21,20,Cormorant Room Freshener,1,12.2,8.36,3.41,30449853539,3.8900,17
+777,Cormorant,11,17.7,0,15.7,40,Cormorant Frying Pan,1,8.64,3.59,19.2,80074421763,3.7200,8
+778,Cormorant,13,21.3,0,19.2,87,Cormorant Copper Cleaner,1,12.5,3.84,17.5,52793405652,2.7200,18
+779,Cormorant,11,8.09,0,5.09,47,Cormorant Bees Wax Candles,0,21.5,3,22.6,47753610014,1.8100,30
+780,Cormorant,7,19.5,0,18.5,87,Cormorant Silver Cleaner,0,17.9,18.2,18.4,79710360169,2.8400,21
+781,Cormorant,9,7.24,0,5.23,86,Cormorant Copper Pot Scrubber,0,21.8,18.4,16.7,43908330798,3.9500,31
+782,Cormorant,11,9.02,0,7.02,85,Cormorant Economy Toilet Brush,1,6.25,7.5,6.86,99983676075,2.3400,36
+783,Cormorant,13,12.6,0,11.6,41,Cormorant Scissors,1,10.1,7.76,5.15,33419412970,2.4700,10
+784,Cormorant,9,8.17,0,7.17,42,Cormorant Large Sponge,1,6.53,22.9,20.9,69949565529,0.5200,1
+785,Cormorant,10,9.63,0,8.63,41,Cormorant Screw Driver,1,16,21.9,6.13,86525198817,2.2800,21
+786,Footnote,9,13.2,0,11.1,65,Footnote Extra Lean Hamburger,0,19.9,22.2,4.42,92293117642,0.9700,25
+787,Footnote,11,13,1,11,65,Footnote Seasoned Hamburger,0,11.7,7,7.55,54204387068,1.4900,32
+788,Excel,8,21,0,19,104,Excel Monthly Sports Magazine,0,18.6,21.1,9.98,29210072159,0.5500,24
+789,Excel,7,19.7,0,18.7,108,Excel Monthly Auto Magazine,1,19,22.1,21.4,50359107851,3.6200,12
+790,Excel,8,12.4,0,9.39,107,Excel Monthly Computer Magazine,1,6.37,19.4,3.61,84602559208,0.7700,28
+791,Excel,7,8.39,0,6.39,105,Excel Monthly Home Magazine,0,17.6,13.6,22.9,62304272055,2.1500,16
+792,Excel,6,7.1,0,5.09,106,Excel Monthly Fashion Magazine,1,18,14.6,14.4,41883359551,2.1300,13
+793,Ebony,11,12,0,11,61,Ebony Summer Squash,0,6.94,11.3,16.7,91507927775,2.8500,26
+794,Ebony,6,7.26,1,6.26,61,Ebony Corn on the Cob,0,10.3,14.6,5.14,64226911664,1.2000,21
+795,Ebony,11,21.6,1,20.6,61,Ebony Asparagus,0,20.1,20.3,20.6,59187116026,0.9600,12
+796,Ebony,5,6.29,1,5.28,61,Ebony Sweet Peas,1,16.8,8.45,16.5,91143866181,1.3200,28
+797,Ebony,8,7.96,1,4.96,61,Ebony New Potatos,1,5.72,22.1,5.76,55341836810,2.1900,8
+798,Ebony,5,14.6,1,11.6,61,Ebony Beets,0,10.5,11.7,9.78,32634223103,2.7100,6
+799,Ebony,12,20.8,0,18.7,61,Ebony Prepared Salad,1,22.9,10.2,3.16,79972090125,2.8400,30
+800,Ebony,11,11.5,1,9.5,61,Ebony Onions,1,22.7,8.78,7.37,81383071541,3.2600,16
+801,Ebony,6,10.8,0,8.8,61,Ebony Green Pepper,0,22.2,15.7,17.6,74056574702,2.6500,21
+802,Ebony,13,12.4,1,10.3,61,Ebony Shitake Mushrooms,1,13.6,6.14,18.2,79824493527,2.9900,30
+803,Ebony,13,21.4,1,19.3,61,Ebony Lettuce,0,5.21,9.25,4.15,65637893080,3.5100,18
+804,Ebony,7,7.48,0,4.48,61,Ebony Elephant Garlic,0,6.44,16.3,6.92,40643578171,2.2100,6
+805,Ebony,9,16.9,1,13.8,61,Ebony Red Pepper,0,7.88,20.5,14.3,61792613863,2.8800,14
+806,Ebony,13,8.1,0,6.1,61,Ebony Garlic,1,7.53,13.5,21.1,72133935093,2.6000,32
+807,Ebony,13,21.1,0,20.1,61,Ebony Potatos,0,22.8,6.98,8.7,62520737051,1.4100,33
+808,Ebony,9,19.4,0,17.3,61,Ebony Cauliflower,1,15.2,18.2,14.1,30882783532,1.3900,6
+809,Ebony,7,18.7,1,16.7,61,Ebony Tomatos,1,14.7,20.7,5.12,80507351756,1.2200,4
+810,Ebony,13,21.7,0,19.7,61,Ebony Mushrooms,1,10.6,10.1,12.5,29324205517,0.5700,22
+811,Ebony,14,17.4,0,15.3,61,Ebony Baby Onion,1,11.3,15.6,11.3,48186540007,2.9700,26
+812,Ebony,11,20.9,0,18.8,61,Ebony Dried Mushrooms,1,17.1,21.7,21,80143290162,3.3400,28
+813,Ebony,8,14.3,0,11.3,61,Ebony Fresh Lima Beans,1,18.6,21.5,9.16,44341260790,1.4500,30
+814,Ebony,9,18.7,0,16.7,61,Ebony Squash,0,9.13,21,21.5,21633647084,1.7300,3
+815,Ebony,7,11.7,0,9.69,99,Ebony Limes,0,10.7,17.4,8.6,68971514105,0.9200,8
+816,Ebony,10,17.3,1,15.2,67,Ebony Firm Tofu,1,15.7,6.01,21.1,15501666665,2.2900,4
+817,Ebony,6,17.2,1,14.2,1,Ebony Almonds,1,15.1,15.1,21,98175169825,1.6800,8
+818,Ebony,11,21.5,0,19.5,99,Ebony Macintosh Apples,1,15.6,3.51,15.2,68560245633,1.3500,34
+819,Ebony,13,18.5,0,16.5,99,Ebony Golden Delcious Apples,1,20.9,10.2,3.95,54373645186,2.7700,10
+820,Ebony,13,7.36,0,5.36,99,Ebony Red Delcious Apples,0,11.3,15.3,20.4,95477200150,0.7000,2
+821,Ebony,14,7.65,0,5.65,99,Ebony Lemons,1,15.6,10,22.7,50528365969,1.9100,28
+822,Ebony,6,18.4,1,17.3,99,Ebony Fancy Plums,0,14.1,16.6,7.27,60869687199,1.8600,9
+823,Ebony,13,7.28,1,6.28,99,Ebony Plums,1,22,16.1,13.8,51256489157,3.4300,25
+824,Ebony,5,19.3,1,16.2,99,Ebony Peaches,1,20.5,19.1,4.02,54737706780,2.1100,9
+825,Ebony,6,20,1,18,61,Ebony Broccoli,1,9.7,19.4,8.76,14362275004,2.8300,31
+826,Ebony,11,9.79,0,7.78,99,Ebony Mandarin Oranges,1,14.7,6.84,9.83,41962087750,1.8300,29
+827,Ebony,6,8.29,0,7.28,1,Ebony Mixed Nuts,1,4.66,10.3,22.3,60824422240,0.9500,20
+828,Ebony,8,19.4,1,17.3,1,Ebony Canned Peanuts,0,3.04,22.4,10.9,68879042267,1.2900,32
+829,Ebony,7,15.6,1,14.6,61,Ebony Sweet Onion,0,13.6,20.2,12.8,56979143023,2.1700,21
+830,Ebony,8,8.11,0,7.1,99,Ebony Cantelope,0,12.7,17.8,18.8,34271529316,2.4500,9
+831,Ebony,8,8.79,1,6.78,99,Ebony Honey Dew,0,6.91,20.4,4.84,81609396338,1.5800,2
+832,Ebony,13,15,0,13,99,Ebony Fuji Apples,0,11.8,11.1,7.02,28139548897,3.2400,32
+833,Ebony,10,18.8,0,16.7,1,Ebony Walnuts,0,5.01,3.9,9.68,20813052058,2.3900,25
+834,Ebony,5,9.96,1,7.96,99,Ebony Oranges,0,14.6,10.2,17.5,26580970883,2.9600,32
+835,Ebony,13,13.4,0,12.3,99,Ebony Tangerines,0,7.97,17.4,16.1,78492240309,3.4900,17
+836,Ebony,9,20.9,1,17.8,1,Ebony Party Nuts,1,7.49,20.4,6.3,84476624131,1.1800,8
+837,Curlew,13,8.97,0,6.97,24,Curlew Lox,0,10.6,8.74,6.38,15625659823,1.6200,19
+838,Curlew,10,6.87,1,3.86,2,Curlew Scallops,0,8.06,17.8,20.4,49869111180,2.5800,4
+839,Nationeel,7,14.4,0,11.3,45,Nationeel Low Fat Cookies,0,5.07,15.3,20.6,40255913138,0.6600,2
+840,Nationeel,8,17,0,16,12,Nationeel BBQ Potato Chips,1,11.1,16.8,4.38,43737130761,1.3700,34
+841,Nationeel,6,10.4,1,7.39,12,Nationeel Corn Chips,1,22.6,18.9,12.1,93361698985,1.8500,18
+842,Nationeel,10,18.9,0,16.8,12,Nationeel Low Fat BBQ Chips,1,16.8,4.21,6.91,42178552746,3.2000,33
+843,Nationeel,6,8.24,0,6.23,45,Nationeel Sugar Cookies,1,9.56,18.1,14.3,61040887236,2.9400,22
+844,Nationeel,10,17.1,0,14.1,45,Nationeel Chocolate Chip Cookies,1,13.6,20.1,11.3,69095507264,3.3100,22
+845,Nationeel,7,7.31,1,5.3,45,Nationeel Fudge Cookies,1,5.99,19.8,16.1,45978567004,1.4200,8
+846,Nationeel,9,16.3,0,13.2,45,Nationeel Fudge Brownies,0,5.07,19.6,11.8,23270953297,1.7100,31
+847,Nationeel,8,19.7,0,17.7,12,Nationeel Potato Chips,1,8.37,20.1,11.5,70608820319,3.8400,4
+848,Nationeel,5,13.9,0,12.8,45,Nationeel Lemon Cookies,0,7.04,14.4,16.4,17138972878,2.2600,23
+849,Nationeel,12,8.31,0,6.31,45,Nationeel Graham Crackers,0,8.19,7.69,9.02,99812476038,1.6500,31
+850,Nationeel,6,7.17,1,6.17,82,Nationeel Cheese Crackers,0,10.4,20.1,15.9,15580394864,1.3300,18
+851,Nationeel,5,9.31,1,6.31,54,Nationeel Buttered Popcorn,0,19.1,12.7,6.93,67491664290,2.5100,7
+852,Nationeel,9,8.63,1,6.63,54,Nationeel No Salt Popcorn,0,11.2,21.8,16,42497349381,0.6900,15
+853,Nationeel,6,10.6,1,8.6,54,Nationeel Low Fat Popcorn,0,15.4,12,5.9,94361411929,3.8800,28
+854,Nationeel,8,10.9,0,7.89,83,Nationeel Salsa Dip,1,12.2,14.5,17.7,38604863286,1.6000,11
+855,Nationeel,5,10.2,1,8.19,83,Nationeel Avocado Dip,0,21.7,18,16.9,28991665244,2.4100,25
+856,Nationeel,8,15.5,1,13.5,46,Nationeel Salted Pretzels,1,17,17.6,14.3,32472882866,2.3900,9
+857,Nationeel,5,11.7,0,8.69,83,Nationeel Cheese Dip,1,17.6,17.6,15.8,58195320963,2.2200,9
+858,Nationeel,8,6.98,0,5.98,83,Nationeel Fondue Mix,0,20.9,20.8,4.22,30914304852,2.2200,5
+859,Nationeel,7,16.3,0,14.2,84,Nationeel Mini Donuts,0,22.3,13,5.3,49776639342,1.3100,16
+860,Nationeel,11,17,1,15,17,Nationeel Beef Jerky,1,18.9,21.1,21.2,57831259369,2.3400,31
+861,Nationeel,11,8.95,0,6.94,84,Nationeel Chocolate Donuts,0,15.8,8.6,4.78,45931360125,2.4500,25
+862,Nationeel,12,9.7,0,8.69,12,Nationeel Low Fat Chips,0,7.51,14.4,19.4,12006705403,2.7300,29
+863,Nationeel,14,10.8,1,7.8,82,Nationeel Sesame Crackers,1,16.5,4.84,7.5,35442442297,2.9800,25
+864,Nationeel,5,12.5,1,10.5,45,Nationeel Frosted Cookies,1,12.9,15.2,6.4,95874724984,1.6300,34
+865,Nationeel,11,9.63,0,7.63,109,Nationeel Dried Apples,1,3.2,6.39,12.6,88548228144,2.7900,22
+866,Nationeel,14,11.2,1,10.1,109,Nationeel Apple Fruit Roll,0,14.5,16.7,13.2,94316146969,3.4600,26
+867,Nationeel,8,12.3,1,11.3,109,Nationeel Strawberry Fruit Roll,1,8.48,19.4,12.5,56227416396,1.8800,23
+868,Nationeel,13,14.4,0,12.3,109,Nationeel Raspberry Fruit Roll,1,9.72,6.52,15.3,31233101487,3.5800,5
+869,Nationeel,5,17,0,15,109,Nationeel Grape Fruit Roll,1,8.3,11.4,9.3,52382137179,2.1200,15
+870,Nationeel,12,20,0,18,109,Nationeel Dried Dates,1,14.2,11.8,14.8,86625588536,1.9700,9
+871,Nationeel,12,17.1,1,14.1,109,Nationeel Raisins,1,9.54,5.29,22.4,40425171256,2.5400,9
+872,Nationeel,5,19.2,0,16.2,109,Nationeel Golden Raisins,0,20.7,19,4.08,43906388878,2.5200,9
+873,Nationeel,6,13.4,0,12.3,109,Nationeel Dried Apricots,0,21.9,18.9,18.8,69628826975,2.3500,17
+874,Nationeel,8,11.4,0,10.3,84,Nationeel Frosted Donuts,0,14.4,20.1,20.9,42347810864,1.5900,28
+875,Thresher,10,17.5,1,16.5,36,Thresher Tasty Candy Bar,1,11.8,6.51,6.35,61210145354,3.4400,26
+876,Thresher,12,20.9,1,17.8,36,Thresher Mint Chocolate Bar,0,17.6,12.5,15.9,69264765381,1.7100,23
+877,Thresher,7,10.3,0,8.3,36,Thresher Malted Milk Balls,1,5.32,19.8,22.8,57364866137,1.5800,7
+878,Thresher,5,18.8,0,17.7,36,Thresher Semi-Sweet Chocolate Bar,1,9.55,11.8,16.5,34657252430,1.8700,4
+879,Thresher,11,11.7,1,9.69,37,Thresher Bubble Gum,1,11.1,8.31,3.56,58092989325,1.1100,9
+880,Thresher,11,11.1,0,8.1,38,Thresher Spicy Mints,0,13.2,8.53,10.8,83406100869,3.6500,34
+881,Thresher,7,7.2,0,5.19,38,Thresher Mints,0,14.2,17.1,10.9,99981734156,1.8100,7
+882,Thresher,9,11.5,1,9.5,36,Thresher White Chocolate Bar,1,14.7,5.5,5.17,15749652981,2.4900,26
+883,Monarch,10,8.2,0,5.19,5,Monarch Ravioli,1,5.2,22.2,8.85,67660922408,2.9000,18
+884,Monarch,12,13,0,10,5,Monarch Manicotti,0,15.5,7.26,5.3,42666607499,2.6000,22
+885,Monarch,10,13.3,1,11.3,5,Monarch Spaghetti,1,19.8,21.9,7.64,63815643191,1.3800,35
+886,Monarch,6,8.44,0,6.43,57,Monarch Thai Rice,0,13.2,18.6,17.1,98059094548,3.1100,7
+887,Monarch,5,13.2,0,11.1,57,Monarch Rice Medly,0,21.1,18.1,3.7,88445896506,1.8000,24
+888,Discover,6,8.06,1,6.06,5,Discover Ravioli,0,14.6,13.5,8.42,68024984002,0.8800,5
+889,Discover,5,16,0,14,5,Discover Manicotti,1,16.4,17.8,22.4,58628250956,1.6100,7
+890,Discover,10,21.7,1,20.7,5,Discover Spaghetti,1,21.5,5.15,3.54,31347234845,2.6100,6
+891,Discover,13,19.3,0,17.2,57,Discover Thai Rice,0,21.6,13,12,26307439208,2.4700,9
+892,Discover,9,14.5,0,13.5,57,Discover Rice Medly,1,20,5.19,20.6,58264189362,2.7300,27
+893,Pearl,7,11.6,0,8.6,43,Pearl Imported Beer,0,20.3,18.5,6.52,22462159991,0.9100,33
+894,Pearl,5,9.87,0,6.86,44,Pearl Light Wine,1,5.89,11.7,15.9,23656676411,0.5700,11
+895,Pearl,6,16.2,0,15.2,44,Pearl Chardonnay Wine,0,18.8,10,7.95,47092413306,0.6500,2
+896,Pearl,12,10.7,0,8.69,44,Pearl Chablis Wine,0,20.5,15.2,12,83622565865,2.6800,31
+897,Pearl,11,9.01,0,7.01,44,Pearl Merlot Wine,0,6.07,8.46,21.5,10198199152,0.5400,8
+898,Pearl,12,15.4,0,12.3,44,Pearl Chardonnay,0,19,6.68,13.4,94485405087,1.7400,34
+899,Pearl,13,19.9,0,17.8,44,Pearl White Zinfandel Wine,0,12.6,13.6,17.3,56396674513,1.9200,20
+900,Pearl,5,10.3,0,8.3,43,Pearl Light Beer,0,5.64,11.8,9.28,31402359604,1.8600,11
+901,Fantastic,13,13.5,0,11.5,27,Fantastic Pumpernickel Bread,1,14.6,13.2,4.06,52551395297,2.9900,23
+902,Fantastic,8,9.8,0,8.8,27,Fantastic White Bread,1,17.7,18.7,15.4,86794846653,0.9700,18
+903,Fantastic,14,21.4,1,18.3,27,Fantastic Rye Bread,1,8.45,13.1,16.1,77181648612,2.5200,4
+904,Fantastic,6,7.94,0,4.94,26,Fantastic English Muffins,1,9.44,15.9,12.9,56760736107,1.5000,28
+905,Fantastic,8,20.5,0,18.5,26,Fantastic Cranberry Muffins,0,4.88,19.3,17.2,16385304331,2.3300,25
+906,Fantastic,9,11.6,0,9.6,26,Fantastic Muffins,0,14.5,5.63,5.1,79104288220,0.6300,26
+907,Fantastic,5,6.04,1,4.03,25,Fantastic Bagels,1,10.6,12.1,17.1,15043191313,3.4200,27
+908,Fantastic,10,18.6,1,16.6,26,Fantastic Blueberry Muffins,1,13.6,3.32,12.5,46999941468,0.6900,19
+909,Fantastic,7,10.6,1,8.6,27,Fantastic Wheat Bread,0,10.5,4.15,13.9,11197912096,1.5500,13
+910,BBB Best,7,15.4,1,14.3,49,BBB Best Sesame Oil,0,16.3,20,6.97,12392428517,1.8400,13
+911,BBB Best,14,6.97,1,3.96,53,BBB Best Chunky Peanut Butter,0,13.3,17.5,7.18,35828165411,1.9700,10
+912,BBB Best,13,14.5,1,11.5,51,BBB Best Hot Chocolate,1,22.8,7.19,16.2,72358317971,2.6300,19
+913,BBB Best,11,14.3,0,12.3,50,BBB Best Brown Sugar,1,22.3,3.01,18.3,88933951258,1.7800,24
+914,BBB Best,6,6.76,1,3.76,50,BBB Best White Sugar,1,16.5,8.32,13,94701870083,2.4600,3
+915,BBB Best,6,17.1,0,15.1,90,BBB Best French Roast Coffee,0,12.6,10.4,5.87,45396098494,2.8700,34
+916,BBB Best,6,15.2,0,13.1,90,BBB Best Decaf Coffee,1,18.2,14.7,16.8,20401783585,2.5700,6
+917,BBB Best,11,17.2,0,15.2,90,BBB Best Regular Coffee,0,22.6,21.5,4.02,41550819277,1.1200,16
+918,BBB Best,13,13.5,1,11.5,49,BBB Best Vegetable Oil,0,3.72,9.12,17.7,75794270634,2.9700,15
+919,BBB Best,7,15.5,1,13.5,49,BBB Best Corn Oil,1,4.95,16.2,20.5,66181072592,1.5400,4
+920,BBB Best,11,8.09,0,6.09,48,BBB Best Tomato Sauce,1,16.6,4.84,3.86,45760160088,0.7300,30
+921,BBB Best,13,16.1,0,14.1,49,BBB Best Canola Oil,0,6.04,13.4,14.7,95384728312,1.3500,30
+922,BBB Best,13,13.2,1,10.1,33,BBB Best Grape Preserves,0,21.3,6.85,22.2,68103712201,2.5900,30
+923,BBB Best,8,16.2,0,14.2,90,BBB Best Columbian Coffee,0,22.2,16.2,8.02,63063916563,1.4400,18
+924,BBB Best,5,21.2,0,18.2,31,BBB Best Strawberry Jelly,0,10.7,15.4,13.1,35999365448,2.7000,30
+925,BBB Best,5,11.4,1,9.39,4,BBB Best Pepper,0,13,12.9,18.3,90197336077,0.7600,4
+926,BBB Best,11,8.86,1,6.85,33,BBB Best Low Fat Apple Butter,1,10.7,21.9,19.1,67489722371,0.5600,25
+927,BBB Best,9,7.72,1,5.71,4,BBB Best Salt,0,15.4,19.8,15.9,24827589392,0.6300,36
+928,BBB Best,12,9.38,1,7.38,33,BBB Best Apple Butter,1,21.8,8.04,15.1,61357741951,1.6500,33
+929,BBB Best,8,12.8,0,11.8,4,BBB Best Oregano,1,10.1,19.6,14.7,54031245112,0.5300,28
+930,BBB Best,14,7.65,0,4.65,31,BBB Best Apple Jelly,1,8.64,6.24,19.2,59799163937,1.4800,5
+931,BBB Best,10,20.2,0,17.2,32,BBB Best Grape Jam,0,9.08,20.7,3.29,45612563490,1.9000,9
+932,BBB Best,14,12.2,0,10.1,32,BBB Best Apple Jam,0,13.4,9.33,15.8,20618248581,1.5900,3
+933,BBB Best,5,10.2,1,9.19,32,BBB Best Strawberry Jam,1,8.37,17.3,19.2,31341258883,3.3800,28
+934,BBB Best,11,12.8,0,11.8,53,BBB Best Creamy Peanut Butter,0,9.45,7.76,3.14,41682580113,1.1000,20
+935,BBB Best,11,7.54,1,4.53,33,BBB Best Strawberry Preserves,0,20.4,8.78,19.4,32069382071,2.8000,6
+936,BBB Best,8,6.49,0,5.48,53,BBB Best Extra Chunky Peanut Butter,0,17.6,3.42,4.29,35550599694,2.7800,23
+937,BBB Best,10,21.8,1,18.7,33,BBB Best Apple Preserves,1,12.2,18,3.3,85175167918,3.6100,25
+938,BBB Best,13,17,0,14,31,BBB Best Grape Jelly,1,5.65,8.03,10.6,33992021679,1.6100,32
+939,Fabulous,13,10.8,0,8.8,30,Fabulous Berry Juice,0,16.9,11.2,3.2,52854356169,0.7000,19
+940,Fabulous,11,14.5,0,12.5,52,Fabulous Mango Drink,0,20.8,11.4,21.4,84811106324,2.8400,23
+941,Fabulous,10,18.3,0,16.2,52,Fabulous Strawberry Drink,0,11.9,20.6,10.6,49009076952,3.9500,35
+942,Fabulous,13,17.7,0,14.7,19,Fabulous Cream Soda,0,16.4,6.4,7.84,79714244008,2.3400,13
+943,Fabulous,12,18.6,0,16.6,19,Fabulous Diet Soda,1,11.2,8.69,12.4,37052111029,2.4700,1
+944,Fabulous,13,16.4,0,15.3,19,Fabulous Cola,1,21.9,14,19.9,73582263588,0.8800,17
+945,Fabulous,12,12.3,0,9.3,19,Fabulous Diet Cola,0,13.2,8.24,19.2,66255766749,2.2800,5
+946,Fabulous,11,6,0,4,30,Fabulous Orange Juice,1,10.2,21.1,5.4,72023685574,2.8500,2
+947,Fabulous,8,16,0,15,30,Fabulous Cranberry Juice,1,16.9,18.5,7.47,57837085127,0.6500,11
+948,Fabulous,7,16.9,0,13.8,30,Fabulous Apple Juice,0,11.6,20.8,12,98940640091,2.9600,34
+949,Fabulous,5,10.6,0,8.6,52,Fabulous Apple Drink,1,8.66,13.7,18.2,53991805911,2.5100,32
+950,Special,8,9.56,0,6.56,35,Special Oatmeal,0,10.8,15,3.69,64333127140,3.4700,25
+951,Special,14,16.1,0,15.1,35,Special Corn Puffs,1,8.19,19.1,19.4,43502888083,1.9300,17
+952,Special,13,21.8,0,19.7,35,Special Wheat Puffs,1,8.28,10.8,21.4,46984105706,2.9100,10
+953,Special,13,17,1,16,35,Special Grits,1,9.15,8.62,19.9,96608673930,2.7400,17
+954,Just Right,6,8.66,0,6.65,62,Just Right Canned Beets,1,3.67,9.41,8.79,45425527691,1.7400,32
+955,Just Right,12,15.2,0,13.1,62,Just Right Creamed Corn,0,5.86,5.78,15.8,64287862181,3.8300,3
+956,Just Right,6,10,1,9,62,Just Right Canned String Beans,1,19.3,12.3,22,72342482209,1.2000,13
+957,Just Right,11,13.5,1,12.5,58,Just Right Chicken Soup,1,17.6,10.6,20.4,60442582964,2.9700,10
+958,Just Right,6,19.7,0,18.7,62,Just Right Canned Yams,1,17.6,14.6,22,37734969258,1.3600,34
+959,Just Right,13,17.2,0,15.2,58,Just Right Vegetable Soup,0,17.7,13.6,12,26051535010,1.5000,2
+960,Just Right,6,18,1,16,62,Just Right Canned Tomatos,0,14.4,10.6,6.49,62581687569,2.1500,23
+961,Just Right,12,9.1,1,7.1,58,Just Right Noodle Soup,0,21.6,11.4,4.49,55255190730,1.3100,35
+962,Just Right,7,9.31,1,6.31,58,Just Right Regular Ramen Soup,1,13.2,15.1,9.47,61023109555,1.8700,10
+963,Just Right,13,20.5,1,18.5,58,Just Right Chicken Noodle Soup,1,9.16,10.6,6.68,22934378981,2.4000,6
+964,Just Right,6,16.7,0,14.7,58,Just Right Turkey Noodle Soup,0,7.25,16.1,19.7,87940064072,1.9900,24
+965,Just Right,10,17.3,1,16.2,58,Just Right Beef Soup,0,16.4,3.18,6.67,19089099764,1.5300,10
+966,Just Right,11,8.02,0,5.02,62,Just Right Canned Peas,1,11.2,10.5,11,53332551121,2.4900,20
+967,Just Right,11,12.3,1,11.3,58,Just Right Chicken Ramen Soup,1,14.2,4.49,15.2,43719353079,0.6100,34
+968,Just Right,14,9.48,1,8.47,93,Just Right Canned Tuna in Water,0,12,12.3,11.1,35983529686,1.2800,16
+969,Just Right,13,7.43,0,5.42,93,Just Right Canned Tuna in Oil,0,22,8.02,3.37,85608097910,1.7600,4
+970,Just Right,14,13.9,1,12.8,94,Just Right Large Canned Shrimp,0,7.29,6.26,6.05,34424951672,3.1100,3
+971,Just Right,12,10.1,1,7.1,95,Just Right Fancy Canned Anchovies,1,12.8,12.9,8.07,53287286162,2.8500,9
+972,Just Right,8,7.65,0,5.65,96,Just Right Fancy Canned Clams,0,15.5,17.4,7.93,61341906189,2.2300,6
+973,Just Right,11,14.8,1,12.8,97,Just Right Fancy Canned Oysters,0,12.6,9.35,4.08,49442006945,1.3400,36
+974,Just Right,6,6.89,1,4.88,98,Just Right Fancy Canned Sardines,1,12,15.7,15.3,26734393239,0.7900,24
+975,Just Right,7,7.12,1,6.11,58,Just Right Rice Soup,0,21.3,12.6,18.9,74072260260,3.7600,14
+976,Big City,6,17.8,0,16.7,3,Big City Canned Mixed Fruit,1,19.7,11.5,16.4,20602412819,1.1700,33
+977,Big City,12,11.6,0,8.6,3,Big City Canned Peaches,1,16,10.3,8.07,67893072962,0.7600,26
+978,Symphony,7,17.4,0,15.3,89,Symphony Rosy Sunglasses,1,11.1,4.31,8.03,73660991787,1.6000,36
+979,James Bay,8,18.3,0,16.2,103,James Bay Eyeglass Screwdriver,0,5.88,22.1,13.3,35572261214,3.7800,29
+980,James Bay,9,10.1,0,7.1,102,James Bay City Map,1,3.45,19.3,12.1,10577946305,1.7200,28
+981,Even Better,11,19.7,0,17.7,15,Even Better Low Fat Cottage Cheese,0,20.4,7.8,19.1,31726981997,1.2700,20
+982,Even Better,14,12.3,0,9.3,14,Even Better Low Fat Sour Cream,0,7.17,9.76,21.9,65970433354,2.8800,5
+983,Even Better,9,20.3,0,18.2,14,Even Better Sour Cream,0,11.5,18.3,14.4,56357235312,0.8200,34
+984,Even Better,10,6.33,1,4.32,11,Even Better Jack Cheese,1,20.1,18.8,19.1,59838452935,0.8100,20
+985,Even Better,11,12,1,9,11,Even Better Muenster Cheese,1,5.26,6.21,20.1,85560891032,0.7200,12
+986,Even Better,8,14.6,1,12.6,11,Even Better String Cheese,0,8.84,22.2,13.9,23160703778,3.5000,21
+987,Even Better,13,18.6,0,16.6,11,Even Better Low Fat String Cheese,0,9.5,4.98,4.16,42023038268,2.5900,15
+988,Even Better,11,6.94,0,3.94,11,Even Better Havarti Cheese,1,7.51,7.78,8.48,50077658295,3.6100,11
+989,Even Better,13,13.1,0,10.1,11,Even Better Head Cheese,1,17.4,9.59,10.4,38177759051,0.8400,18
+990,Even Better,9,7.91,0,6.9,11,Even Better Cheese Spread,1,13.3,22.9,18,15470145344,3.1200,13
+991,Even Better,12,17.2,0,16.2,11,Even Better Sharp Cheddar Cheese,1,22.3,10.5,17.3,38905882239,3.2500,15
+992,Even Better,11,8.89,0,6.89,11,Even Better Mild Cheddar Cheese,0,14.3,5.74,16.3,99338164925,1.7900,7
+993,Even Better,12,15.9,1,13.8,15,Even Better Large Curd Cottage Cheese,1,3.99,12,4.21,92011668086,3.9500,7
+994,Even Better,7,15.7,0,12.6,76,Even Better 2% Milk,0,18.4,16.7,6.54,62660415768,0.7900,6
+995,Even Better,5,21.7,0,19.7,76,Even Better Buttermilk,0,16.5,16,15,24571685194,1.1500,35
+996,Even Better,5,14.8,0,12.8,76,Even Better Chocolate Milk,1,18.7,12.2,20.6,89577370285,0.8500,6
+997,Even Better,14,21.8,0,18.7,76,Even Better 1% Milk,1,6.57,7.18,13.1,20726405978,3.2900,23
+998,Even Better,11,8.02,0,6.02,76,Even Better Whole Milk,0,6.29,5.95,21.7,54969857335,1.2500,20
+999,Even Better,11,17.1,1,15.1,6,Even Better Strawberry Yogurt,1,8.43,22.1,7.42,45356659293,2.7100,26
+1000,Even Better,13,7.42,0,5.42,6,Even Better Blueberry Yogurt,1,3.37,15,9.23,48837876915,2.6900,33
+1001,American,13,19.9,1,18.8,81,American Chicken Hot Dogs,0,8.82,11.7,14.5,74560315012,2.5200,13
+1002,American,12,7.49,1,6.48,91,American Pimento Loaf,1,9.61,15.6,22.8,47279298901,2.7600,33
+1003,American,13,14.2,0,11.1,91,American Beef Bologna,1,16.9,10.7,16.8,31022462248,0.7800,19
+1004,American,8,15.8,0,13.8,91,American Low Fat Bologna,1,13.2,12.2,17.2,39077082276,2.8700,5
+1005,American,13,21.9,0,18.8,81,American Turkey Hot Dogs,1,15.6,9.73,22.3,27177183032,2.7400,9
+1006,American,9,8.4,0,5.39,81,American Foot-Long Hot Dogs,0,16.7,6.85,8.49,94469569325,2.1400,29
+1007,American,7,7.26,1,5.26,16,American Low Fat Cole Slaw,0,21.4,4.83,5.29,27905306220,2.2700,5
+1008,American,11,19.9,0,17.8,16,American Cole Slaw,0,4.39,4.86,19.2,64435458779,0.8900,3
+1009,American,7,12.3,0,10.3,77,American Roasted Chicken,1,16.1,4.62,4.08,81011092066,2.9700,33
+1010,American,12,7.19,1,6.19,8,American Corned Beef,1,14.6,11.1,8.61,86779010891,2.6500,10
+1011,American,8,14.8,1,13.8,8,American Sliced Turkey,0,11.6,17.5,7.35,48690280318,3.1700,13
+1012,American,12,6.81,1,3.8,8,American Sliced Ham,0,16,6.15,19.8,11010876297,2.7600,7
+1013,American,7,20.7,1,18.7,16,American Potato Salad,1,10.9,14.1,3.31,32159911990,1.5500,4
+1014,American,10,7.32,0,5.32,8,American Sliced Chicken,1,12,4.58,7.19,66403363347,0.5900,24
+1015,National,9,18,1,17,66,National Small Brown Eggs,1,3.04,5.61,3.48,56790165305,2.1900,11
+1016,National,10,17,1,15,66,National Large Brown Eggs,0,20.2,20.2,8.34,36369252800,1.1700,34
+1017,National,10,21.3,1,19.2,66,National Small Eggs,0,18.2,3.04,12.6,85993821024,2.8900,23
+1018,National,6,16.6,1,14.6,66,National Large Eggs,0,11.6,12.9,19.9,58712804913,0.9300,8
+1019,National,11,21.3,1,19.2,66,National Egg Substitute,0,19.5,8.04,7.25,53673009276,3.7400,24
+1020,PigTail,6,14.7,0,12.6,34,PigTail Low Fat Waffles,0,8.48,15.6,6.61,50246916413,0.5100,26
+1021,PigTail,8,12.6,1,10.6,110,PigTail Orange Popsicles,0,3.39,19.1,10.7,14444887042,1.2200,23
+1022,PigTail,13,12.5,1,10.5,100,PigTail Frozen Chicken Breast,1,15.3,16.1,20.2,15639403462,1.5100,27
+1023,PigTail,5,14.1,1,13.1,29,PigTail Frozen Pancakes,0,9.2,12,10.7,39075140357,1.6400,25
+1024,PigTail,11,7.54,0,6.53,63,PigTail Low Fat French Fries,1,8.15,6.3,8.98,75605292916,3.9500,9
+1025,PigTail,12,18.7,0,16.7,64,PigTail Frozen Sausage Pizza,0,9.02,4.02,7.48,92180926203,1.4500,14
+1026,PigTail,7,11.2,0,9.19,34,PigTail Blueberry Waffles,1,13.2,20.4,20.3,97948845028,2.1300,7
+1027,PigTail,11,6.88,0,4.88,63,PigTail Fajita French Fries,1,4.41,12.3,18.2,59860114455,2.3100,29
+1028,PigTail,9,17.6,0,16.6,34,PigTail Waffles,1,17.9,18.9,4.47,34865799546,2.2400,11
+1029,PigTail,7,6.06,1,3.05,64,PigTail Frozen Pepperoni Pizza,0,5.94,12.8,6.95,20895664095,1.6800,30
+1030,PigTail,6,12.6,1,9.6,64,PigTail Frozen Cheese Pizza,1,20.7,6.91,13.5,55139115452,2.6400,10
+1031,PigTail,13,10.1,1,8.1,64,PigTail Frozen Mushroom Pizza,1,20.9,5.91,3.52,45525917410,1.2100,13
+1032,PigTail,12,15.9,0,14.8,34,PigTail Apple Cinnamon Waffles,0,20.9,11,3.3,25105004906,0.5500,29
+1033,PigTail,13,6.99,0,4.98,60,PigTail Frozen Carrots,0,8.15,11.7,21.2,74729573130,1.9100,12
+1034,PigTail,7,21.9,0,19.8,10,PigTail Turkey TV Dinner,1,20.3,15.3,6.33,47448557019,2.9100,23
+1035,PigTail,13,18.4,0,16.3,10,PigTail Chicken TV Dinner,1,15.7,10.9,3.49,42408761382,1.1100,17
+1036,PigTail,6,14.5,1,13.5,10,PigTail Beef TV Dinner,1,13.8,16.5,16.5,74365511536,2.1400,35
+1037,PigTail,7,13.9,0,11.8,28,PigTail Pancake Mix,1,18.3,17.8,14.4,38563482165,0.5800,14
+1038,PigTail,7,16.5,1,14.5,110,PigTail Grape Popsicles,0,19.4,12.7,17.5,94638827443,0.7400,5
+1039,PigTail,12,9.94,0,7.93,63,PigTail Home Style French Fries,0,5.92,14.8,7.03,28074564337,0.8100,13
+1040,PigTail,8,17,1,15,110,PigTail Lime Popsicles,0,10.5,18.9,13.6,64604716897,1.3200,14
+1041,PigTail,7,20,1,18,9,PigTail Ice Cream,0,4.03,22.7,11.1,81180350184,0.7100,2
+1042,PigTail,6,16.6,0,14.6,9,PigTail Ice Cream Sandwich,1,16.8,17.2,17.6,86948269009,1.1500,14
+1043,PigTail,8,7.77,1,5.76,60,PigTail Frozen Cauliflower,0,19,15.8,14.3,48859538435,1.5700,26
+1044,PigTail,10,10.2,1,8.19,60,PigTail Frozen Broccoli,1,5.11,8.5,19.5,23865223526,1.2700,17
+1045,PigTail,11,12.7,0,11.6,60,PigTail Frozen Corn,1,13.7,22.2,15.3,45014259219,3.7000,9
+1046,PigTail,7,9.84,1,7.84,60,PigTail Frozen Peas,1,16.5,16.8,11.8,79257710576,1.6600,32
+1047,PigTail,13,10,0,8,9,PigTail Popsicles,1,5.81,13.7,15.5,34525341391,3.2300,16
+1048,PigTail,12,19.5,1,17.5,100,PigTail Frozen Chicken Thighs,1,4.74,12.4,13,14104428887,2.2100,35
+1049,PigTail,14,8.35,0,5.35,100,PigTail Frozen Chicken Wings,0,17.6,3.07,19.3,63728997111,3.9300,27
+1050,PigTail,8,15.3,0,13.3,110,PigTail Lemon Popsicles,1,12.1,17.2,19.2,36447980999,1.2800,8
+1051,Bird Call,13,13.4,0,11.3,78,Bird Call Silky Smooth Hair Conditioner,0,17.1,10.7,10.1,31408185362,0.5200,20
+1052,Bird Call,6,17,0,16,39,Bird Call Tartar Control Toothpaste,0,21,10.9,8.47,63364935517,1.4000,29
+1053,Bird Call,12,18.5,0,15.5,39,Bird Call Whitening Toothpast,0,10.6,9.94,13.6,27562906146,1.8500,8
+1054,Bird Call,8,14,0,11,39,Bird Call Toothpaste,0,7.03,5.17,9.44,94855292439,1.4800,34
+1055,Bird Call,10,17.6,0,15.6,39,Bird Call Deodorant,0,10.8,5.43,7.73,40712446570,1.6200,9
+1056,Bird Call,8,15.3,0,14.3,79,Bird Call Conditioning Shampoo,1,22,3.88,13,77242599129,2.9300,25
+1057,Bird Call,10,18.9,0,16.8,79,Bird Call Extra Moisture Shampoo,1,5.89,4.13,11.3,69916102290,1.4300,35
+1058,Bird Call,6,14.4,0,11.3,88,Bird Call Angled Toothbrush,1,22.3,19.3,7.17,75684021115,2.7600,26
+1059,Bird Call,12,16.2,0,15.2,79,Bird Call Apricot Shampoo,1,6.75,8.38,17.3,61497420668,2.2800,1
+1060,Bird Call,10,19.9,0,17.8,70,Bird Call Childrens Aspirin,0,10.6,8.64,15.6,36503105759,2.8700,5
+1061,Bird Call,9,15.4,0,13.3,70,Bird Call Buffered Aspirin,0,7.03,3.87,11.4,57652141451,1.6600,2
+1062,Bird Call,7,19,0,17,71,Bird Call 200 MG Ibuprofen,1,10.8,4.12,9.71,67993462681,2.3800,16
+1063,Bird Call,9,20.5,0,17.5,72,Bird Call 200 MG Acetominifen,1,20.4,3.1,14.8,58380264639,3.1800,25
+1064,Bird Call,5,17.3,0,16.2,73,Bird Call HCL Nasal Spray,1,16.3,18.5,10.6,92840180993,0.5400,15
+1065,Bird Call,7,20.9,0,18.8,73,Bird Call Dishwasher Detergent,1,20.2,18.7,8.92,52464749217,1.8800,25
+1066,Bird Call,14,17.3,0,16.2,75,Bird Call Multi-Symptom Cold Remedy,0,6.34,9.61,8.78,91281602978,2.8900,4
+1067,Bird Call,14,12.8,0,10.8,75,Bird Call Childrens Cold Remedy,1,22.7,4.84,4.58,20143937468,1.7400,35
+1068,Bird Call,12,16.5,0,13.5,74,Bird Call Laundry Detergent,0,6.62,5.1,22.8,52100687623,2.1100,4
+1069,Bird Call,13,18,0,15,74,Bird Call Mint Mouthwash,0,16.1,4.07,8.04,16298658251,0.5700,24
+1070,High Quality,12,21.6,0,20.6,80,High Quality 60 Watt Lightbulb,0,20,4.33,6.34,83591044545,3.5100,28
+1071,High Quality,8,18.4,0,16.3,56,High Quality Plastic Forks,0,15.9,19.7,22,40928911566,2.6400,18
+1072,High Quality,14,20.2,0,18.2,56,High Quality Plastic Spoons,1,20.3,8.75,12.2,77459064126,1.9500,28
+1073,High Quality,12,7.86,0,5.86,56,High Quality Plastic Knives,1,4.23,9.01,10.5,58915526270,3.4500,32
+1074,High Quality,11,19.3,0,18.2,101,High Quality C-Size Batteries,1,20.6,4.24,6.33,64683445096,3.1300,29
+1075,High Quality,9,20.8,0,18.7,80,High Quality 100 Watt Lightbulb,0,10.2,3.22,11.5,50496844649,1.5400,8
+1076,High Quality,11,8.48,0,6.47,101,High Quality AAA-Size Batteries,0,14,3.47,9.79,91600399613,3.2400,17
+1077,High Quality,7,19.9,0,17.8,55,High Quality Paper Plates,0,10.5,18.7,5.59,46651565432,3.6800,8
+1078,High Quality,9,7.63,0,4.63,55,High Quality Paper Cups,0,14.3,18.9,3.88,56992886662,1.6400,18
+1079,High Quality,12,21.3,0,19.2,80,High Quality 75 Watt Lightbulb,0,19.9,9.98,3.69,47379688620,2.2100,25
+1080,High Quality,7,21.8,0,20.7,22,High Quality Toilet Bowl Cleaner,1,19.8,13.3,4.8,50860906243,2.1900,27
+1081,High Quality,14,9.51,0,7.51,22,High Quality Counter Cleaner,0,3.67,13.5,3.09,63898255228,2.9100,31
+1082,High Quality,12,21.9,0,18.8,22,High Quality Glass Cleaner,1,9.81,4.44,22.9,12715108990,1.9100,10
+1083,High Quality,10,9.61,0,8.6,80,High Quality 25 Watt Lightbulb,1,13.6,4.7,21.2,31577443480,0.5000,14
+1084,High Quality,13,10.1,0,7.1,101,High Quality AA-Size Batteries,1,13.5,8.06,22.3,39632063508,1.3700,16
+1085,High Quality,12,6.88,0,4.88,101,High Quality D-Size Batteries,0,14.5,8.95,7.2,27732164263,2.2400,15
+1086,High Quality,10,10.5,0,7.5,18,High Quality Paper Towels,0,18.3,9.2,5.49,95024550557,2.5300,19
+1087,High Quality,13,7.26,0,5.26,18,High Quality Soft Napkins,0,19.8,12,6.78,52362417578,1.6600,24
+1088,High Quality,7,19.7,0,16.7,18,High Quality Scented Tissue,0,5.95,22.8,6.64,88892570137,3.3200,32
+1089,High Quality,9,7.36,0,5.36,18,High Quality Toilet Paper,1,9.8,3.14,4.93,81566073298,2.4700,7
+1090,High Quality,9,7.88,0,4.88,18,High Quality Tissues,1,9.66,6.5,6.04,76116951107,2.1500,4
+1091,High Quality,11,11.5,0,9.5,18,High Quality Scented Toilet Tissue,1,13.5,6.75,4.33,38028220534,3.5600,13
+1092,High Quality,14,7.97,0,5.96,20,High Quality Room Freshener,1,19.6,17.6,4.2,13033905625,2.3800,21
+1093,High Quality,14,20.7,0,19.7,40,High Quality Frying Pan,1,15.5,13,19.9,34182941317,2.8100,17
+1094,High Quality,12,8.39,0,6.39,87,High Quality Copper Cleaner,1,19.4,13.2,18.2,68426392674,3.7700,21
+1095,High Quality,13,9.85,0,7.85,47,High Quality Bees Wax Candles,0,8.97,12.2,3.4,58813194632,1.5800,5
+1096,High Quality,12,13.5,0,11.5,87,High Quality Silver Cleaner,1,12.8,12.4,21.6,62294412255,2.5600,9
+1097,High Quality,11,9.01,0,8.01,86,High Quality Copper Pot Scrubber,0,9.25,7.73,17.4,21918980479,2.1500,6
+1098,High Quality,13,21.7,0,18.7,85,High Quality Economy Toilet Brush,1,10.2,8.62,22.3,60735834240,1.3900,11
+1099,High Quality,6,9.42,0,7.42,41,High Quality Scissors,1,14.1,8.87,20.6,94492883086,3.2400,20
+1100,High Quality,11,20.9,0,18.8,42,High Quality Large Sponge,1,10.5,4.1,16.4,12547503113,0.7200,11
+1101,High Quality,13,7.64,0,5.63,41,High Quality Screw Driver,1,19.5,3.26,21.5,90647603869,2.6200,30
+1102,Genteel,11,11.3,0,8.3,65,Genteel Extra Lean Hamburger,1,3.42,3.51,19.8,67939990162,1.9000,34
+1103,Genteel,13,11.1,0,9.1,65,Genteel Seasoned Hamburger,1,20.3,7.1,9.87,25277857184,1.1500,15
+1104,Mighty Good,12,15,0,14,104,Mighty Good Monthly Sports Magazine,0,13.5,4.31,11.7,61808009743,2.4500,8
+1105,Mighty Good,11,13.7,0,10.6,108,Mighty Good Monthly Auto Magazine,0,13.9,5.32,3.29,54481512904,1.8500,6
+1106,Mighty Good,8,6.5,0,4.5,107,Mighty Good Monthly Computer Magazine,0,21.2,22.5,5.42,60249431729,1.5200,16
+1107,Mighty Good,7,18.3,0,17.2,105,Mighty Good Monthly Home Magazine,0,12.5,16.7,4.73,10943660140,2.7000,4
+1108,Mighty Good,9,18.3,0,17.2,106,Mighty Good Monthly Fashion Magazine,1,12.4,17.9,16.1,75949345231,1.6400,6
+1109,Tri-State,6,19.2,0,17.2,61,Tri-State Summer Squash,0,7.12,20.2,20.7,97098380923,0.5500,16
+1110,Tri-State,9,12.7,0,10.6,61,Tri-State Corn on the Cob,0,11,5.58,18.8,41341832280,2.8000,19
+1111,Tri-State,11,17.9,0,14.8,61,Tri-State Asparagus,1,3.8,6.23,8.54,31728634238,0.7800,15
+1112,Tri-State,5,19.9,1,18.8,61,Tri-State Sweet Peas,0,5.03,13.3,11.3,35209851861,3.5800,4
+1113,Tri-State,10,17.5,0,14.5,61,Tri-State New Potatos,0,20.1,10,19.9,60932289958,0.6700,30
+1114,Tri-State,6,20.6,1,19.6,61,Tri-State Beets,1,6.13,10.5,5.53,33651273846,3.4200,36
+1115,Tri-State,6,6.66,0,4.65,61,Tri-State Prepared Salad,1,4.86,12,18.4,52513608336,2.5000,1
+1116,Tri-State,13,15.9,0,13.8,61,Tri-State Onions,1,14.2,17.1,14.9,91546927094,2.5300,33
+1117,Tri-State,14,12,1,10,61,Tri-State Green Pepper,1,14.8,8.3,17.8,79647027850,3.6400,11
+1118,Tri-State,8,11.9,0,9.89,61,Tri-State Shitake Mushrooms,1,6.77,20.7,8.09,56939414143,2.9300,15
+1119,Tri-State,13,7.66,0,5.65,61,Tri-State Lettuce,1,7.49,6.3,6.97,80375151038,3.1700,25
+1120,Tri-State,7,16.1,0,15.1,61,Tri-State Elephant Garlic,0,16.7,20.5,21.8,50807433724,1.7100,21
+1121,Tri-State,7,9.55,1,6.55,61,Tri-State Red Pepper,1,18.1,20.3,10,43480936884,3.8700,29
+1122,Tri-State,5,15.2,0,14.1,61,Tri-State Garlic,1,8.15,19.9,22.3,49248855710,0.7400,30
+1123,Tri-State,6,8.17,1,6.17,61,Tri-State Potatos,0,9.74,16.4,9.43,11160125136,1.9600,7
+1124,Tri-State,12,6.63,0,5.63,61,Tri-State Cauliflower,1,22.1,21,12.6,64948769211,0.8100,21
+1125,Tri-State,10,19.6,1,18.6,61,Tri-State Tomatos,1,12.4,3.3,20.3,86097804903,2.2100,33
+1126,Tri-State,12,17.1,0,15.1,61,Tri-State Mushrooms,1,10,12.3,21.1,30341256260,1.1600,18
+1127,Tri-State,11,12.8,1,11.8,61,Tri-State Baby Onion,0,10.8,13.3,20.7,20728058218,2.6200,22
+1128,Tri-State,8,17.6,0,15.6,61,Tri-State Dried Mushrooms,1,21.1,18.4,17.2,24209275841,2.6100,32
+1129,Tri-State,9,18.8,0,17.7,61,Tri-State Fresh Lima Beans,1,15.1,8.78,3.62,49931713938,2.4300,21
+1130,Tri-State,7,14,0,11,61,Tri-State Squash,1,3.46,19.9,4.04,22650697827,1.5500,25
+1131,Tri-State,6,13.7,0,12.6,99,Tri-State Limes,0,7.91,11.2,5.27,41513032317,2.4000,6
+1132,Tri-State,7,13.6,0,11.6,67,Tri-State Firm Tofu,0,4.85,14.8,15.3,49567652344,1.6600,23
+1133,Tri-State,6,17.5,1,15.5,1,Tri-State Almonds,1,18,12,17.2,68382779955,1.5400,26
+1134,Tri-State,7,21,0,20,99,Tri-State Macintosh Apples,1,8.81,18.1,5.17,45675166249,1.8200,19
+1135,Tri-State,13,7.61,1,4.61,99,Tri-State Golden Delcious Apples,0,12.3,14.1,18.9,69110903143,1.9600,27
+1136,Tri-State,9,13.7,1,11.6,99,Tri-State Red Delcious Apples,1,7.34,18.2,22.2,15641055703,3.6100,11
+1137,Tri-State,7,17.1,0,16.1,99,Tri-State Lemons,0,10.5,19.9,13.4,32216688990,1.7700,16
+1138,Tri-State,7,13.7,1,10.6,99,Tri-State Fancy Plums,1,8.48,15.5,9.76,37984607815,2.4400,2
+1139,Tri-State,12,9.37,1,7.36,99,Tri-State Plums,1,19.2,9.92,10.4,89895877242,2.8600,23
+1140,Tri-State,13,10.5,1,8.5,99,Tri-State Peaches,0,20.7,12.4,7.34,64901562333,2.5600,12
+1141,Tri-State,13,10.3,0,8.3,61,Tri-State Broccoli,0,20.1,12.7,8.76,86050598025,1.3400,27
+1142,Tri-State,5,15.2,1,13.1,99,Tri-State Mandarin Oranges,0,15.5,17.8,3.55,19077008366,2.9500,27
+1143,Tri-State,13,8.69,0,7.68,1,Tri-State Mixed Nuts,0,21.9,8.72,11.5,99463810324,1.7600,12
+1144,Tri-State,8,21.2,0,18.2,1,Tri-State Canned Peanuts,1,4.93,19.8,6.96,79042897820,0.8500,4
+1145,Tri-State,9,21.4,0,20.3,61,Tri-State Sweet Onion,0,9.67,7.66,7.21,38667466044,1.5700,12
+1146,Tri-State,6,18,0,16,99,Tri-State Cantelope,1,7.61,16.5,21.3,11386449933,2.5700,32
+1147,Tri-State,12,9.62,0,7.61,99,Tri-State Honey Dew,0,4.63,14,21.5,96346654295,1.4200,30
+1148,Tri-State,5,13.1,0,11.1,99,Tri-State Fuji Apples,0,20.4,11.2,9.33,38303404450,2.6900,15
+1149,Tri-State,5,19.7,1,16.7,1,Tri-State Walnuts,0,22.7,6.41,4.93,92501375079,0.8800,17
+1150,Tri-State,9,9.1,0,7.1,99,Tri-State Oranges,1,12.9,14.8,22.4,93695891499,3.1900,32
+1151,Tri-State,8,15.6,1,14.6,99,Tri-State Tangerines,1,10.2,14.4,19,80544409155,0.6200,30
+1152,Tri-State,9,13.6,0,12.6,1,Tri-State Party Nuts,1,17.7,4.59,21.2,27074561715,2.6300,23
+1153,Dual City,11,18.8,0,16.7,24,Dual City Lox,1,20.4,8.64,22,43650195002,0.5200,33
+1154,Dual City,11,12.7,0,10.6,2,Dual City Scallops,1,9.2,4.04,21.7,49418113827,1.7000,3
+1155,Horatio,10,16.1,0,15.1,45,Horatio Low Fat Cookies,0,12.5,4.56,21.4,11329383254,1.8800,12
+1156,Horatio,13,9.16,1,8.15,12,Horatio BBQ Potato Chips,1,6.59,13.2,17.3,76335068345,1.8200,23
+1157,Horatio,9,20.4,0,18.3,12,Horatio Corn Chips,1,17.4,22,13.9,97484104037,3.3600,12
+1158,Horatio,13,14.2,1,12.1,12,Horatio Low Fat BBQ Chips,0,16.2,6.34,15.5,41727555394,1.3200,35
+1159,Horatio,7,16.7,1,14.7,45,Horatio Sugar Cookies,1,14.7,3.54,22.4,32114357352,3.7800,28
+1160,Horatio,10,11,1,8,45,Horatio Chocolate Chip Cookies,1,3.41,4.53,6.24,90476403832,2.7600,1
+1161,Horatio,9,11.8,0,9.8,45,Horatio Fudge Cookies,0,22.5,7.07,10.6,50100972056,3.5900,34
+1162,Horatio,10,6.18,1,4.17,45,Horatio Fudge Brownies,1,6.22,5.83,13.1,22819955945,1.5900,30
+1163,Horatio,10,16.4,0,15.3,12,Horatio Potato Chips,1,12.3,21.2,7,17780160307,0.8200,14
+1164,Horatio,7,17.1,1,14.1,45,Horatio Lemon Cookies,1,19,22.7,4.05,49736910462,1.7100,6
+1165,Horatio,6,18.3,0,15.2,45,Horatio Graham Crackers,1,3.05,10.8,10.8,13934881091,2.8200,25
+1166,Horatio,9,18.5,0,17.5,82,Horatio Cheese Crackers,0,9.86,22.2,4.55,15129397511,2.2100,20
+1167,Horatio,6,17.8,0,15.7,54,Horatio Buttered Popcorn,1,4.34,18.1,15,38565134406,2.3500,13
+1168,Horatio,9,18.5,0,16.5,54,Horatio No Salt Popcorn,1,21,6.21,10.9,75095286965,3.8200,29
+1169,Horatio,7,15.1,0,13.1,54,Horatio Low Fat Popcorn,0,6.44,11.7,14.8,32649618983,2.9800,15
+1170,Horatio,10,21.8,0,20.7,83,Horatio Salsa Dip,1,11.2,21.4,18.8,38417537808,2.6500,7
+1171,Horatio,8,12,1,9,83,Horatio Avocado Dip,0,3.69,19.9,12.2,90328807234,3.1800,31
+1172,Horatio,10,18.7,0,16.7,46,Horatio Salted Pretzels,0,3.48,18.4,16.4,65334492325,2.7700,23
+1173,Horatio,9,7.04,0,5.03,83,Horatio Cheese Dip,0,11.9,20.9,17.5,86483528017,2.3100,3
+1174,Horatio,11,19.6,0,17.6,83,Horatio Fondue Mix,0,19.8,3.19,12.8,30726979374,2.2700,6
+1175,Horatio,8,7.57,0,6.57,84,Horatio Mini Donuts,1,8.04,18.1,13.4,21113781332,1.7300,23
+1176,Horatio,11,9.63,1,7.63,17,Horatio Beef Jerky,1,9.27,5.26,16.2,90692868828,1.7100,11
+1177,Horatio,13,8.44,1,5.43,84,Horatio Chocolate Donuts,0,9,7.69,13.9,50317437052,1.5400,16
+1178,Horatio,13,10.5,0,8.5,12,Horatio Low Fat Chips,0,5.23,12.5,15.4,11555708050,3.7800,28
+1179,Horatio,12,12.6,0,9.6,82,Horatio Sesame Crackers,0,3.96,14,8.29,96515912413,2.6300,29
+1180,Horatio,7,10.6,0,8.6,45,Horatio Frosted Cookies,1,21.4,15.3,8.71,38472662568,3.9000,17
+1181,Horatio,5,20.9,0,19.8,109,Horatio Dried Apples,1,17.5,9.72,14.4,92670633196,1.7700,15
+1182,Horatio,8,7.87,0,6.86,109,Horatio Apple Fruit Roll,0,13.4,19,21.8,69963019490,1.4000,27
+1183,Horatio,9,7.71,1,6.71,109,Horatio Strawberry Fruit Roll,1,7.92,17.1,21.9,27300886511,1.5400,25
+1184,Horatio,12,11.1,1,8.1,109,Horatio Raspberry Fruit Roll,0,13.7,3.2,11.5,63831039071,2.8400,22
+1185,Horatio,7,16.4,0,14.3,109,Horatio Grape Fruit Roll,1,21.4,10.5,18.4,56504542231,1.3500,6
+1186,Horatio,10,9.01,0,6.01,109,Horatio Dried Dates,1,5.67,22.4,12,62272461056,1.6800,32
+1187,Horatio,11,17.9,0,15.8,109,Horatio Raisins,1,7.26,18.9,19.1,12966689467,2.2000,8
+1188,Horatio,7,18.6,1,16.6,109,Horatio Golden Raisins,1,8.82,19.3,6.34,77972374558,1.7900,27
+1189,Horatio,10,12.4,0,10.3,109,Horatio Dried Apricots,0,15.1,4.72,16.9,99121410250,0.7600,8
+1190,Horatio,12,11.8,1,8.8,84,Horatio Frosted Donuts,0,12.2,4.95,5.82,19462731480,1.3000,27
+1191,Musial,10,19.7,0,16.7,36,Musial Tasty Candy Bar,1,14,3.56,9.17,99849533438,2.1000,33
+1192,Musial,7,13.5,1,12.5,36,Musial Mint Chocolate Bar,0,7.89,16.7,10.9,13330751061,0.9800,9
+1193,Musial,5,13.8,1,10.8,36,Musial Malted Milk Balls,0,12.1,11.4,13.2,62955319285,0.8900,22
+1194,Musial,6,19.6,0,17.6,36,Musial Semi-Sweet Chocolate Bar,0,7.27,9.92,12.5,11772173047,2.8100,3
+1195,Musial,14,8.49,0,6.48,37,Musial Bubble Gum,1,15.1,9.42,19,30634507536,1.6600,19
+1196,Musial,10,14.6,0,12.6,38,Musial Spicy Mints,0,14.9,21.3,14.3,27472086548,2.9200,5
+1197,Musial,12,10.3,0,7.3,38,Musial Mints,0,20.7,13.5,13.7,81670057177,3.1400,15
+1198,Musial,8,16,0,14,36,Musial White Chocolate Bar,0,5.8,20.8,14.8,58962443470,3.4300,13
+1199,Colossal,7,8.6,1,6.6,5,Colossal Ravioli,0,22.5,20.6,17.9,16300310492,2.5600,10
+1200,Colossal,9,14.7,0,13.6,5,Colossal Manicotti,1,17.4,4.63,21.2,52830463051,1.8700,23
+1201,Colossal,8,21.9,0,19.8,5,Colossal Spaghetti,1,4.63,14.2,17.8,45503966212,3.3700,12
+1202,Colossal,9,14.3,0,11.3,57,Colossal Thai Rice,1,9.29,19.3,9.34,51271885037,3.9400,3
+1203,Colossal,9,15,1,12,57,Colossal Rice Medly,1,3.45,21.8,15.3,37085284590,1.4600,31
+1204,Portsmouth,10,16.2,0,13.2,43,Portsmouth Imported Beer,1,4.97,4.44,12.2,78188839554,2.1600,20
+1205,Portsmouth,6,19.3,0,17.2,44,Portsmouth Light Wine,0,13.9,12.4,9.24,88120834231,2.6000,4
+1206,Portsmouth,13,8.41,0,7.4,44,Portsmouth Chardonnay Wine,0,22.4,11.6,14.3,98462155461,3.4300,15
+1207,Portsmouth,12,21.2,0,18.2,44,Portsmouth Chablis Wine,1,3.39,5.9,17,88848957419,1.8900,20
+1208,Portsmouth,10,10.3,0,8.3,44,Portsmouth Merlot Wine,1,11.8,5.13,22.1,92330175042,2.8700,32
+1209,Portsmouth,11,13.1,0,11.1,44,Portsmouth Chardonnay,1,5.96,3.09,14.1,51954743266,2.7000,25
+1210,Portsmouth,10,11.2,0,9.19,44,Portsmouth White Zinfandel Wine,1,6.42,17.4,16.7,90771597027,1.7000,28
+1211,Portsmouth,8,16.3,0,15.2,43,Portsmouth Light Beer,1,14.8,16.7,21.8,19633931517,3.7900,5
+1212,Sphinx,9,8.16,1,6.15,27,Sphinx Pumpernickel Bread,1,12.4,22.8,19.1,27688551545,0.5300,33
+1213,Sphinx,6,18.9,0,16.8,27,Sphinx White Bread,1,8.44,14.9,15.2,15788652300,2.9300,31
+1214,Sphinx,8,17.8,0,15.7,27,Sphinx Rye Bread,0,10.6,16.2,20.6,47698195576,1.3200,25
+1215,Sphinx,14,6.26,1,4.26,26,Sphinx English Muffins,1,13.6,19,3.34,95036062598,1.4600,27
+1216,Sphinx,9,13.8,1,11.8,26,Sphinx Cranberry Muffins,0,13.1,22,13.4,41566215157,2.1100,18
+1217,Sphinx,7,18.1,0,16.1,26,Sphinx Muffins,0,6.1,14.9,9.42,34239718317,1.2700,11
+1218,Sphinx,6,16,0,14,25,Sphinx Bagels,1,8.63,9.53,12.6,40007637143,1.8300,5
+1219,Sphinx,13,7.55,1,5.55,26,Sphinx Blueberry Muffins,1,5.64,7,12.8,91918906569,2.3600,3
+1220,Sphinx,13,10.1,1,7.1,27,Sphinx Wheat Bread,1,11.7,8.55,16.5,66924591660,1.9500,35
+1221,Plato,11,21.7,1,19.7,49,Plato Sesame Oil,0,17.4,11.8,17.4,88073627352,1.4900,19
+1222,Plato,6,12,1,9,53,Plato Chunky Peanut Butter,1,17.4,15.9,19,32317078709,2.4500,34
+1223,Plato,11,17.3,1,16.2,51,Plato Hot Chocolate,0,10.1,9.87,6.52,77584709525,0.5900,23
+1224,Plato,7,10.2,0,8.19,50,Plato Brown Sugar,0,14.2,11.8,3.48,81065927147,1.2400,23
+1225,Plato,9,11.4,0,9.39,50,Plato White Sugar,0,3.13,3.41,22.9,40690495371,1.7200,3
+1226,Plato,14,9.43,0,7.43,90,Plato French Roast Coffee,1,5.64,11.3,3.97,79507349133,2.9600,32
+1227,Plato,6,6.23,0,5.23,90,Plato Decaf Coffee,1,6.64,16.6,8.08,98369683623,2.8100,31
+1228,Plato,11,6.78,0,4.78,90,Plato Regular Coffee,0,6.49,4.46,8.45,16424303650,2.1900,33
+1229,Plato,11,14.5,0,12.5,49,Plato Vegetable Oil,1,4.06,21.6,7.25,94524404406,1.3000,32
+1230,Plato,12,13.4,1,10.3,49,Plato Corn Oil,1,18.7,6.3,22.9,71816790699,0.7700,26
+1231,Plato,14,11.8,0,10.8,48,Plato Tomato Sauce,0,11.1,17.5,8.35,29154657721,3.7100,28
+1232,Plato,14,7.95,0,6.94,49,Plato Canola Oil,0,11.7,8.7,11.2,52999721169,1.1300,5
+1233,Plato,13,20.9,1,17.8,33,Plato Grape Preserves,0,11.5,11.9,17.9,45673224329,0.7300,23
+1234,Plato,9,16.7,0,13.7,90,Plato Columbian Coffee,0,12.2,17.4,16.8,51441143155,0.5600,33
+1235,Plato,9,14.9,0,11.8,31,Plato Strawberry Jelly,1,17.8,21.7,7.75,13352412581,1.3800,5
+1236,Plato,13,16.5,1,13.5,4,Plato Pepper,1,4.2,9.9,7.02,78358097672,3.3200,2
+1237,Plato,9,9.02,1,6.02,33,Plato Low Fat Apple Butter,0,15.9,9.66,11.8,99507133364,2.7500,32
+1238,Plato,11,14.8,1,13.8,4,Plato Salt,1,11,8.1,11,43750584721,1.4700,3
+1239,Plato,7,12.7,0,10.6,33,Plato Apple Butter,1,10.9,22.7,15,34137386679,2.2800,6
+1240,Plato,11,15.7,0,14.6,4,Plato Oregano,1,11.8,3.24,22.2,92499433159,2.2600,35
+1241,Plato,10,6.42,0,3.42,31,Plato Apple Jelly,0,14.1,7.3,16.3,28221871256,2.9800,3
+1242,Plato,12,19.9,0,17.8,32,Plato Grape Jam,0,11.8,9.62,14.9,90940855145,1.9800,24
+1243,Plato,8,9.7,1,8.69,32,Plato Apple Jam,1,19.4,22.5,5.94,19803189635,1.1800,5
+1244,Plato,8,19,0,17,32,Plato Strawberry Jam,1,18.3,3.45,6.41,27857809662,1.2100,24
+1245,Plato,6,18.3,1,17.2,53,Plato Creamy Peanut Butter,0,12.9,18.1,5.42,15957910418,2.3200,30
+1246,Plato,11,14.5,0,13.5,33,Plato Strawberry Preserves,1,16,3.68,16.7,83250296711,1.5400,15
+1247,Plato,14,19.3,0,16.2,53,Plato Extra Chunky Peanut Butter,1,18.8,13.2,14.9,16686033606,1.6800,23
+1248,Plato,8,12.6,0,11.6,33,Plato Apple Preserves,1,7.75,20.8,14.3,77118316292,3.3300,25
+1249,Plato,10,9.3,1,7.3,31,Plato Grape Jelly,1,3.19,4.22,18.5,34672648310,1.4800,22
+1250,Skinner,10,9.17,0,8.17,30,Skinner Berry Juice,0,15.1,21.1,8.03,40440567135,2.1600,33
+1251,Skinner,9,11.4,0,8.39,52,Skinner Mango Drink,1,14.4,22.4,19.4,92351836562,3.5800,28
+1252,Skinner,9,21.8,0,19.7,52,Skinner Strawberry Drink,0,10.5,4.51,12.2,67357521653,2.2800,24
+1253,Skinner,9,8.77,0,5.77,19,Skinner Cream Soda,1,16.4,17.2,10.7,88506557345,1.7100,27
+1254,Skinner,9,8.31,0,7.31,19,Skinner Diet Soda,1,6.56,20.5,8.52,32750008702,3.6700,7
+1255,Skinner,10,20.7,0,18.7,19,Skinner Cola,1,12.6,7,9.12,23136810660,1.2400,14
+1256,Skinner,9,15.2,0,13.1,19,Skinner Diet Cola,1,19.4,22.1,21.5,26618028283,1.2200,29
+1257,Skinner,9,7.87,0,5.86,30,Skinner Orange Juice,1,6.7,6.11,5.93,52340466380,1.9400,4
+1258,Skinner,10,15.2,0,13.1,30,Skinner Cranberry Juice,0,9.41,4.39,21.2,80731294751,0.6100,12
+1259,Skinner,10,14.7,0,11.6,30,Skinner Apple Juice,1,19.5,7.69,19,99593629240,2.1400,26
+1260,Skinner,9,7.11,1,5.11,52,Skinner Apple Drink,0,11.9,21.5,18.3,17648249268,0.6700,16
+1261,Johnson,5,18.3,1,16.2,35,Johnson Oatmeal,1,12.8,19.3,16.8,95748350024,0.6000,17
+1262,Johnson,11,11.1,1,10.1,35,Johnson Corn Puffs,0,12.3,7.71,11.1,73040736317,0.7600,6
+1263,Johnson,6,10.5,1,7.5,35,Johnson Wheat Puffs,0,21.9,20.1,8.9,96476473212,0.8300,25
+1264,Johnson,12,21.2,1,19.2,35,Johnson Grits,0,15.4,6.73,15.1,43006625771,2.3500,6
+1265,Pleasant,10,9.71,0,7.71,62,Pleasant Canned Beets,1,3.48,20.6,17.5,59582259058,0.7200,26
+1266,Pleasant,12,10,0,8,62,Pleasant Creamed Corn,0,10.2,20.9,9.83,65350177884,1.1800,27
+1267,Pleasant,10,7.5,0,6.5,62,Pleasant Canned String Beans,1,10.4,19.9,19.7,16044406294,1.6000,30
+1268,Pleasant,11,20.5,1,18.5,58,Pleasant Chicken Soup,0,3.14,8.95,8.88,81050091385,1.3000,33
+1269,Pleasant,12,11.5,0,8.5,62,Pleasant Canned Yams,0,10.3,9.72,6.88,12199127078,3.9700,16
+1270,Pleasant,13,20.5,0,18.5,58,Pleasant Vegetable Soup,1,9.38,9.5,22.5,46442578434,2.6900,4
+1271,Pleasant,7,6.12,1,3.11,62,Pleasant Canned Tomatos,1,13.2,18.7,14.1,36829380393,3.5000,13
+1272,Pleasant,9,18.2,1,16.2,58,Pleasant Noodle Soup,0,11.3,4.35,7.15,16408467888,2.4800,31
+1273,Pleasant,7,12.5,1,9.5,58,Pleasant Regular Ramen Soup,1,12.5,17.5,19.7,66033036112,3.3100,4
+1274,Pleasant,10,20.2,0,19.2,58,Pleasant Chicken Noodle Soup,1,17,20.5,8.2,38752020001,1.3100,36
+1275,Pleasant,6,13.5,0,12.5,58,Pleasant Turkey Noodle Soup,1,3.46,22.6,17.6,33712224364,1.1700,9
+1276,Pleasant,8,16.9,0,14.8,58,Pleasant Beef Soup,1,4.16,18.7,18.9,96647673249,1.4300,2
+1277,Pleasant,7,19.9,0,17.8,62,Pleasant Canned Peas,1,17.6,22.5,16.3,60845643877,2.5400,25
+1278,Pleasant,9,20.2,1,19.2,58,Pleasant Chicken Ramen Soup,1,14.4,5.08,8.26,62040160298,2.8200,9
+1279,Pleasant,8,6.41,0,3.4,93,Pleasant Canned Tuna in Water,1,13.1,15.5,19.6,85475897192,2.9600,16
+1280,Pleasant,9,8.91,0,5.9,93,Pleasant Canned Tuna in Oil,1,19.2,8.17,4.84,32006049752,1.3700,7
+1281,Pleasant,10,16,1,14,94,Pleasant Large Canned Shrimp,0,16.3,20,20.9,48581683039,2.7700,13
+1282,Pleasant,11,9.42,1,7.42,95,Pleasant Fancy Canned Anchovies,1,15.2,6.6,12.1,54349601864,3.4400,30
+1283,Pleasant,8,9.65,0,7.64,96,Pleasant Fancy Canned Clams,1,4.52,3.56,15.7,16260871291,0.7900,14
+1284,Pleasant,7,8.46,0,7.46,97,Pleasant Fancy Canned Oysters,0,21.7,20.4,3.6,81266556382,2.4300,30
+1285,Pleasant,7,13.2,1,11.1,98,Pleasant Fancy Canned Sardines,1,14.6,11,9.96,91198551058,1.8700,29
+1286,Pleasant,8,14,1,12,58,Pleasant Rice Soup,1,6.29,16.9,4.61,35442002415,0.9000,33
+1287,Toucan,5,17.9,1,15.8,3,Toucan Canned Mixed Fruit,1,4.44,14.1,4.87,25828804373,1.4000,32
+1288,Toucan,10,16.8,0,15.7,3,Toucan Canned Peaches,0,11.6,17.6,11.5,95407891869,1.3800,3
+1289,Toretti,7,18.9,0,15.8,89,Toretti Rosy Sunglasses,0,5.4,16.9,3.15,55032460093,1.2100,26
+1290,Framton,11,19.8,0,17.7,103,Framton Eyeglass Screwdriver,1,20.5,21.1,4.21,27751443982,3.2100,21
+1291,Framton,10,20.7,0,19.7,102,Framton City Map,1,15.2,3.47,8.82,22711648344,2.3000,8
+1292,Booker,10,18.5,0,15.5,15,Booker Low Fat Cottage Cheese,0,5.97,8.86,16.2,54668398499,3.3300,24
+1293,Booker,6,8.25,1,5.25,14,Booker Low Fat Sour Cream,0,11,16.2,17.3,49581395983,1.4400,22
+1294,Booker,10,6.75,1,4.75,14,Booker Sour Cream,1,20.9,19.7,9.88,50775912404,1.7200,13
+1295,Booker,13,14.8,0,13.8,11,Booker Jack Cheese,1,15.3,14.9,21.3,74211649298,1.8500,19
+1296,Booker,12,14.1,0,12.1,11,Booker Muenster Cheese,1,9.89,9.64,20.3,20741801857,2.5100,15
+1297,Booker,8,21.6,0,18.6,11,Booker String Cheese,1,4.41,17.1,11.3,37317435145,1.6600,30
+1298,Booker,8,6.3,0,5.3,11,Booker Low Fat String Cheese,1,18.5,19.6,17.3,43085353970,1.3400,22
+1299,Booker,12,13.8,1,11.8,11,Booker Havarti Cheese,1,22.9,10.5,19.5,94996623396,2.7600,16
+1300,Booker,5,17.3,0,15.2,11,Booker Head Cheese,1,21.2,13.2,17.1,70002308487,1.4500,19
+1301,Booker,10,8.42,0,5.42,11,Booker Cheese Spread,1,10.9,19.6,5.08,91151344180,0.9400,25
+1302,Booker,8,11.9,1,9.89,11,Booker Sharp Cheddar Cheese,1,4.24,6.77,3.68,24177754521,1.8500,10
+1303,Booker,9,12.2,0,10.1,11,Booker Mild Cheddar Cheese,0,6.03,20.3,15.3,14564556479,0.6800,6
+1304,Booker,8,7.43,1,4.42,15,Booker Large Curd Cottage Cheese,0,6.91,18.1,13.8,84143643975,0.6700,13
+1305,Booker,10,16.3,0,15.2,76,Booker 2% Milk,0,20.8,19,22.6,43768212199,0.5700,27
+1306,Booker,7,13.1,0,11.1,76,Booker Buttermilk,0,21.8,4.42,6.76,16487196087,2.4700,29
+1307,Booker,7,18.6,0,16.6,76,Booker Chocolate Milk,1,5.17,20.3,12.4,11447400450,1.3200,28
+1308,Booker,6,18.3,0,16.2,76,Booker 1% Milk,0,15.3,12.5,8.75,43404150605,2.5800,14
+1309,Booker,6,15.1,0,13.1,76,Booker Whole Milk,1,16.3,17.8,12.8,97602121233,3.4600,13
+1310,Booker,11,20.9,0,18.8,6,Booker Strawberry Yogurt,0,14.4,3.84,3.53,74894507527,3.9800,12
+1311,Booker,6,21.7,1,19.7,6,Booker Blueberry Yogurt,0,8.61,15.2,8.09,85645155310,3.2200,5
+1312,Lake,10,12.3,1,11.3,81,Lake Chicken Hot Dogs,0,8.42,4.9,13.7,32175307869,1.5300,26
+1313,Lake,7,19.4,1,16.3,91,Lake Pimento Loaf,1,20.4,17.9,3.03,24848811030,3.9200,17
+1314,Lake,13,7.79,1,5.78,91,Lake Beef Bologna,1,20.9,6.32,17.2,30616729855,0.6400,8
+1315,Lake,8,14.4,1,13.3,91,Lake Low Fat Bologna,0,18.2,19.2,11.5,16430129408,1.7800,6
+1316,Lake,10,17,1,15,81,Lake Turkey Hot Dogs,1,14.3,3.05,14.9,81435814499,0.7100,20
+1317,Lake,10,9.54,1,8.53,81,Lake Foot-Long Hot Dogs,1,6.1,22.8,19.7,12584850192,2.2600,11
+1318,Lake,10,14.4,0,12.3,16,Lake Low Fat Cole Slaw,1,11.4,5.63,14.8,22926171422,0.9300,4
+1319,Lake,7,13.2,1,10.1,16,Lake Cole Slaw,0,6.64,3.33,8.49,92095932364,1.6800,33
+1320,Lake,11,21.2,1,19.2,77,Lake Roasted Chicken,0,11,11.9,21,95577149987,2.6600,27
+1321,Lake,8,16.9,0,15.8,8,Lake Corned Beef,1,16.7,4.13,20.4,55201718211,2.4900,8
+1322,Lake,13,6.66,1,5.65,8,Lake Sliced Turkey,0,21.8,11.4,21.5,94018571972,3.2000,6
+1323,Lake,7,10.5,1,8.5,8,Lake Sliced Ham,1,9.99,13.1,4.36,22880906462,2.9400,29
+1324,Lake,7,13.5,0,11.5,16,Lake Potato Salad,0,20.9,20.2,10.4,54837656617,3.3100,29
+1325,Lake,5,12.8,1,9.8,8,Lake Sliced Chicken,0,15.5,14.9,9.48,19035627245,1.4300,25
+1326,Giant,9,9.05,1,7.05,66,Giant Small Brown Eggs,0,18.6,20.5,20.8,86328013539,1.7100,20
+1327,Giant,7,18.8,0,16.7,66,Giant Large Brown Eggs,0,4.8,18.2,4.33,43665880560,3.8400,33
+1328,Giant,10,12.2,1,10.1,66,Giant Small Eggs,0,13.7,5.81,3.69,21174731850,2.2600,35
+1329,Giant,9,19.8,1,16.7,66,Giant Large Eggs,1,5.76,21,22.6,13848235011,1.6500,27
+1330,Giant,13,10.9,1,9.89,66,Giant Egg Substitute,1,15.4,7.37,10.5,19616153836,1.3300,33
+1331,Carrington,6,10.3,0,8.3,34,Carrington Low Fat Waffles,1,15,22,7.86,95429553389,2.7400,29
+1332,Carrington,12,14.7,0,12.6,110,Carrington Orange Popsicles,1,10.5,8.17,20.8,46533108353,0.6900,14
+1333,Carrington,12,9.92,1,8.92,100,Carrington Frozen Chicken Breast,1,11.3,5.89,19.3,91584274172,0.9300,21
+1334,Carrington,12,19.7,0,17.7,29,Carrington Frozen Pancakes,1,15,22.4,12.1,11925595402,1.8400,17
+1335,Carrington,11,8.15,0,6.14,63,Carrington Low Fat French Fries,0,8.1,3.05,15.1,92312397360,2.4100,7
+1336,Carrington,14,18.8,0,17.7,64,Carrington Frozen Sausage Pizza,1,21.6,9.63,21.3,95793614983,3.3900,17
+1337,Carrington,12,7.64,1,5.63,34,Carrington Blueberry Waffles,0,4.5,13.5,8.84,20035340189,0.5700,22
+1338,Carrington,9,16.1,0,14.1,63,Carrington Fajita French Fries,1,18.7,18.8,3.58,58852193951,2.2200,29
+1339,Carrington,7,10.4,1,8.39,34,Carrington Waffles,1,14.8,20.9,16.3,77714528441,1.3100,32
+1340,Carrington,7,12.1,1,11.1,64,Carrington Frozen Pepperoni Pizza,1,21.2,13.5,14.8,85769148468,2.5700,35
+1341,Carrington,14,19.2,1,18.2,64,Carrington Frozen Cheese Pizza,1,8.42,14.3,12.8,73869249224,3.4500,12
+1342,Carrington,10,18.5,0,15.5,64,Carrington Frozen Mushroom Pizza,0,10.4,22.4,13.8,51161635518,3.7300,5
+1343,Carrington,7,13.7,1,11.6,34,Carrington Apple Cinnamon Waffles,1,6.27,17.9,11,98499502539,2.8700,36
+1344,Carrington,9,9.89,0,7.89,60,Carrington Frozen Carrots,1,4.36,3.5,4.05,45029655098,1.5200,19
+1345,Carrington,8,10.2,1,9.19,10,Carrington Turkey TV Dinner,0,18.6,20.4,6.02,37703158259,3.6800,14
+1346,Carrington,12,9.06,0,6.06,10,Carrington Chicken TV Dinner,1,20.8,12.8,12.9,98351905941,2.3500,2
+1347,Carrington,9,21.2,1,20.2,10,Carrington Beef TV Dinner,1,16.4,21.7,14.5,60263175368,1.7700,2
+1348,Carrington,13,14.5,1,13.5,28,Carrington Pancake Mix,0,15.8,9.08,10.7,35268860459,2.4700,23
+1349,Carrington,11,12.5,1,10.5,110,Carrington Grape Popsicles,0,5.87,4.77,22.8,56417896151,2.9000,11
+1350,Carrington,12,6.87,0,5.86,63,Carrington Home Style French Fries,0,9.52,3.53,5.39,90661347508,0.9200,7
+1351,Carrington,13,20.2,0,18.2,110,Carrington Lime Popsicles,0,19.6,15.8,16.4,81048149466,1.6700,21
+1352,Carrington,10,17.7,1,14.7,9,Carrington Ice Cream,1,22.3,20.4,16.3,84529367089,2.6500,18
+1353,Carrington,7,13.9,0,12.8,9,Carrington Ice Cream Sandwich,1,22.9,20.4,17.7,44153935313,2.2400,19
+1354,Carrington,7,9.18,0,8.18,60,Carrington Frozen Cauliflower,0,6.31,3.69,6.2,47851617932,1.4800,1
+1355,Carrington,9,17.2,0,15.2,60,Carrington Frozen Broccoli,1,8.18,15.6,7.34,66713952422,0.6300,26
+1356,Carrington,8,11.9,0,9.89,60,Carrington Frozen Corn,0,6.59,14.5,4.8,74768572449,1.6000,10
+1357,Carrington,13,21.8,1,19.7,60,Carrington Frozen Peas,1,22.8,13.2,16.4,62868673205,2.7100,3
+1358,Carrington,8,11.5,0,8.5,9,Carrington Popsicles,0,17.9,7.24,16.4,40161059498,2.1000,13
+1359,Carrington,6,21.5,1,19.5,100,Carrington Frozen Chicken Thighs,1,9.27,8.19,6.07,87498926520,1.2400,12
+1360,Carrington,7,9.4,1,8.39,100,Carrington Frozen Chicken Wings,0,19.9,19.8,18,34029079079,2.4200,11
+1361,Carrington,8,11.5,0,9.5,110,Carrington Lemon Popsicles,1,13.6,19.1,9.66,26702582240,1.8100,6
+1362,Hilltop,10,13.1,0,10.1,78,Hilltop Silky Smooth Hair Conditioner,0,5.04,9.54,10.2,87351329922,1.4900,9
+1363,Hilltop,13,8.5,0,6.5,39,Hilltop Tartar Control Toothpaste,0,21.4,11.4,8.23,49262599349,2.6600,6
+1364,Hilltop,13,19.8,0,17.7,39,Hilltop Whitening Toothpast,1,12.7,7.88,17.1,24268284440,1.6000,29
+1365,Hilltop,12,6.18,0,4.17,39,Hilltop Toothpaste,1,12,9.15,8.59,45417320132,0.5300,24
+1366,Hilltop,10,17.2,0,15.2,39,Hilltop Deodorant,0,13.6,21,21.6,79660771489,2.7600,30
+1367,Hilltop,10,16.3,0,13.2,79,Hilltop Conditioning Shampoo,0,8.92,5.39,15.8,70047573447,3.5700,19
+1368,Hilltop,9,18.6,0,16.6,79,Hilltop Extra Moisture Shampoo,1,8.21,6.66,7.35,73528791069,3.5500,14
+1369,Hilltop,7,13.7,0,10.6,88,Hilltop Angled Toothbrush,1,9.77,18.5,20.3,99251229166,3.3800,20
+1370,Hilltop,6,16,0,13,79,Hilltop Apricot Shampoo,1,9.06,19.7,11.8,71970213055,2.3800,16
+1371,Hilltop,12,6.4,0,4.4,70,Hilltop Childrens Aspirin,1,16.9,8.09,15.4,78147458434,2.4700,33
+1372,Hilltop,13,6.49,0,4.48,70,Hilltop Buffered Aspirin,1,21.9,8.08,13.7,86202078461,2.4900,10
+1373,Hilltop,12,8.77,0,7.77,71,Hilltop 200 MG Ibuprofen,1,21.2,9.35,5.21,74302179217,3.6000,5
+1374,Hilltop,9,18.9,0,17.8,72,Hilltop 200 MG Acetominifen,1,13,5.6,14.1,51594565510,2.8900,23
+1375,Hilltop,11,21.1,0,19.1,73,Hilltop HCL Nasal Spray,1,12.3,6.87,5.63,75030302405,2.1300,25
+1376,Hilltop,14,21.5,0,18.5,73,Hilltop Dishwasher Detergent,1,12.2,16.9,8.96,45462585091,1.6800,22
+1377,Hilltop,10,10.6,0,8.6,75,Hilltop Multi-Symptom Cold Remedy,1,20.6,5.03,12.6,38136088252,2.8300,4
+1378,Hilltop,13,12.9,0,9.89,75,Hilltop Childrens Cold Remedy,1,19.9,6.3,4.06,43904007077,0.7300,6
+1379,Hilltop,11,9.26,0,8.26,74,Hilltop Laundry Detergent,0,6.52,5.76,22.5,95815276503,1.9200,15
+1380,Hilltop,7,19.3,0,16.2,74,Hilltop Mint Mouthwash,0,18.3,22,11.5,35438118577,3.6200,32
+1381,Sunset,9,21.6,0,20.6,80,Sunset 60 Watt Lightbulb,0,17.6,3.28,22.9,56587154269,2.1700,34
+1382,Sunset,8,21.7,0,19.7,56,Sunset Plastic Forks,1,22.6,3.27,21.3,90830605626,1.1300,5
+1383,Sunset,10,19,0,17,56,Sunset Plastic Spoons,0,18.5,16.4,7.48,81217407584,2.5900,7
+1384,Sunset,7,13.1,0,11.1,56,Sunset Plastic Knives,0,10.3,12.6,16.4,84698625206,2.5700,24
+1385,Sunset,14,14.5,0,12.5,101,Sunset C-Size Batteries,1,14.8,12.8,14.7,20421063303,2.4000,29
+1386,Sunset,7,16.7,0,13.7,80,Sunset 100 Watt Lightbulb,1,14.1,14.1,6.17,83140047192,1.6400,31
+1387,Sunset,13,10.9,0,8.89,101,Sunset AAA-Size Batteries,1,5.96,10.3,15.1,12002381682,3.4900,14
+1388,Sunset,11,13.2,0,11.1,55,Sunset Paper Plates,1,5.24,11.6,6.59,20057001709,1.7500,9
+1389,Sunset,9,13.6,0,11.6,55,Sunset Paper Cups,1,5.11,21.6,9.92,63037931323,2.6300,12
+1390,Sunset,5,18.7,0,16.7,80,Sunset 75 Watt Lightbulb,1,13.5,9.77,13.5,40330317616,1.9100,30
+1391,Sunset,13,20.9,0,19.8,22,Sunset Toilet Bowl Cleaner,1,12.8,11,5.02,63766054511,1.1600,26
+1392,Sunset,6,21,0,18,22,Sunset Counter Cleaner,0,17.8,11,3.36,10296207070,0.8300,2
+1393,Sunset,11,16.4,0,14.3,22,Sunset Glass Cleaner,1,9.13,7.46,12.2,26871840357,1.8500,19
+1394,Sunset,10,18.7,0,16.7,80,Sunset 25 Watt Lightbulb,1,8.42,8.73,3.72,32639759182,2.5300,15
+1395,Sunset,14,17.9,0,14.8,101,Sunset AA-Size Batteries,1,3.7,13.1,17.9,84551028609,2.9500,10
+1396,Sunset,13,15.1,0,12.1,101,Sunset D-Size Batteries,0,19.5,6.25,4.14,59556713700,2.6500,5
+1397,Sunset,7,10.2,0,7.19,18,Sunset Paper Towels,0,21.1,18.1,17.1,45586578249,1.4300,5
+1398,Sunset,11,9.38,0,8.38,18,Sunset Soft Napkins,1,16.4,22.4,11.4,79830029606,3.1500,35
+1399,Sunset,10,11.6,0,10.6,18,Sunset Scented Tissue,1,15.6,3.76,22.8,70216831564,1.7800,31
+1400,Sunset,13,8,0,7,18,Sunset Toilet Paper,0,16.7,15.8,15.8,49795919060,0.8600,29
+1401,Sunset,7,10.2,0,8.19,18,Sunset Tissues,0,16,17,7.32,99420487284,1.5900,31
+1402,Sunset,7,9.43,0,7.43,18,Sunset Scented Toilet Tissue,0,11.2,21.4,21.5,72139471173,2.5900,20
+1403,Sunset,6,15.7,0,13.6,20,Sunset Room Freshener,1,4.29,15.2,14.2,67099675536,2.4400,11
+1404,Sunset,8,18,0,15,40,Sunset Frying Pan,0,3.58,16.5,5.75,99056425690,2.7100,12
+1405,Sunset,8,17.2,0,14.2,87,Sunset Copper Cleaner,0,18.8,20.8,20,63254396319,0.8900,1
+1406,Sunset,12,12.2,0,9.19,47,Sunset Bees Wax Candles,1,20.4,12.7,13,29329741597,0.5600,36
+1407,Sunset,5,14.5,0,13.5,87,Sunset Silver Cleaner,1,19.7,14,4.5,52765478491,0.6300,3
+1408,Sunset,5,9.92,0,7.92,86,Sunset Copper Pot Scrubber,0,16.5,17.8,18.9,89295631051,2.6500,29
+1409,Sunset,13,7.18,0,6.17,85,Sunset Economy Toilet Brush,0,12.4,11,5.1,15871264338,0.5300,25
+1410,Sunset,13,17.3,0,15.2,41,Sunset Scissors,0,4.28,7.24,14,21639183163,1.7200,14
+1411,Sunset,11,17.4,0,15.3,42,Sunset Large Sponge,1,9.27,7.24,12.4,73550452589,1.9000,19
+1412,Sunset,10,19.6,0,17.6,41,Sunset Screw Driver,1,8.56,8.51,3.85,48556137681,1.8300,15
+1413,Gerolli,10,13.8,1,11.8,65,Gerolli Extra Lean Hamburger,1,20.4,4.76,12.8,69705173373,3.3800,4
+1414,Gerolli,9,19.5,0,17.5,65,Gerolli Seasoned Hamburger,1,8,17.6,3.79,13948624730,1.3400,26
+1415,Gauss,11,13.7,0,10.6,104,Gauss Monthly Sports Magazine,1,11.5,8.72,19.2,83909401297,3.8000,12
+1416,Gauss,8,16.1,0,15.1,108,Gauss Monthly Auto Magazine,1,10.8,18.8,9.19,63488488793,2.7800,14
+1417,Gauss,8,15.6,0,13.6,107,Gauss Monthly Computer Magazine,0,20.9,22.1,6.97,23113057017,3.6100,29
+1418,Gauss,11,13.3,0,12.3,105,Gauss Monthly Home Magazine,0,11.7,14.2,16.6,85832040905,1.6100,10
+1419,Gauss,12,15.7,0,13.6,106,Gauss Monthly Fashion Magazine,1,10.9,4.39,6.6,80792245268,0.8300,17
+1420,Hermanos,12,15.2,1,12.1,61,Hermanos Summer Squash,0,21.1,7.69,4.39,22748995423,1.7300,32
+1421,Hermanos,9,13.7,1,10.6,61,Hermanos Corn on the Cob,0,5.99,20,17.1,76946966052,2.8400,11
+1422,Hermanos,12,8.02,0,6.02,61,Hermanos Asparagus,1,9.65,9.96,21.1,78141482472,2.2300,1
+1423,Hermanos,9,14.1,1,13.1,61,Hermanos Sweet Peas,0,16.9,18.5,6.11,42555918097,2.3700,22
+1424,Hermanos,13,17.2,0,15.2,61,Hermanos New Potatos,1,17.9,7.88,11.8,79086070656,3.9100,11
+1425,Hermanos,10,18.3,0,17.2,61,Hermanos Beets,0,21.9,7.13,20,95661703944,2.1800,17
+1426,Hermanos,13,13.1,1,12.1,61,Hermanos Prepared Salad,0,10.4,11.4,4.99,11429622769,3.7400,21
+1427,Hermanos,9,16.1,0,14.1,61,Hermanos Onions,1,8.91,6.41,22.3,63340892195,3.2700,31
+1428,Hermanos,6,17.3,0,16.2,61,Hermanos Green Pepper,0,20.4,11.2,18.8,38346577286,3.8600,34
+1429,Hermanos,9,7.06,0,5.05,61,Hermanos Shitake Mushrooms,1,17.9,3.06,21.5,59495612978,2.4000,29
+1430,Hermanos,5,18.7,1,15.7,61,Hermanos Lettuce,1,6.13,11.9,12.4,93739064335,3.3600,33
+1431,Hermanos,6,9.75,1,7.75,61,Hermanos Elephant Garlic,1,8.3,17.1,11.3,84125866293,2.8200,4
+1432,Hermanos,8,8.22,0,7.22,61,Hermanos Red Pepper,0,20.6,21.7,14.5,52487912774,1.8000,12
+1433,Hermanos,6,16.2,1,14.2,61,Hermanos Garlic,0,7.54,15.9,16.9,12112480998,2.6300,30
+1434,Hermanos,11,18.3,1,16.2,61,Hermanos Potatos,1,13.7,22.9,18,74831464886,0.9300,30
+1435,Hermanos,7,17.2,1,16.2,61,Hermanos Cauliflower,0,18.5,20.9,14.8,69791669249,2.7200,28
+1436,Hermanos,9,13.8,1,12.8,61,Hermanos Tomatos,1,21.4,21,8.81,11748419404,0.9200,33
+1437,Hermanos,14,11.3,1,8.3,61,Hermanos Mushrooms,0,17,10.8,15.3,65946390032,1.7400,30
+1438,Hermanos,6,8.33,0,6.32,61,Hermanos Baby Onion,0,9.84,18.6,13,43238776326,1.3700,1
+1439,Hermanos,6,9.99,0,7.98,61,Hermanos Dried Mushrooms,0,13.7,21.2,22.4,90576643347,1.5000,11
+1440,Hermanos,6,10.7,0,8.69,61,Hermanos Fresh Lima Beans,0,20.3,20.4,16.5,37106795907,2.8100,9
+1441,Hermanos,5,14.6,0,13.6,61,Hermanos Squash,1,13.5,17.7,18.4,83193079829,1.3100,2
+1442,Hermanos,12,17.2,0,16.2,99,Hermanos Limes,0,14.6,8.15,22.3,88960998654,1.6400,29
+1443,Hermanos,11,6.96,1,3.96,67,Hermanos Firm Tofu,1,22.2,21,13.2,74774398207,2.1700,15
+1444,Hermanos,13,11.2,1,9.19,1,Hermanos Almonds,1,17.7,13.8,8.44,49780083298,1.7600,23
+1445,Hermanos,13,8.69,0,7.68,99,Hermanos Macintosh Apples,0,7.77,11.8,10.2,70929118990,0.7400,11
+1446,Hermanos,8,7.09,0,6.09,99,Hermanos Golden Delcious Apples,0,5.15,18.6,14.7,81270440220,1.2600,31
+1447,Hermanos,13,16.5,1,14.5,99,Hermanos Red Delcious Apples,0,21.5,11.7,22.3,71657242178,2.9600,27
+1448,Hermanos,9,6.79,1,4.78,99,Hermanos Lemons,0,6.53,22.4,4.48,75138459801,3.9400,23
+1449,Hermanos,6,17.5,1,14.5,99,Hermanos Fancy Plums,1,22.5,14.6,20.5,34763028025,0.8700,21
+1450,Hermanos,6,17.4,0,16.3,99,Hermanos Plums,1,14.4,11.5,10,62362840771,2.7700,31
+1451,Hermanos,10,17.1,1,15.1,99,Hermanos Peaches,1,3.83,10.7,3.29,81225175261,1.6200,9
+1452,Hermanos,6,8.68,0,6.68,61,Hermanos Broccoli,0,3.35,13.7,13.4,23181925415,2.8900,36
+1453,Hermanos,14,17.6,1,16.6,99,Hermanos Mandarin Oranges,1,9.93,10.2,18.8,77379896044,3.1100,18
+1454,Hermanos,9,17.4,1,15.3,1,Hermanos Mixed Nuts,1,11.8,16,10.1,54672282338,3.3900,11
+1455,Hermanos,13,16.8,0,15.7,1,Hermanos Canned Peanuts,1,21.4,8.5,7.84,12010149359,2.5300,30
+1456,Hermanos,11,9.71,0,8.71,61,Hermanos Sweet Onion,1,15.5,3.84,5.91,48540301918,1.8300,6
+1457,Hermanos,10,21.3,1,19.2,99,Hermanos Cantelope,0,21.2,7.15,6.81,41213805079,3.3400,16
+1458,Hermanos,11,21.6,1,18.6,99,Hermanos Honey Dew,1,8.08,7.44,19,77696750760,2.9000,17
+1459,Hermanos,9,19.1,0,17.1,99,Hermanos Fuji Apples,1,8.24,6.43,9.02,63510150313,1.4300,29
+1460,Hermanos,14,11.1,0,8.1,1,Hermanos Walnuts,1,17.5,7.34,12.8,14613705277,2.1300,29
+1461,Hermanos,12,15,1,14,99,Hermanos Oranges,1,20.6,11.2,13.6,59664871096,2.5600,34
+1462,Hermanos,7,16.2,0,13.2,99,Hermanos Tangerines,0,7.19,16,11.7,70006192326,0.7300,35
+1463,Hermanos,11,12.4,0,9.39,1,Hermanos Party Nuts,1,12.7,7.12,13,60392994284,1.9800,12
+1464,Amigo,6,21.4,0,18.3,24,Amigo Lox,1,6.85,15.7,8.91,63874211907,2.9600,23
+1465,Amigo,6,7.92,1,6.92,2,Amigo Scallops,0,15.4,14,3.99,23498780131,2.7900,9
+1466,Fort West,14,11.7,0,8.69,45,Fort West Low Fat Cookies,1,21.5,16.5,12.6,62315633893,1.8000,3
+1467,Fort West,6,16.1,1,14.1,12,Fort West BBQ Potato Chips,1,4.55,10.4,16.7,81177968382,3.8800,10
+1468,Fort West,10,12.2,1,11.1,12,Fort West Corn Chips,1,12.6,22.6,8.69,78015547394,1.2600,17
+1469,Fort West,9,19.3,0,17.2,12,Fort West Low Fat BBQ Chips,0,19.8,18.9,7.43,66115648150,2.1300,35
+1470,Fort West,12,21.8,0,19.7,45,Fort West Sugar Cookies,1,10.8,22.7,12.4,43408034443,2.4100,9
+1471,Fort West,10,18,0,17,45,Fort West Chocolate Chip Cookies,0,16.4,9.43,14.4,90745901465,1.5500,15
+1472,Fort West,11,8.28,0,6.27,45,Fort West Fudge Cookies,1,21.4,4.58,15.8,37276054024,2.2000,17
+1473,Fort West,9,6.68,1,4.67,45,Fort West Fudge Brownies,0,16.2,5.85,10.4,29949557185,2.3600,7
+1474,Fort West,14,16,0,15,12,Fort West Potato Chips,1,15.1,12.4,21.6,35717476010,2.1500,30
+1475,Fort West,6,16.2,0,14.2,45,Fort West Lemon Cookies,0,4.43,9.37,5.26,87628745436,3.5600,19
+1476,Fort West,7,8.77,1,7.77,45,Fort West Graham Crackers,0,13.6,12.4,18.7,93613129258,2.2600,22
+1477,Fort West,12,16.3,1,14.2,82,Fort West Cheese Crackers,1,15.6,9.92,17.2,24762164950,2.7000,25
+1478,Fort West,6,9.31,1,7.31,54,Fort West Buttered Popcorn,0,14.7,20.8,14.4,59005616307,2.6600,7
+1479,Fort West,5,18.3,1,16.2,54,Fort West No Salt Popcorn,1,16.3,6.15,19.9,49392418265,1.4600,24
+1480,Fort West,6,21.2,1,19.2,54,Fort West Low Fat Popcorn,0,12.1,16.7,18.8,52873635888,1.4400,32
+1481,Fort West,5,10.5,1,9.5,83,Fort West Salsa Dip,1,9.92,12.9,7.58,12498204112,1.9300,34
+1482,Fort West,5,19.9,0,17.8,83,Fort West Avocado Dip,1,13.8,18.2,5.64,51315057873,0.6000,24
+1483,Fort West,8,11,1,10,46,Fort West Salted Pretzels,1,6.02,10.1,3.46,70177392363,2.1300,20
+1484,Fort West,11,11.2,0,9.19,83,Fort West Cheese Dip,1,7.83,6,18.1,78232012391,0.6600,9
+1485,Fort West,10,8.76,0,6.76,83,Fort West Fondue Mix,1,22.9,22.7,6.77,55115072131,1.5000,6
+1486,Fort West,13,19,0,18,84,Fort West Mini Donuts,1,6.64,12.6,10.7,32407458424,1.7800,31
+1487,Fort West,12,13.8,0,12.8,17,Fort West Beef Jerky,1,7.65,4.78,5.19,79745325446,0.9500,6
+1488,Fort West,10,12.2,1,9.19,84,Fort West Chocolate Donuts,0,14.9,10.5,21.4,26275478005,2.3400,34
+1489,Fort West,11,13.3,0,11.3,12,Fort West Low Fat Chips,1,18.9,9.82,9.74,18948981165,1.7300,12
+1490,Fort West,12,9.14,1,6.14,82,Fort West Sesame Crackers,0,17.1,9.79,18.7,24716899991,1.4000,33
+1491,Fort West,10,17.1,1,14.1,45,Fort West Frosted Cookies,0,19,12.8,21.3,76628169417,2.5800,26
+1492,Fort West,13,12.4,1,10.3,109,Fort West Dried Apples,1,17.4,13.8,8.44,51633854508,1.5200,23
+1493,Fort West,11,6.78,1,4.78,109,Fort West Apple Fruit Roll,0,8.57,9.32,20.6,72782890200,3.9600,13
+1494,Fort West,8,18.4,1,15.3,109,Fort West Strawberry Fruit Roll,0,16.8,18.1,11.4,47741368412,1.6800,17
+1495,Fort West,12,15.3,1,12.3,109,Fort West Raspberry Fruit Roll,1,12.5,9.09,16.2,38128170371,3.4800,12
+1496,Fort West,11,20.1,0,19.1,109,Fort West Grape Fruit Roll,0,12.9,7.48,13.7,41609387993,2.4700,34
+1497,Fort West,9,12.1,0,10.1,109,Fort West Dried Dates,0,19.7,21.6,16.2,67331826090,3.2900,16
+1498,Fort West,8,8.32,0,6.31,109,Fort West Raisins,0,12.8,4.99,7.94,40050809979,2.3000,23
+1499,Fort West,9,7.18,0,6.17,109,Fort West Golden Raisins,0,17.6,22.9,4.74,58913144469,1.3900,14
+1500,Fort West,11,9.79,1,8.78,109,Fort West Dried Apricots,1,13.6,6.74,8.07,66967764496,2.4100,19
+1501,Fort West,10,10,0,8,84,Fort West Frosted Donuts,1,17.9,21.4,10.4,55067865252,2.5200,32
+1502,Gulf Coast,11,7.11,1,6.11,36,Gulf Coast Tasty Candy Bar,1,10.7,9.32,8.06,21143210530,2.8100,3
+1503,Gulf Coast,6,21.9,0,19.8,36,Gulf Coast Mint Chocolate Bar,1,20.4,19.5,16.1,44578947424,2.9400,22
+1504,Gulf Coast,11,21.8,0,19.7,36,Gulf Coast Malted Milk Balls,1,17.3,3.18,6.15,15011230111,1.5900,10
+1505,Gulf Coast,10,14.7,0,11.6,36,Gulf Coast Semi-Sweet Chocolate Bar,0,13.9,8.52,13.3,97684733271,2.7500,3
+1506,Gulf Coast,11,13.2,0,10.1,37,Gulf Coast Bubble Gum,0,21.3,6.46,16,13452652096,3.4300,5
+1507,Gulf Coast,8,18.9,0,16.8,38,Gulf Coast Spicy Mints,1,8.9,19.3,7,65363921523,1.8400,14
+1508,Gulf Coast,13,10.9,0,7.89,38,Gulf Coast Mints,1,3.27,14.6,18.4,40369606614,3.5400,33
+1509,Gulf Coast,12,19.3,0,17.2,36,Gulf Coast White Chocolate Bar,1,15,9.94,3.98,61518642306,2.9800,24
+1510,Jardon,7,17.7,1,15.7,5,Jardon Ravioli,1,12.3,16.7,8.47,95762093663,0.9600,9
+1511,Jardon,5,11.5,1,9.5,5,Jardon Manicotti,1,18.5,14.4,11.9,49561676383,1.2000,22
+1512,Jardon,13,13.7,0,10.6,5,Jardon Spaghetti,1,9.81,12.6,12.8,53042894005,0.5400,28
+1513,Jardon,5,13.5,0,11.5,57,Jardon Thai Rice,1,9.26,12.9,14.3,78765332102,1.9000,33
+1514,Jardon,11,17.4,0,14.3,57,Jardon Rice Medly,0,14.9,22.3,5.02,51484315991,0.5800,32
+1515,Top Measure,13,11.8,0,9.8,43,Top Measure Imported Beer,1,11,8.9,17,70346650481,1.1000,28
+1516,Top Measure,13,10,0,9,44,Top Measure Light Wine,0,16.6,13.2,8.01,78401270508,3.3600,35
+1517,Top Measure,11,12.2,0,11.1,44,Top Measure Chardonnay Wine,1,10.8,4.56,11,66501371264,0.5800,28
+1518,Top Measure,11,10.4,0,7.39,44,Top Measure Chablis Wine,1,16.3,8.88,22,43793757557,3.5200,34
+1519,Top Measure,10,17.3,0,16.2,44,Top Measure Merlot Wine,1,4.24,3.79,14.5,67229494452,0.8100,16
+1520,Top Measure,8,7.38,0,4.38,44,Top Measure Chardonnay,0,22.3,3.09,3.01,92542605996,2.3100,10
+1521,Top Measure,8,16.5,0,13.5,44,Top Measure White Zinfandel Wine,1,4.52,19.2,8.65,19118239283,0.7000,17
+1522,Top Measure,12,12.8,0,10.8,43,Top Measure Light Beer,0,10.6,12.3,11.4,24886158108,1.1400,24
+1523,Modell,13,21.9,1,19.8,27,Modell Pumpernickel Bread,1,12.8,8.55,17.1,76797427535,1.5600,31
+1524,Modell,6,10.3,1,9.3,27,Modell White Bread,1,8.32,14.6,10,51803112626,1.2600,10
+1525,Modell,10,15.5,1,13.5,27,Modell Rye Bread,1,16.4,10.6,15.6,72952148318,3.9300,23
+1526,Modell,5,15.3,1,14.3,26,Modell English Muffins,0,18.4,16.4,6.93,17195599675,1.6500,16
+1527,Modell,10,14.7,0,12.6,26,Modell Cranberry Muffins,0,8.02,8.86,4.65,97582401633,3.4600,36
+1528,Modell,7,7.28,0,4.28,26,Modell Muffins,1,7.24,14.1,17.7,77161489129,2.4400,27
+1529,Modell,5,13.9,0,12.8,25,Modell Bagels,1,9.54,9.35,13.3,67764756083,3.2700,1
+1530,Modell,7,14.2,0,12.1,26,Modell Blueberry Muffins,0,16.3,9.63,5.57,40483739972,1.2700,3
+1531,Modell,5,11.7,0,8.69,27,Modell Wheat Bread,1,16.5,8.63,15.5,35443944334,0.5100,6
+1532,CDR,6,8.7,0,7.69,49,CDR Sesame Oil,0,9.2,17.6,4.62,67400694489,1.3900,8
+1533,CDR,13,7.63,1,5.63,53,CDR Chunky Peanut Butter,1,8.93,13.4,20.1,31598665118,2.5000,13
+1534,CDR,8,8.77,1,7.77,51,CDR Hot Chocolate,0,15.4,18.2,18.2,32793181538,2.7800,14
+1535,CDR,11,10.3,0,8.3,50,CDR Brown Sugar,1,19.3,7.49,9.86,56228918433,2.9200,23
+1536,CDR,11,6.43,1,4.42,50,CDR White Sugar,0,17.4,13,22.8,92759070992,1.3300,29
+1537,CDR,11,16.7,0,14.7,90,CDR French Roast Coffee,1,18.5,6.26,15.4,19334704279,2.7300,14
+1538,CDR,10,10.4,0,8.39,90,CDR Decaf Coffee,0,15.5,19.1,21.6,13621910214,3.4000,12
+1539,CDR,9,11.3,0,10.3,90,CDR Regular Coffee,1,10.2,21.4,6.3,65533179640,3.5800,35
+1540,CDR,6,21.4,0,19.3,49,CDR Vegetable Oil,1,17,18.8,8.36,40538864731,3.5200,8
+1541,CDR,13,21.2,1,18.2,49,CDR Corn Oil,1,8.97,11.3,18.5,61687900424,2.9500,19
+1542,CDR,10,8.22,1,6.22,48,CDR Tomato Sauce,1,7.42,6.28,15.8,95931351780,0.9500,19
+1543,CDR,12,20.4,1,18.3,49,CDR Canola Oil,1,15.5,22.9,7.07,86318153738,2.4800,25
+1544,CDR,7,17,1,16,33,CDR Grape Preserves,1,20.9,19.6,12.4,65897241234,1.4600,34
+1545,CDR,5,9.52,0,7.52,90,CDR Columbian Coffee,0,5.17,11.6,6.04,25521809458,2.2900,31
+1546,CDR,11,11.3,1,10.3,31,CDR Strawberry Jelly,0,4.5,19.6,6.36,88240793347,0.6100,33
+1547,CDR,9,16.1,0,14.1,4,CDR Pepper,1,12.3,19.1,12.9,48081826567,2.3800,14
+1548,CDR,5,21,0,19,33,CDR Low Fat Apple Butter,1,12.7,10.8,8.24,80038576722,0.6700,1
+1549,CDR,10,17.9,0,16.8,4,CDR Salt,0,3.05,8.67,16.7,44236547350,1.5200,19
+1550,CDR,6,7.7,1,4.69,33,CDR Apple Butter,0,8.14,16,17.7,45431063771,1.8100,17
+1551,CDR,7,15.3,0,13.3,4,CDR Oregano,0,15.1,20.1,16.8,68866800665,1.1600,32
+1552,CDR,8,21.4,0,20.3,31,CDR Apple Jelly,1,10.1,4.18,20.1,15396953225,2.7000,10
+1553,CDR,6,13.5,0,10.5,32,CDR Grape Jam,1,6.96,9.45,20.7,31972586512,1.8600,16
+1554,CDR,8,21,1,19,32,CDR Apple Jam,1,21.9,18.8,8.25,37740505337,2.5400,25
+1555,CDR,8,21.7,1,18.7,32,CDR Strawberry Jam,1,16,21.4,14.2,89651774764,2.9500,18
+1556,CDR,9,6.94,1,3.94,53,CDR Creamy Peanut Butter,1,17.5,3.98,11.1,29538288712,2.6500,7
+1557,CDR,6,15.4,0,13.3,33,CDR Strawberry Preserves,1,19.3,14.8,14.1,50687324404,1.2000,15
+1558,CDR,10,11.5,1,9.5,53,CDR Extra Chunky Peanut Butter,0,12.4,9.29,7.35,84930775761,2.1600,22
+1559,CDR,9,21,0,20,33,CDR Apple Preserves,0,18.8,20.2,15.3,75317577719,1.6200,7

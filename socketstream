@@ -7,7 +7,7 @@ while [ true ];
 do
     echo "while $i";
     #while read -r line; sleep 1; do echo $line | awk -F'\t' -v OFS='\t' '{print $0 $1 $2+$i}'; done < ./sales_observations | nc -lk localhost 9999
-    while read -r line; sleep 1; do echo $line | awk -F $'::' -v OFS='::' '{print $1,$2,$3+$1; }'; done < ./sales_observations| nc -lk localhost 9999
+    while read -r line; sleep 1; do echo $line | awk -F $'::' -v OFS='::' '{print $1,$2,$3+$1; }'; done < ./sales_observations| nc -lk 127.0.0.1 9999
     echo $line
     i=$((i+1));
 done

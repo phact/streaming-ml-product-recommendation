@@ -1,0 +1,25 @@
+#!/bin/bash
+
+set -x
+
+IP=$(ifconfig | awk '/inet/ { print $2 }' | egrep -v '^fe|^127|^192|^172|::' | head -1)
+IP=${IP#addr:}
+
+DL_SUFFIX=Linux-64bit
+INNER_SUFFIX=linux_amd64
+HUGO_VERSION=0.27
+
+if [[ $HOSTNAME == "node"* ]] ; then
+    #rightscale
+    IP=$(grep $(hostname)_ext /etc/hosts | awk '{print $1}')
+fi
+
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    # Mac OSX
+    IP=localhost
+    DL_SUFFIX=macOS-64bit
+    INNER_SUFFIX=macos-64bit
+fi
+
+
+curl -H "Accept-Encoding: gzip" -X POST -F 'file=@Streaming_ML_Product_Recommendation_2018-04-25_22_08_07.studio-nb.tar' http://"$IP":9091/api/v1/notebooks/import &> /dev/null

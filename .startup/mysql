@@ -1,0 +1,18 @@
+#!/bin/bash mysql
+
+set -x
+
+CONTAINER_ID=$(docker ps -a| grep mysql|awk '{print $1}')
+
+if [ ! -z ${CONTAINER_ID+x} ]; then
+  docker stop $CONTAINER_ID
+  docker rm $CONTAINER_ID
+fi
+
+PW=dse6rules
+
+docker run --name food-mysql -e MYSQL_ROOT_PASSWORD="$PW" -d mysql
+
+sleep 30
+
+docker exec -i food-mysql mysql -uroot -p"$PW" < foodmart_mysql.sql

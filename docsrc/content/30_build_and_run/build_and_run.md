@@ -1,17 +1,16 @@
 ---
-date: 2017-04-28T10:43:02
 title: Build and Run
-weight: 444401
+weight: 800
 menu:
   main:
     parent: Build and Run
     identifier: buildandrun
-    weight: 22
+    weight: 81
 ---
 
 Example for using DSE Streaming analytics for product recommendations
 
-##Startup Script
+## Startup Script
 
 This Asset leverages
 [simple-startup](https://github.com/jshook/simple-startup). To start the entire

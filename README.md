@@ -32,7 +32,7 @@ For a technical deep dive, take a look at the following sections:
 - Streaming analytics pipeline
 - Real-time JDBC / SQL (dynamic caching)
 
-##Startup Script
+## Startup Script
 
 This Asset leverages
 [simple-startup](https://github.com/jshook/simple-startup). To start the entire

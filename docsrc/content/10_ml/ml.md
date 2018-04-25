@@ -1,5 +1,4 @@
 ---
-date: 2017-04-28T10:43:02
 title: Machine Learning
 weight: 201
 menu:
