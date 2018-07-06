@@ -30,7 +30,6 @@ object SparkMLProductRecommendationStreamingJob extends DSECapable{
 
     // Set up schema
     setupSchema("recommendations", "predictions", "(user int, item int, preference float, prediction float, PRIMARY KEY((user), item))")
-    setupSchema("recommendations", "user_ratings", "(user int, item int, preference float PRIMARY KEY((user), item))")
 
     //Start sql context to read flat file
     val sqlContext = new SQLContext(sc)
@@ -84,9 +83,6 @@ object SparkMLProductRecommendationStreamingJob extends DSECapable{
 
       //val testStreamDF = rdd.map((x, y, z) => Rating((Long)x, (Long)y, (Float)z)).toDF()
       val testStreamDS = rdd.map((r:(Long,Long,Float)) => Rating(r._1, r._2, r._3)).toDS()
-
-      //write the ratings to a user ratings table
-      testStreamDS.write.cassandraFormat("predictions", "user_ratings").mode(SaveMode.Append).save
 
       val predictions = model.transform(testStreamDS).cache();
 

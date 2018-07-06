@@ -89,7 +89,7 @@ object SparkMLProductRecommendations extends DSECapable {
       val testStreamDS = rdd.map((r:(Long,Long,Float)) => Rating(r._1, r._2, r._3)).toDS()
 
       //write the ratings to a user ratings table
-      testStreamDS.write.cassandraFormat("predictions", "user_ratings").mode(SaveMode.Append).save
+      testStreamDS.write.cassandraFormat("user_ratings", "recommendations").mode(SaveMode.Append).save
 
       val predictions = model.transform(testStreamDS).cache();
 
