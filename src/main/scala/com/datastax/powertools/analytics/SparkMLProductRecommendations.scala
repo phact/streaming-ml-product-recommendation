@@ -29,7 +29,7 @@ object SparkMLProductRecommendations extends DSECapable {
     }
 
     // Create the context with a 1 second batch size
-    val sc = connectToDSE("SparkMLProductRecommendationServeJDBC")
+    val sc = connectToDSE("SparkMLProductRecommendation")
 
     // Set up schema
     setupSchema("recommendations", "predictions", "(user int, item int, preference float, prediction float, PRIMARY KEY((user), item))")
