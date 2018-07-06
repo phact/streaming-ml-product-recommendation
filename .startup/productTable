@@ -15,6 +15,7 @@ fi
 
 #cqlsh "$IP" -e << EOF
 cqlsh "$IP" -e "
+CREATE KEYSPACE recommendations WITH replication = {'class': 'SimpleStrategy', 'replication_factor': '1'}  AND durable_writes = true;
 create table  if not exists recommendations.product
 (product_class_id int,
 product_id int PRIMARY KEY,
