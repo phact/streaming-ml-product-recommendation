@@ -34,7 +34,7 @@ object SparkMLProductRecommendations extends DSECapable {
     // Set up schema
     setupSchema("recommendations", "predictions", "(user int, item int, preference float, prediction float, PRIMARY KEY((user), item))")
 
-    setupSchema("recommendations", "user_ratings", "(user int, item int, preference float PRIMARY KEY((user), item))")
+    setupSchema("recommendations", "user_ratings", "(user int, item int, preference float, PRIMARY KEY((user), item))")
 
     //Start sql context to read flat file
     val sqlContext = new SQLContext(sc)
