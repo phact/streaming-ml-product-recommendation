@@ -34,6 +34,8 @@ object SparkMLProductRecommendations extends DSECapable {
     // Set up schema
     setupSchema("recommendations", "predictions", "(user int, item int, preference float, prediction float, PRIMARY KEY((user), item))")
 
+    setupSchema("recommendations", "user_ratings", "(user int, item int, preference float PRIMARY KEY((user), item))")
+
     //Start sql context to read flat file
     val sqlContext = new SQLContext(sc)
 
@@ -85,6 +87,9 @@ object SparkMLProductRecommendations extends DSECapable {
       // Convert RDD[String] to RDD[case class] to DataFrame
       import spark.implicits._
       val testStreamDS = rdd.map((r:(Long,Long,Float)) => Rating(r._1, r._2, r._3)).toDS()
+
+      //write the ratings to a user ratings table
+      testStreamDS.write.cassandraFormat("predictions", "user_ratings").mode(SaveMode.Append).save
 
       val predictions = model.transform(testStreamDS).cache();
 
