@@ -21,5 +21,6 @@ if [[ "$OSTYPE" == "darwin"* ]]; then
     INNER_SUFFIX=macos-64bit
 fi
 
+FILENAME=Streaming_ML_Product_Recommendation_2018-07-09_14_37_48.studio-nb.tar
 
-curl -H "Accept-Encoding: gzip" -X POST -F 'file=@Streaming_ML_Product_Recommendation_2018-04-25_22_08_07.studio-nb.tar' http://"$IP":9091/api/v1/notebooks/import &> /dev/null
+curl -H "Accept-Encoding: gzip" -X POST -F 'file=@'$FILENAME http://"$IP":9091/api/v1/notebooks/import &> /dev/null
